@@ -7,33 +7,93 @@
     <meta name="keywords" content="ubc, best, biomedical, engineering, student, team, healthcare, imdi">
     <meta name="author" content="Rahat Dhande and Ryan Wong">
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="stylesheets/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700">
-    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
-
     <script src="scripts/jquery-2.2.1.min.js"></script>
     <script src="scripts/jquery-ui.min.js"></script>
     <script src="scripts/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="font-awesome-4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
+
     <title>best &middot biomedical engineering student team</title>
+
+    <link rel="shortcut icon" type="image/gif" href="img/best-logo-icon.gif">
 </head>
 <body>
 <header class="container">
     <div class="row">
-        <h1 class="col-sm-4">ubc best</h1>
+        <h2 class="col-sm-4"><img src="img/best-logo.gif">&nbsp;ubc&nbsp;best</h2>
         <nav class="col-sm-8 text-right">
-            <a href="landing-page.html">main</a>
-            <a href="teams.html">teams</a>
-            <a href="projects.html">projects</a>
+            <a href="landing-page.html"><i class="fa fa-fort-awesome">&nbsp;main</i></a>
+            <a href="teams.html"><i class="fa fa-users">&nbsp;teams</i></a>
+            <a href="projects.html"><i class="fa fa-briefcase">&nbsp;projects</i></a>
         </nav>
     </div>
 </header>
 
 <section class="jumbotron">
     <div class="container">
-
     </div>
 </section>
+
+<footer class="container">
+    <div class="row">
+        <h1 class="col-sm-10 col-sm-offset-1 text-center">Get in touch</h1>
+    </div>
+    <div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-12 social pad">
+            <h3>Social</h3>
+            <p>I'm like hey what's up hello...</p>
+            <div class="row">
+                <a class="col-sm-2" href="https://www.facebook.com/best.ubc/"><i class="fa fa-facebook-f fa-lg"></i></a>
+                <a class="col-sm-2" href="https://twitter.com/?lang=en"><i class="fa fa-twitter fa-lg"></i></a>
+                <a class="col-sm-2" href="https://www.linkedin.com/groups/6731158/profile"><i class="fa fa-linkedin fa-lg"></i></a>
+                <a class="col-sm-2" href="https://www.youtube.com/channel/UCZCLI82QrftkfttCCMFbUiw"><i class="fa fa-youtube-play fa-lg"></i></a>
+                <a class="col-sm-2" href="https://github.com/UBCBEST"><i class="fa fa-github fa-lg"></i></a>
+                <a class="col-sm-2" href="https://www.instagram.com/ubcengineers/"><i class="fa fa-instagram fa-lg"></i></a>
+            </div>
+            <h3>Donate</h3>
+            <p>Interested in helping support BEST?  Our work could not be possible without our generous donors.</p>
+            <a href="https://www.donate.startanevolution.ca/ea-action/action?ea.client.id=1730&ea.campaign.id=19413&Direct%20my%20Gift%20to%20Module=UBC%20Biomedical%20Engineering%20Student%20Team%20(BEST)%20G1236"
+               target="_blank" class="btn btn-default btn-sm">Donate</a>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 info pad">
+            <h3>Info</h3>
+            <p>
+                UBC BEST is a multidisciplinary student team of 80 students who are developing innovative solutions to identified challenges faced in the healthcare industry.
+            </p>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-map-marker"></i>&nbsp; Vancouver, British Columbia</li>
+                <li><i class="fa fa-envelope-o"></i>&nbsp; best.ubc@gmail.com</li>
+                <li><i class="fa fa-mobile-phone"></i>&nbsp; +01 (778) 862-0252</li>
+            </ul>
+        </div>
+        <form method="post" class="col-md-6 col-xs-12">
+            <h3>Contact</h3>
+            <div class="row">
+                <div class="form-group col-sm-4 col-xs-12">
+                    <label for="form-name"><i class="fa fa-user"></i>&nbsp; Name</label>
+                    <input type="text" class="form-control input-lg required" id="form-name" placeholder="John Doe">
+                </div>
+                <div class="form-group col-sm-4 col-xs-12">
+                    <label for="form-email"><i class="fa fa-envelope"></i>&nbsp; Email</label>
+                    <input type="email" class="form-control input-lg required" id="form-email" placeholder="john@example.com">
+                </div>
+                <div class="form-group col-sm-4 col-xs-12">
+                    <label for="form-subject"><i class="fa fa-pencil"></i>&nbsp; Subject</label>
+                    <input type="text" class="form-control input-lg required" id="form-subject" placeholder="Why I Love BEST">
+                </div>
+                <div class="form-group col-xs-12">
+                    <label for="form-message"><i class="fa fa-file-text"></i>&nbsp; Message</label>
+                    <textarea class="form-control" id="form-message" rows="5" placeholder="Message"></textarea>
+                </div>
+                <div class="form-group col-xs-12">
+                    <a class="btn btn-default btn-sm"><i class="fa fa-paper-plane"></i>&nbsp; Send</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</footer>
 
 </body>
 </html>
