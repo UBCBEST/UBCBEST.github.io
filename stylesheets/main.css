@@ -1,29 +1,10 @@
 body {
+    background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, 1.0), rgba(0, 0, 0, 0));;
 }
 
-header {
-    /*background-color: rgba(0, 0, 0, 0.2);*/
+.navbar-header, .navbar-collapse {
     background: repeating-linear-gradient(to bottom right, rgba(0, 0, 0, 1.0), rgba(0, 0, 0, 0));
-    position: fixed;
     color: white;
-}
-
-header img {
-    height: 1em;
-}
-
-header a:link {
-    color: inherit;
-}
-
-header .row {
-    display: flex;
-    align-items: center;
-}
-
-header nav {
-    display: flex;
-    justify-content: flex-end;
 }
 
 nav a {
@@ -44,8 +25,26 @@ nav a:hover {
     background: transparent;
 }
 
+.tab-pane {
+    padding: 3em;
+}
+
+.nav-tabs a {
+    color: #000;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover
+{
+    color: #b92c28;
+}
+
 footer ul li {
     padding: 1rem;
+}
+
+label {
+    color: #b92c28;
 }
 
 input[type=text], input[type=email] {
@@ -76,4 +75,12 @@ textarea {
 
 .social li {
     padding-right: 2.25rem;
+}
+
+.social a:link {
+    color: #000;
+}
+
+.social a:hover, .social a:visited {
+    color: #b92c28;
 }
