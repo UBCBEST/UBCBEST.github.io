@@ -1,8 +1,8 @@
 body {
 }
 
-header {
-
+header .container {
+    background-color: transparent;
 }
 
 header img {
@@ -25,6 +25,11 @@ header nav {
 
 header a {
     padding: 0 20px;
+}
+
+.parallax-window {
+    min-height: 2000px;
+    background: transparent;
 }
 
 footer ul li {
