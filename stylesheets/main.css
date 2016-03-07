@@ -1,8 +1,11 @@
 body {
 }
 
-header .container {
-    background-color: transparent;
+header {
+    /*background-color: rgba(0, 0, 0, 0.2);*/
+    background: repeating-linear-gradient(to bottom right, rgba(0, 0, 0, 1.0), rgba(0, 0, 0, 0));
+    position: fixed;
+    color: white;
 }
 
 header img {
@@ -23,12 +26,21 @@ header nav {
     justify-content: flex-end;
 }
 
-header a {
+nav a {
     padding: 0 20px;
+    color: #fff;
+}
+
+nav a:link, nav a:active {
+    color: #fff;
+}
+
+nav a:hover {
+    color: #b92c28;
 }
 
 .parallax-window {
-    min-height: 2000px;
+    min-height: 1500px;
     background: transparent;
 }
 
