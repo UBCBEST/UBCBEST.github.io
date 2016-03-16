@@ -11,10 +11,12 @@
     <script src="scripts/jquery-ui.min.js"></script>
     <script src="scripts/bootstrap.min.js"></script>
     <script src="scripts/angular.min.js"></script>
+    <script src="scripts/route.js"></script>
     <script src="scripts/parallax.min.js"></script>
     <script src="scripts/responsive-tabs.js"></script>
     <script src="scripts/custom.js"></script>
     <script src="angular/app.js"></script>
+    <script src="angular/directives/headerFooter.js"></script>
 
     <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="font-awesome-4.5.0/css/font-awesome.min.css">
@@ -30,7 +32,7 @@
     <div class="row">
         <h2 class="col-md-4">ubc&nbsp;<span style="color: #b92c28">best</span></h2>
         <nav class="col-md-8 text-right">
-            <a href="landing-page.html"><i class="fa fa-fort-awesome">&nbsp;main</i></a>
+            <a href="index.html"><i class="fa fa-fort-awesome">&nbsp;main</i></a>
             <a href="teams.html"><i class="fa fa-users">&nbsp;teams</i></a>
             <a href="projects.html"><i class="fa fa-briefcase">&nbsp;projects</i></a>
         </nav>
@@ -38,12 +40,14 @@
 </header>
 -->
 
-<div ng-include="'templates/header.html'"></div>
+<best></best>
+
+<!--<div ng-view></div>-->
 
 <section class="jumbotron parallax-window" data-parallax="scroll" data-image-src="img/landing-parallax.jpg">
 </section>
 
-<div ng-include="'templates/footer.html'"></div>
+<connect></connect>
 
 </body>
 </html>
