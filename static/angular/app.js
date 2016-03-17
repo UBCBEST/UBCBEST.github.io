@@ -3,13 +3,13 @@
         .config(function ($routeProvider) {
             $routeProvider
                 .when('/', {
-                    templateUrl: '/templates/welcome.html'
+                    templateUrl: 'static/angular/templates/welcome.html'
                 })
                 .when('/teams', {
-                    templateUrl: '/templates/teams.html'
+                    templateUrl: 'static/angular/templates/teams.html'
                 })
                 .when('/projects', {
-                    templateUrl: '/templates/projects.html'
+                    templateUrl: 'static/angular/templates/projects.html'
                 })
                 .otherwise({redirectTo: '/'});
         })
