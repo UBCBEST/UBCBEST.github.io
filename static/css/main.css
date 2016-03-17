@@ -27,6 +27,7 @@ nav a:hover {
 .parallax-window {
     min-height: 1500px;
     background: transparent;
+    color: #fff;
 }
 
 .tab-pane {
