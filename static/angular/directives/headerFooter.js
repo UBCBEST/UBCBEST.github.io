@@ -2,13 +2,12 @@ angular.module('main')
     .directive('best', function () {
         return {
             restrict: 'E',
-            templateUrl: 'angular/templates/header.html'
+            templateUrl: '../static/angular/templates/header.html'
         };
     })
     .directive('connect', function () {
         return {
             restrict: 'E',
-            templateUrl: 'angular/templates/footer.html'
+            templateUrl: '../static/angular/templates/footer.html'
         };
     });
-
