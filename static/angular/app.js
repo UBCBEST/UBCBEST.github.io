@@ -1,5 +1,5 @@
 (function () {
-    angular.module('main', ['ngRoute'])
+    angular.module('main', ['ngRoute', 'angular-parallax'])
         .config(function ($routeProvider) {
             $routeProvider
                 .when('/', {
