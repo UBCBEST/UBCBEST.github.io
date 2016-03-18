@@ -29,7 +29,7 @@ nav a:hover {
 }
 
 .teams {
-    background-image: url('../img/best-full-team.jpg');
+    background-image: url('../img/best-full-team (1).jpg');
 }
 
 .projects {
@@ -40,6 +40,7 @@ nav a:hover {
     background-attachment: fixed;
     background-position: 50% 0;
     background-repeat: no-repeat;
+    color: white;
 }
 
 .tab-pane {
@@ -63,7 +64,7 @@ footer i {
     color: #b92c28;
 }
 
-label {
+label > i {
     color: #b92c28;
 }
 
@@ -90,6 +91,59 @@ input[type=text], input[type=email] {
 textarea {
     resize: none;
     font-size: 1.5rem;
+}
+
+.ng-dirty.ng-invalid {
+    border-color: #b92c28;
+}
+
+.ng-dirty.ng-valid {
+    border-color: green;
+}
+
+/* Donate button animation */
+.event-action {
+    position: absolute;
+    overflow: hidden;
+}
+.event-action > .btn {
+    transition: all 0.4s;
+    width: 6em;
+    height: 2.5em;
+}
+.top.content {
+    position: absolute;
+    top: 7px;
+    left: 23%;
+}
+.bottom.content {
+    position: absolute;
+    top: 57px;
+    left: 42%;
+}
+.btn:hover .top {
+    top: -57px;
+}
+.btn:hover .bottom {
+    top: 7px;
+}
+.btn .content {
+    transition: top 0.4s;
+}
+
+/* Send button animation */
+.send {
+    overflow: hidden;
+}
+.fa-paper-plane {
+    position: relative;
+    top: 0px;
+    right: 0px;
+    transition: all 0.4s;
+}
+.send:hover .fa-paper-plane {
+    top: -25px;
+    right: -25px;
 }
 
 .pad {
