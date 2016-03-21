@@ -1,14 +1,10 @@
 body {
 }
 
-.navbar-header {
-    background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, 1.0), rgba(0, 0, 0, 0.5));
+.navbar {
+    background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.0));
     color: white;
-}
-
-.navbar-collapse {
-    background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0));
-    color: white;
+    border: none;
 }
 
 nav a {
@@ -16,7 +12,7 @@ nav a {
     color: #fff;
 }
 
-nav a:link, nav a:active {
+nav a:link, nav a:active, nav a:visited {
     color: #fff;
 }
 
