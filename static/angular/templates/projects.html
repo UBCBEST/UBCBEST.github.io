@@ -1,119 +1,321 @@
-<section parallax-background class="projects photo" parallax-ratio="0.5">
-    <div ng-controller="projectsController as ctrl">
-        <h4 class="row">
-            <div class="col-md-8 col-md-offset-2 text-center">
-                <p>I'm like, &quot;Hey, what's up? Hello.&quot;<br/>
-                    Seen your pretty ass soon as you came in the door<br/>
-                    I just wanna chill, got a sack for us to roll<br/>
-                    Married to the money, introduced her to my stove<br/>
-                    Showed her how to whip it, now she remixin' for low<br/>
-                    She my trap queen, let her hit the bando<br/>
-                    We be countin' up, watch how far them bands go<br/>
-                    We just set a goal, talkin' matchin' Lambos<br/>
-                    Got 50, 60 grand, prob' a hundred grams though<br/>
-                    Man, I swear I love her how she work the damn pole<br/>
-                    Hit the strip club, we be letting bands go<br/>
-                    Everybody hating, we just call them fans though<br/>
-                    In love with the money, I ain't ever letting go</p>
-
-                <p>[Hook:]<br/>
-                    And I get high with my baby<br/>
-                    I just left the mall, I'm getting fly with my baby, yeah<br/>
-                    And I can ride with my baby<br/>
-                    I be in the kitchen cooking pies with my baby, yeah<br/>
-                    And I can ride with my baby<br/>
-                    I just left the mall, I'm getting fly with my baby, yeah<br/>
-                    And I can ride with my baby<br/>
-                    I be in the kitchen cooking pies with my baby</p>
-
-                <p>(I'm like, &quot;Hey, what's up? Hello.&quot;)</p>
-
-                <p>[Verse 2:]<br/>
-                    I hit the strip with my trap queen 'cause all we know is bands<br/>
-                    I just might snatch a 'Rari and buy my boo a Lamb'<br/>
-                    I just might snatch her a necklace, drop a couple on a ring<br/>
-                    She ain't wanting for nothin' because I got her everything<br/>
-                    It's big Zoo Wap from the bando, without dinero can't go<br/>
-                    Remy boys got the stamp, count up hella them bands though<br/>
-                    How far can your bands go?<br/>
-                    Fetty Wap I'm living fifty thousand K how I stand though<br/>
-                    If you checking for my pockets I'm like</p>
-
-                <p>[Hook]</p>
-
-                <p>[Verse 1]</p>
-
-                <p>I be smoking dope and you know Backwoods what I roll<br/>
-                    Remy Boy, Fetty eating shit up that's fasho<br/>
-                    I'll run in ya house, then I'll fuck your hoe<br/>
-                    'Cause Remy Boyz or nothing, Re-Re-Remy Boyz or nothing</p>
-
-                <p>[Outro:]<br/>
-                    Yeah, you hear my boy<br/>
-                    Sounding like a zillion bucks on a track<br/>
-                    I got whatever on my boy, whatever<br/>
-                    Put your money where your mouth is<br/>
-                    Money on the wood make the game go good<br/>
-                    Money outta sight cause fights<br/>
-                    Put up or shut up</p>
-            </div>
-        </h4>
-    </div>
-</section>
-
-<section>
+<section class="projects tab-panel" ng-cloak>
+    <h1 class="text-right section-heading"><i class="fa fa-list-alt"></i> The Projects</h1>
+    <hr class="divider projects">
     <ul class="nav nav-tabs">
-        <li class="active"><a data-target="#donated" data-toggle="tab">DME</a></li>
-        <li><a data-target="#idea" data-toggle="tab">EMR</a></li>
-        <li><a data-target="#m2m" data-toggle="tab">M2M</a></li>
-        <li><a data-target="#ptm" data-toggle="tab">PTM</a></li>
-        <li><a data-target="#rrm" data-toggle="tab">RRM</a></li>
-        <li><a data-target="#ffrp" data-toggle="tab">FFR</a></li>
-        <li><a data-target="#mph" data-toggle="tab">MPH</a></li>
+        <li class="active"><a data-target="#donated" data-toggle="tab">
+            <span class="hidden-xs">Donated</span>
+            <span class="visible-xs"><i class="fa fa-hospital-o"></i></span>
+        </a></li>
+        <li><a data-target="#idea" data-toggle="tab">
+            <span class="hidden-xs">IDEA-EMR</span>
+            <span class="visible-xs"><i class="fa fa-database"></i></span>
+        </a></li>
+        <li><a data-target="#m2m" data-toggle="tab">
+            <span class="hidden-xs">M2M</span>
+            <span class="visible-xs"><i class="fa fa-music"></i></span>
+        </a></li>
+        <li><a data-target="#ptm" data-toggle="tab">
+            <span class="hidden-xs">Phototherapy</span>
+            <span class="visible-xs"><i class="fa fa-bolt"></i></span>
+        </a></li>
+        <li><a data-target="#rrm" data-toggle="tab">
+            <span class="hidden-xs">Respiratory Rate</span>
+            <span class="visible-xs"><i class="fa fa-mixcloud"></i></span>
+        </a></li>
+        <li><a data-target="#ffrp" data-toggle="tab">
+            <span class="hidden-xs">Femur</span>
+            <span class="visible-xs"><i class="fa fa-chain-broken"></i></span>
+        </a></li>
+        <li><a data-target="#mph" data-toggle="tab">
+            <span class="hidden-xs">Phone Holder</span>
+            <span class="visible-xs"><i class="fa fa-mobile-phone"></i></span>
+        </a></li>
     </ul>
 
     <div class="tab-content">
         <div class="tab-pane active" id="donated">
-            <h1>Donated Medical Equipment
-                <small>(donated)</small>
-            </h1>
-            <p>Here's what we're all about.</p>
+            <div class="pad">
+                <h1>
+                    <i class="fa fa-hospital-o hidden-xs"></i>
+                    Donated Medical Equipment
+                    <small>(donated)</small>
+                </h1>
+                <p class="lead project-desc">
+                    A common challenge encountered on the IMDI trip was with the use, maintenance and disposal of
+                    donated medical equipment. Studies have shown that as much of 70% of donated medical equipment
+                    is never put into use in recipient countries. There are many factors that contribute to this
+                    problem, for example a lack of training to use the equipment and technical manuals.
+                    Often technical considerations are not accounted for when equipment is donated – such as
+                    differences in voltage between countries, and power fluctuations common to low resource
+                    settings.
+                    This project aims to further research these challenges, as well as the donation practices of
+                    hospitals in Canada, and to identify possible avenues in which this challenge can be addressed
+                    and improved.
+                </p>
+            </div>
+
+            <div class="profile-wrapper">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in donated">
+                    <div class="contents">
+                        <div class="text-center">
+                            <h3>{[ member.name ]}</h3>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.position ]}</h3>
+                            <p class="lead">
+                                {[ member.year ]} Year {[ member.department ]}
+                                <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
+                            </p>
+                            <p>{[ member.desc ]}</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
         </div>
         <div class="tab-pane" id="idea">
-            <h1>IDEA-EMR</h1>
-            <p>Here's what we're all about.</p>
+            <div class="pad">
+                <h1>
+                    <i class="fa fa-database hidden-xs"></i>
+                    IDEA-EMR
+                    <small>(EMR)</small>
+                    </h1>
+                <p class="lead project-desc">
+                    The Infectious Disease and Emergency Aid Electronic Medical Records (IDEA EMR) project arose
+                    from a proposal generated in November 2014 to address the challenge of transferring and
+                    recording patient findings within Ebola Treatment Centers. This project is now developing an EMR
+                    that uses a local mesh network to record the findings of patients with infectious diseases such
+                    as Ebola.
+                </p>
+            </div>
+
+            <div class="profile-wrapper">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in idea_emr">
+                    <div class="contents">
+                        <div class="text-center">
+                            <h3>{[ member.name ]}</h3>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.position ]}</h3>
+                            <p class="lead">
+                                {[ member.year ]} Year {[ member.department ]}
+                                <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
+                            </p>
+                            <p>{[ member.desc ]}</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
         </div>
         <div class="tab-pane" id="m2m">
-            <h1>Music2Movement
-                <small>(M2M)</small>
-            </h1>
-            <p>Here's what we're all about.</p>
+            <div class="pad">
+                <h1>
+                    <i class="fa fa-music hidden-xs"></i>
+                    Music 2 Movement
+                    <small>(M2M)</small>
+                </h1>
+                <p class="lead project-desc">
+                    Approximately 800,000 people suffer from a stroke each year; about one every four seconds.
+                    Suffering a stroke results in the weakness and or loss of function in the body. Often times,
+                    those who have suffered from a stroke undergo a repetitive rehabilitation process in order to
+                    recover important daily functions. Music to Movement is a student body led initiative aimed at
+                    developing an assistive music therapy device that creates a more motivating and engaging
+                    experience towards recovery. One year since inception, Music to Movement has emerged through the
+                    collaboration of all the sub teams of UBC BEST, and the extensive research and guidance from our
+                    partnered music therapists.
+                </p>
+            </div>
+
+            <div class="profile-wrapper">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in m2m">
+                    <div class="contents">
+                        <div class="text-center">
+                            <h3>{[ member.name ]}</h3>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.position ]}</h3>
+                            <p class="lead">
+                                {[ member.year ]} Year {[ member.department ]}
+                                <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
+                            </p>
+                            <p>{[ member.desc ]}</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
         </div>
         <div class="tab-pane" id="ptm">
-            <h1>Phototherapy Monitor
-                <small>(PTM)</small>
-            </h1>
-            <p>Here's what we're all about.</p>
+            <div class="pad">
+                <h1>
+                    <i class="fa fa-bolt hidden-xs"></i>
+                    Phototherapy Monitor
+                    <small>(PTM)</small>
+                </h1>
+                <p class="lead project-desc">
+                    Phototherapy is a treatment used in Newborn Units in hospitals to treat babies with severe
+                    jaundice. During the treatment, infants are placed under phototherapeutic light, which is
+                    primarily blue, for a recommended 7 day period. On International Medical Device Initiative
+                    (IMDI) trip to East Africa in May 2015, multiple medical professionals in both Kenya and Uganda
+                    expressed the uncertainty in knowing if the bulbs used by the phototherapy units were working
+                    effectively.
+                    Although light is being emitted, there is no indication that there is enough blue
+                    light present for the treatment to be completed within the recommended time.
+                    <br><br>
+                    As bulbs degrade over time, they begin to produce less and less blue light.
+                    A consequence of insufficient blue light is that babies are left under the phototherapy light
+                    for longer than the recommended
+                    period of treatment. Such prolonged exposure to the intense light of phototherapy bulbs can
+                    cause
+                    skin damage.
+                    The end goal of the project is to create a device that can monitor the level of blue light being
+                    emitted from phototherapy bulbs, and notify the doctors and nurses if the bulb is functioning
+                    efficiently, or if it needs to be changed.
+
+                </p>
+            </div>
+
+            <div class="profile-wrapper">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in ptm">
+                    <div class="contents">
+                        <div class="text-center">
+                            <h3>{[ member.name ]}</h3>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.position ]}</h3>
+                            <p class="lead">
+                                {[ member.year ]} Year {[ member.department ]}
+                                <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
+                            </p>
+                            <p>{[ member.desc ]}</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
         </div>
+
         <div class="tab-pane" id="rrm">
-            <h1>Respiratory Rate Monitor
-                <small>(RRM)</small>
-            </h1>
-            <p>Here's what we're all about.</p>
+            <div class="pad">
+                <h1>
+                    <i class="fa fa-mixcloud hidden-xs"></i>
+                    Respiratory Rate Monitor
+                    <small>(RRM)</small>
+                </h1>
+
+                <p class="lead project-desc">
+                    The Respiratory Rate Monitor Project is based on a proposal from the team’s recent International
+                    Medical Device Initiative (IMDI), where 4 team members travelled to Uganda and Kenya in May 2015
+                    to speak to medical professionals about the challenges that they face in performing care for
+                    patients. The challenge was initially brought to the team by a paediatrician in Uganda who
+                    expressed the need for a device to actively monitor the respiratory rate of patients, and alert
+                    a healthcare professional when the rate drops, or if the breathing becomes shallow. Further
+                    investigation showed that often respiratory rate can be difficult to take, and is often
+                    neglected as a vital that should be actively monitored. The team hopes to develop a device to
+                    address these issues and optimize healthcare professionals’ ability to perform care.
+                </p>
+            </div>
+
+            <div class="profile-wrapper">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in rrm">
+                    <div class="contents">
+                        <div class="text-center">
+                            <h3>{[ member.name ]}</h3>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.position ]}</h3>
+                            <p class="lead">
+                                {[ member.year ]} Year {[ member.department ]}
+                                <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
+                            </p>
+                            <p>{[ member.desc ]}</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
         </div>
+
         <div class="tab-pane" id="ffrp">
-            <h1>Femur Fracture Research Project
-                <small>(FFRP)</small>
-            </h1>
-            <p>Here's what we're all about.</p>
+            <div class="pad">
+                <h1>
+                    <i class="fa fa-chain-broken hidden-xs"></i>
+                    Femur Fracture Research Project
+                    <small>(FFRP)</small>
+                </h1>
+
+                <p class="lead project-desc">
+                    Traction is commonly used in international and low resource settings to treat bone fractures, mainly
+                    femur fractures, by pulling the bones into alignment and maintaining that alignment for long periods
+                    of time. There are a number of challenges associated with this process. For example, patients can be
+                    immobile for up to 3 months while undergoing traction, which results in prolonged usage of hospital
+                    resources and bed space that is increasingly scarce. This project’s purpose is primarily to research
+                    the feasibility of designing a compact device that performs the same mechanics on the leg as
+                    traction, but allowing for more patient mobility and decreasing the fracture healing time, thus
+                    reducing hospital cost and resource depletion.
+                </p>
+            </div>
+
+            <div class="profile-wrapper">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in femur">
+                    <div class="contents">
+                        <div class="text-center">
+                            <h3>{[ member.name ]}</h3>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.position ]}</h3>
+                            <p class="lead">
+                                {[ member.year ]} Year {[ member.department ]}
+                                <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
+                            </p>
+                            <p>{[ member.desc ]}</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
         </div>
+
         <div class="tab-pane" id="mph">
-            <h1>Microscope Phone Holder
-                <small>(MPH)</small>
-            </h1>
-            <p>Here's what we're all about.</p>
+            <div class="pad">
+                <h1>
+                    <i class="fa fa-mobile-phone hidden-xs"></i>
+                    Microscope Phone Holder
+                    <small>(MPH)</small>
+                </h1>
+
+                <p class="lead project-desc">
+                    Diagnosis of malaria, tuberculosis, typhoid, and other blood borne diseases is a pressing issue in
+                    East Africa. Current diagnostic techniques are either not feasible in low resource settings, or
+                    lacking in accuracy.
+                    <br><br>
+                    To improve the effectiveness of diagnosing haematologic diseases in low resource settings, a
+                    research team in Uganda affiliated with Grand Challenges Canada is developing an image processing
+                    application that can help diagnose malaria. An image of the blood smear is magnified by a
+                    microscope, and the magnified image is captured using a mobile phone camera. This captured image is
+                    then analyzed by the application. The application marks certain features of the blood sample such as
+                    red blood cells, white blood cells, and plasma, to be examined later by doctors.
+                    <br><br>
+                    Our challenge, as the Microscope Phone Holder Attachment Team, is to design a mechanical device that
+                    aligns the attaches the phone and phone camera to the lens of a microscope. The phone needs to be
+                    attached firmly and securely to the microscope. At the same time, the phone’s position and alignment
+                    must be easy to adjust.
+                    <br><br>
+                    Our team of mechanical engineering and engineering physics students is currently working to design a
+                    convenient, stable, and adaptable ‘phone holder’ attachment for microscopes, that can be 3D printed
+                    on-site.
+                </p>
+            </div>
+
+            <div class="profile-wrapper">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in phone_holder">
+                    <div class="contents">
+                        <div class="text-center">
+                            <h3>{[ member.name ]}</h3>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.position ]}</h3>
+                            <p class="lead">
+                                {[ member.year ]} Year {[ member.department ]}
+                                <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
+                            </p>
+                            <p>{[ member.desc ]}</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
         </div>
+
     </div>
 </section>
-
-<hr class="divider">

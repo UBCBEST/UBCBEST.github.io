@@ -3,51 +3,103 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="BEST is UBC's Biomedical Engineering Student Team, dedicated to effect a positive impact on global healthcare.">
+    <meta name="description"
+          content="BEST is UBC's Biomedical Engineering Student Team, dedicated to effect a positive impact on global healthcare.">
     <meta name="keywords" content="ubc, best, biomedical, engineering, student, team, healthcare, imdi">
     <meta name="author" content="Rahat Dhande and Ryan Wong">
 
-    <script src="../static/assets/js/jquery-2.2.1.min.js"></script>
-    <script src="../static/assets/js/jquery-ui.min.js"></script>
-    <script src="../static/assets/js/bootstrap.min.js"></script>
-    <script src="../static/assets/js/angular.min.js"></script>
-    <script src="../static/assets/js/angular-route.js"></script>
-    <script src="../static/assets/js/angular-parallax.js"></script>
-    <script src="../static/assets/js/responsive-tabs.js"></script>
-    <script src="../static/angular/app.js"></script>
-    <script src="../static/angular/controllers/welcomeController.js"></script>
-    <script src="../static/angular/controllers/teamsController.js"></script>
-    <script src="../static/angular/controllers/projectsController.js"></script>
-    <script src="../static/angular/controllers/contactController.js"></script>
-    <script src="../static/angular/directives/headerFooter.js"></script>
+    <script src="/static/assets/js/jquery-2.2.1.min.js"></script>
+    <script src="/static/assets/js/jquery-ui.min.js"></script>
+    <script src="/static/assets/js/bootstrap.min.js"></script>
+    <script src="/static/assets/js/angular.min.js"></script>
+    <script src="/static/assets/js/angular-parallax.js"></script>
+    <script src="/static/assets/js/wow.min.js"></script>
 
-    <link rel="stylesheet" type="text/css" href="../static/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../static/assets/font-awesome-4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../static/css/main.css">
+    <link rel="stylesheet" href="/static/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/assets/font-awesome-4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/static/assets/css/animate.css">
+    <link rel="stylesheet" href="/static/css/main.css">
+
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 
     <title>best &middot biomedical engineering student team</title>
 
-    <link rel="shortcut icon" type="image/gif" href="../static/img/best-logo-icon.gif">
+    <link rel="shortcut icon" type="image/gif" href="/static/img/best-logo-icon.gif">
 </head>
-<body>
+<body id="page-top">
+
 <!--
-<header class="container">
-    <div class="row">
-        <h2 class="col-md-4">ubc&nbsp;<span style="color: #b92c28">best</span></h2>
-        <nav class="col-md-8 text-right">
-            <a href="index.html"><i class="fa fa-fort-awesome">&nbsp;main</i></a>
-            <a href="teams.html"><i class="fa fa-users">&nbsp;teams</i></a>
-            <a href="projects.html"><i class="fa fa-briefcase">&nbsp;projects</i></a>
-        </nav>
+<nav id="main-nav" class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#collapse-menu">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">UBC BEST</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="collapse-menu">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a class="page-scroll" href="#teams">Teams</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#services">Services</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#how-it-works">How it Works</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#signup">Sign Up</a>
+                </li>
+            </ul>
+        </div>
     </div>
-</header>
+</nav>
 -->
 
-<best></best>
+<div parallax-background class="welcome photo" parallax-ratio="0.1">
+    <div class="container">
+        <div class="row">
+            <p class="massive lead col-xs-12 text-center wow fadeInUp">Welcome</p>
+            <p class="title lead col-xs-12 text-center wow fadeInUp">
+                WE ARE UBC <span class="red">BEST</span>
+            </p>
+            <p class="col-xs-12 lead mini text-center wow fadeInUp">
+                University of British Columbia's <span class="red">B</span>iomedical <span class="red">E</span>ngineering
+                <span class="red">S</span>tudent
+                <span class="red">T</span>eam
+            </p>
+        </div>
+    </div>
+</div>
 
-<div ng-view></div>
+<teams-directive></teams-directive>
 
-<connect></connect>
+<projects-directive></projects-directive>
+
+<div parallax-background class="welcome photo" parallax-ratio="0.1">
+    <connect></connect>
+</div>
+
+<script src="/static/angular/app.js"></script>
+<script src="/static/angular/controllers/teamsController.js"></script>
+<script src="/static/angular/controllers/projectsController.js"></script>
+<script src="/static/angular/controllers/contactController.js"></script>
+<script src="/static/angular/directives/connect.js"></script>
+<script src="/static/angular/directives/projectsDirective.js"></script>
+<script src="/static/angular/directives/teamsDirective.js"></script>
+<script src="/static/angular/services/dataFactory.js"></script>
+<script src="/static/data/projectsData.json" type="application/json"></script>
+<script src="/static/data/teamsData.json" type="application/json"></script>
+<script src="/static/assets/js/creative.js"></script>
 
 </body>
 </html>
