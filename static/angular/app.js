@@ -1,5 +1,5 @@
 (function () {
-    angular.module('main', ['angular-parallax'])
+    angular.module('app', ['angular-parallax', 'counter'])
         .config(['$interpolateProvider', function ($interpolateProvider) {
             $interpolateProvider.startSymbol('{[');
             $interpolateProvider.endSymbol(']}');

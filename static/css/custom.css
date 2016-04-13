@@ -43,8 +43,12 @@ h1.section-heading {
     padding: 0 0.5em 0 0.5em;
 }
 
-.welcome.photo {
+.bulbs.photo {
     background-image: url('../img/landing-parallax.jpg');
+}
+
+.presentation.photo {
+    background-image: url('../img/best-presentation.jpg');
 }
 
 .photo {
@@ -256,6 +260,7 @@ section.teams ul.nav-tabs {
 
 section.teams ul.nav-tabs li {
     float: left;
+    transition: all 0.3s;
 }
 
 section.projects ul.nav-tabs {

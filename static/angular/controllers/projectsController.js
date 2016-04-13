@@ -1,5 +1,5 @@
 (function () {
-    angular.module('main')
+    angular.module('app')
         .controller('projectsController', function (DataFactory, $scope) {
 
             DataFactory.projects()

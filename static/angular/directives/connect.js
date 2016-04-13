@@ -1,5 +1,5 @@
 (function () {
-    angular.module('main')
+    angular.module('app')
         .directive('connect', function () {
             return {
                 restrict: 'E',

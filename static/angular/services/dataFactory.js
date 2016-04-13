@@ -1,5 +1,5 @@
 (function () {
-    angular.module('main')
+    angular.module('app')
         .factory('DataFactory', ['$http', function ($http) {
             return {
                 projects: function () {

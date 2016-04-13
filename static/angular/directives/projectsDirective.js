@@ -1,5 +1,5 @@
 (function () {
-    angular.module('main')
+    angular.module('app')
         .directive('projectsDirective', function () {
             return {
                 restrict: "E",

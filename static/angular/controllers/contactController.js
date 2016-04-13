@@ -1,5 +1,5 @@
 (function () {
-    angular.module('main')
+    angular.module('app')
         .controller('contactController', ['$http', '$scope', function ($http, $scope) {
             $scope.message = {};
             $scope.sent = false;
