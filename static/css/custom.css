@@ -1,28 +1,33 @@
 body {
     overflow-x: hidden;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
+    font-weight: 100;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 100;
 }
 
 .red {
-    color: #b92c28;
+    color: #691b18;
 }
 
 .massive {
-    font-size: 10vw;
-    color: #e3e3e3;
-    text-shadow: 1px 1px #353535;
+    font-size: 8vw;
+    font-weight: 100;
+    color: #ac2925;
 }
 
 .title {
     font-size: 4vw;
+    font-weight: 100;
     color: #e3e3e3;
-    text-shadow: 1px 1px #353535;
 }
 
 .mini {
     font-size: 2vw;
-    color: #e3e3e3;
-    text-shadow: 1px 1px #353535;
+    font-weight: 100;
+    color: #ac2925;
 }
 
 @media (max-width: 768px) {
@@ -47,6 +52,15 @@ h1.section-heading {
     background-image: url('../img/landing-parallax.jpg');
 }
 
+.landing {
+    background: #9a2720;
+    background: -webkit-radial-gradient(#FF6357, #9a2720);
+    background: -o-radial-gradient(#FF6357, #9a2720);
+    background: -moz-radial-gradient(#FF6357, #9a2720);
+    background: radial-gradient(#FF6357, #9a2720);
+    min-height: 100vh !important;
+}
+
 .presentation.photo {
     background-image: url('../img/best-presentation.jpg');
 }
@@ -59,8 +73,8 @@ h1.section-heading {
 
 footer {
     padding: 0 1em 0 1em;
-    text-shadow: 1px 1px #353535;
-    color: #e3e3e3;
+    color: #ffffff;
+    font-weight: 200;
 }
 
 footer ul li {
@@ -224,6 +238,17 @@ textarea {
 
 .container {
     padding: 5em 0 5em 0;
+}
+
+.headliner-container {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.headliner {
+    height: 50vh;
+    margin-top: 25vh;
 }
 
 section.tab-panel ul.nav-tabs li a i {
