@@ -53,7 +53,7 @@ h1.section-heading {
 }
 
 .landing {
-    background: #9a2720;
+    background: #c9544a;
     background: -webkit-radial-gradient(#FF6357, #9a2720);
     background: -o-radial-gradient(#FF6357, #9a2720);
     background: -moz-radial-gradient(#FF6357, #9a2720);
@@ -236,19 +236,13 @@ textarea {
     padding: 0 1.5em 0 1.5em;
 }
 
-.container {
-    padding: 5em 0 5em 0;
-}
-
-.headliner-container {
-    margin-top: 0;
-    margin-bottom: 0;
-    padding: 0;
-}
-
 .headliner {
-    height: 50vh;
-    margin-top: 25vh;
+    min-height: 50vh;
+    margin: 25vh 0;
+}
+
+.stats-container {
+    padding: 5em 0;
 }
 
 section.tab-panel ul.nav-tabs li a i {
