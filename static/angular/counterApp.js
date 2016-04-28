@@ -1,7 +1,7 @@
 (function () {
     angular.module('ng-counter', [])
         .controller('counterController', ['$scope', '$interval', function ($scope, $interval) {
-            const period = 150;
+            const PERIOD = 150;
             $scope.value = 0;
             $scope.start = function () {
                 var iterations = (1.0 * $scope.countTo) / $scope.step;
@@ -10,13 +10,14 @@
                     if ($scope.value >= $scope.countTo) {
                         $scope.value = $scope.countTo;
                     }
-                }, period, iterations);
+                }, PERIOD, iterations);
             };
         }])
         .directive('counter', ['$interval', function ($interval) {
+            const OFFSET = 500;
             return {
                 restrict: 'E',
-                template: '<p>{[ value ]} {[ text ]}</p>',
+                template: '<p class="lead">{[ value ]} {[ text ]}</p>',
                 scope: {
                     countTo: '=',
                     step: '=',
@@ -30,7 +31,7 @@
                         $(window).scrollTop();
                     }, 100);
                     scope.isHit = function () {
-                        return $(el).offset().top - 200 < $(window).scrollTop();
+                        return $(el).offset().top - OFFSET < $(window).scrollTop();
                     };
 
                     scope.$watch(scope.isHit, function (hit) {

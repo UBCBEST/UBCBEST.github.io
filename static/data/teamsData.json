@@ -243,10 +243,10 @@
   ],
   "alum": [
     {
-
+      "img": "/static/img/placeholder.png"
     },
     {
-
+      "img": "/static/img/placeholder.png"
     }
   ],
   "spc" : [
@@ -315,6 +315,7 @@
       "position": "Mentee",
       "year": "1st",
       "department": "Engineering",
+      "img": "/static/img/placeholder.png",
       "desc": [
         "Andrew Yan joined BEST because he wanted to help design medical devices.  His hobbies include swimming, badminton, reading a good book and watching TV."
       ]

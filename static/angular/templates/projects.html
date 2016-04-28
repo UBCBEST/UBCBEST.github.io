@@ -1,7 +1,7 @@
 <section class="projects tab-pane" ng-cloak>
-    <h1 class="text-right section-heading wow fadeInRight"><i class="fa fa-list-alt"></i> The Projects</h1>
+    <h1 class="text-right section-heading wow fadeIn"><i class="fa fa-list-alt"></i> The Projects</h1>
     <hr class="divider projects wow fadeIn">
-    <ul class="nav nav-tabs wow fadeInRight">
+    <ul class="nav nav-tabs wow fadeIn">
         <li class="active"><a data-target="#donated" data-toggle="tab">
             <span class="hidden-xs">Donated</span>
             <span class="visible-xs"><i class="fa fa-hospital-o"></i></span>
@@ -40,7 +40,7 @@
                     Donated Medical Equipment
                     <small>(donated)</small>
                 </h1>
-                <p class="lead project-desc">
+                <p class="project-desc">
                     A common challenge encountered on the IMDI trip was with the use, maintenance and disposal of
                     donated medical equipment. Studies have shown that as much of 70% of donated medical equipment
                     is never put into use in recipient countries. There are many factors that contribute to this
@@ -55,7 +55,8 @@
             </div>
 
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in donated">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in donated"
+                         data-toggle="modal" data-target="#project-profile-modal" ng-click="selectP(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
@@ -65,7 +66,7 @@
                                 {[ member.year ]} Year {[ member.department ]}
                                 <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
                             </p>
-                            <p>{[ member.desc ]}</p>
+
                         </div>
                     </div>
                 </section>
@@ -78,8 +79,8 @@
                     <i class="fa fa-database hidden-xs"></i>
                     IDEA-EMR
                     <small>(EMR)</small>
-                    </h1>
-                <p class="lead project-desc">
+                </h1>
+                <p class="project-desc">
                     The Infectious Disease and Emergency Aid Electronic Medical Records (IDEA EMR) project arose
                     from a proposal generated in November 2014 to address the challenge of transferring and
                     recording patient findings within Ebola Treatment Centers. This project is now developing an EMR
@@ -89,7 +90,8 @@
             </div>
 
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in idea_emr">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in idea_emr"
+                         data-toggle="modal" data-target="#project-profile-modal" ng-click="selectP(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
@@ -99,7 +101,7 @@
                                 {[ member.year ]} Year {[ member.department ]}
                                 <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
                             </p>
-                            <p>{[ member.desc ]}</p>
+                            
                         </div>
                     </div>
                 </section>
@@ -113,7 +115,7 @@
                     Music 2 Movement
                     <small>(M2M)</small>
                 </h1>
-                <p class="lead project-desc">
+                <p class="project-desc">
                     Approximately 800,000 people suffer from a stroke each year; about one every four seconds.
                     Suffering a stroke results in the weakness and or loss of function in the body. Often times,
                     those who have suffered from a stroke undergo a repetitive rehabilitation process in order to
@@ -126,7 +128,8 @@
             </div>
 
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in m2m">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in m2m"
+                         data-toggle="modal" data-target="#project-profile-modal" ng-click="selectP(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
@@ -136,7 +139,7 @@
                                 {[ member.year ]} Year {[ member.department ]}
                                 <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
                             </p>
-                            <p>{[ member.desc ]}</p>
+                            
                         </div>
                     </div>
                 </section>
@@ -150,7 +153,7 @@
                     Phototherapy Monitor
                     <small>(PTM)</small>
                 </h1>
-                <p class="lead project-desc">
+                <p class="project-desc">
                     Phototherapy is a treatment used in Newborn Units in hospitals to treat babies with severe
                     jaundice. During the treatment, infants are placed under phototherapeutic light, which is
                     primarily blue, for a recommended 7 day period. On International Medical Device Initiative
@@ -174,7 +177,8 @@
             </div>
 
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in ptm">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in ptm"
+                         data-toggle="modal" data-target="#project-profile-modal" ng-click="selectP(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
@@ -184,7 +188,7 @@
                                 {[ member.year ]} Year {[ member.department ]}
                                 <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
                             </p>
-                            <p>{[ member.desc ]}</p>
+                            
                         </div>
                     </div>
                 </section>
@@ -199,7 +203,7 @@
                     <small>(RRM)</small>
                 </h1>
 
-                <p class="lead project-desc">
+                <p class="project-desc">
                     The Respiratory Rate Monitor Project is based on a proposal from the team’s recent International
                     Medical Device Initiative (IMDI), where 4 team members travelled to Uganda and Kenya in May 2015
                     to speak to medical professionals about the challenges that they face in performing care for
@@ -213,7 +217,8 @@
             </div>
 
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in rrm">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in rrm"
+                         data-toggle="modal" data-target="#project-profile-modal" ng-click="selectP(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
@@ -223,7 +228,7 @@
                                 {[ member.year ]} Year {[ member.department ]}
                                 <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
                             </p>
-                            <p>{[ member.desc ]}</p>
+                            
                         </div>
                     </div>
                 </section>
@@ -238,7 +243,7 @@
                     <small>(FFRP)</small>
                 </h1>
 
-                <p class="lead project-desc">
+                <p class="project-desc">
                     Traction is commonly used in international and low resource settings to treat bone fractures, mainly
                     femur fractures, by pulling the bones into alignment and maintaining that alignment for long periods
                     of time. There are a number of challenges associated with this process. For example, patients can be
@@ -251,7 +256,8 @@
             </div>
 
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in femur">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in femur"
+                         data-toggle="modal" data-target="#project-profile-modal" ng-click="selectP(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
@@ -261,7 +267,7 @@
                                 {[ member.year ]} Year {[ member.department ]}
                                 <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
                             </p>
-                            <p>{[ member.desc ]}</p>
+                            
                         </div>
                     </div>
                 </section>
@@ -276,7 +282,7 @@
                     <small>(MPH)</small>
                 </h1>
 
-                <p class="lead project-desc">
+                <p class="project-desc">
                     Diagnosis of malaria, tuberculosis, typhoid, and other blood borne diseases is a pressing issue in
                     East Africa. Current diagnostic techniques are either not feasible in low resource settings, or
                     lacking in accuracy.
@@ -300,7 +306,8 @@
             </div>
 
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in phone_holder">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in phone_holder"
+                         data-toggle="modal" data-target="#project-profile-modal" ng-click="selectP(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
@@ -310,12 +317,32 @@
                                 {[ member.year ]} Year {[ member.department ]}
                                 <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
                             </p>
-                            <p>{[ member.desc ]}</p>
+                            
                         </div>
                     </div>
                 </section>
             </div>
         </div>
 
+    </div>
+
+    <div class="modal fade profile-modal" id="project-profile-modal" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content text-center">
+                <header class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h1>{[ selectedP.name ]}</h1>
+                </header>
+                <div class="modal-body">
+                    <img ng-src="{[ selectedP.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                    <h3>{[ selectedP.position ]}</h3>
+                    <p class="lead">
+                        {[ selectedP.year ]} Year {[ selectedP.department ]}
+                        <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
+                    </p>
+                    <p>{[ selectedP.desc ]}</p>
+                </div>
+            </div>
+        </div>
     </div>
 </section>

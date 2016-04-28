@@ -1,7 +1,11 @@
 (function () {
     angular.module('app')
         .controller('projectsController', function (DataFactory, $scope) {
+            $scope.selectedP = null;
 
+            $scope.selectP = function(member) {
+                $scope.selectedP = member;
+            };
             DataFactory.projects()
                 .success(function(data) {
                     $scope.donated = data.donated;

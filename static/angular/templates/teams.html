@@ -1,7 +1,7 @@
 <section class="teams tab-panel" ng-cloak>
-    <h1 class="section-heading text-left wow fadeInLeft">The Teams <i class="fa fa-users"></i></h1>
+    <h1 class="section-heading text-left wow fadeIn">The Teams <i class="fa fa-users"></i></h1>
     <hr class="divider teams wow fadeIn">
-    <ul class="nav nav-tabs wow fadeInLeft">
+    <ul class="nav nav-tabs wow fadeIn">
         <li class="active"><a data-target="#exec" data-toggle="tab">
             <span class="hidden-xs">Executive</span>
             <span><i class="visible-xs fa fa-black-tie"></i></span>
@@ -34,16 +34,14 @@
                 <h1>Executive Team&ensp;<i class="fa fa-black-tie hidden-xs"></i></h1>
             </div>
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in exec">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in exec"
+                         data-toggle="modal" data-target="#teams-profile-modal" ng-click="selectT(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
-                            <a ng-href="{[ member.link ]}" target="_blank">
-                                <img ng-src="{[ member.img ]}" alt="" class="img-circle"
-                                     src="/static/img/placeholder.png">
-                            </a>
-                            <p class="lead">{[ member.title ]}</p>
-                            <p class="text-justify" ng-repeat="paragraph in member.desc">{[ paragraph ]}</p>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.title ]}</h3>
+
                         </div>
                     </div>
                 </section>
@@ -54,16 +52,14 @@
                 <h1>Management Team&ensp;<i class="fa fa-balance-scale hidden-xs"></i></h1>
             </div>
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in man">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in man"
+                         data-toggle="modal" data-target="#teams-profile-modal" ng-click="selectT(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
-                            <a ng-href="{[ member.link ]}" target="_blank">
-                                <img ng-src="{[ member.img ]}" alt="" class="img-circle"
-                                     src="/static/img/placeholder.png">
-                            </a>
-                            <p class="lead">{[ member.title ]}</p>
-                            <p class="text-justify" ng-repeat="paragraph in member.desc">{[ paragraph ]}</p>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.title ]}</h3>
+
                         </div>
                     </div>
                 </section>
@@ -74,16 +70,14 @@
                 <h1>Business Team&ensp;<i class="fa fa-briefcase hidden-xs"></i></h1>
             </div>
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in bus">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in bus"
+                         data-toggle="modal" data-target="#teams-profile-modal" ng-click="selectT(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
-                            <a ng-href="{[ member.link ]}" target="_blank">
-                                <img ng-src="{[ member.img ]}" alt="" class="img-circle"
-                                     src="/static/img/placeholder.png">
-                            </a>
-                            <p class="lead">{[ member.title ]}</p>
-                            <p class="text-justify" ng-repeat="paragraph in member.desc">{[ paragraph ]}</p>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.title ]}</h3>
+
                         </div>
                     </div>
                 </section>
@@ -94,17 +88,15 @@
                 <h1>Board of Directors&ensp;<i class="fa fa-building hidden-xs"></i></h1>
             </div>
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in bod">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in bod"
+                         data-toggle="modal" data-target="#teams-profile-modal" ng-click="selectT(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
-                            <a ng-href="{[ member.link ]}" target="_blank">
-                                <img ng-src="{[ member.img ]}" alt="" class="img-circle"
-                                     src="/static/img/placeholder.png">
-                            </a>
-                            <p class="lead" ng-show="member.title">{[ member.title ]}</p>
-                            <h5 ng-show="member.occupation">{[ member.occupation ]}</h5>
-                            <p class="text-justify" ng-repeat="paragraph in member.desc">{[ paragraph ]}</p>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3 ng-show="member.title">{[ member.title ]}</h3>
+                            <h3 ng-show="member.occupation">{[ member.occupation ]}</h3>
+
                         </div>
                     </div>
                 </section>
@@ -115,16 +107,14 @@
                 <h1>Alumni & Advisors&ensp;<i class="fa fa-child hidden-xs"></i></h1>
             </div>
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in alum">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in alum"
+                         data-toggle="modal" data-target="#teams-profile-modal" ng-click="selectT(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
-                            <a ng-href="{[ member.link ]}" target="_blank">
-                                <img ng-src="{[ member.img ]}" alt="" class="img-circle"
-                                     src="/static/img/placeholder.png">
-                            </a>
-                            <p class="lead">{[ member.title ]}</p>
-                            <p class="text-justify" ng-repeat="paragraph in member.desc">{[ paragraph ]}</p>
+                            <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                            <h3>{[ member.title ]}</h3>
+
                         </div>
                     </div>
                 </section>
@@ -135,19 +125,39 @@
                 <h1>Specialized Roles&ensp;<i class="fa fa-star hidden-xs"></i></h1>
             </div>
             <div class="profile-wrapper">
-                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in spc">
+                <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in spc"
+                         data-toggle="modal" data-target="#teams-profile-modal" ng-click="selectT(member)">
                     <div class="contents">
                         <div class="text-center">
                             <h3>{[ member.name ]}</h3>
                             <img ng-src="{[ member.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
                             <h3>{[ member.position ]}</h3>
-                            <p class="lead">
+                            <h3>
                                 {[ member.year ]} Year {[ member.department ]}
-                            </p>
-                            <p class="text-justify" ng-repeat="paragraph in member.desc">{[ paragraph ]}</p>
+                            </h3>
+
                         </div>
                     </div>
                 </section>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade profile-modal" id="teams-profile-modal" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content text-center">
+                <header class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h1>{[ selectedT.name ]}</h1>
+                </header>
+                <div class="modal-body">
+                    <a ng-href="{[ selectedT.link ]}" target="_blank">
+                        <img ng-src="{[ selectedT.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                    </a>
+                    <h2 ng-show="selectedT.title">{[ selectedT.title ]}</h2>
+                    <h2 ng-show="selectedT.occupation">{[ selectedT.occupation ]}</h2>
+                    <p class="text-justify" ng-repeat="paragraph in selectedT.desc">{[ paragraph ]}</p>
+                </div>
             </div>
         </div>
     </div>

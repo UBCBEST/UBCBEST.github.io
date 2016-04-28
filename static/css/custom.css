@@ -68,7 +68,7 @@ h1.section-heading {
 .photo {
     background-attachment: fixed;
     background-position: 50% 0;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
 }
 
 footer {
@@ -245,6 +245,12 @@ textarea {
     padding: 5em 0;
 }
 
+.stats-container i.fa {
+    padding: 0.5em;
+    border: solid rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+}
+
 section.tab-panel ul.nav-tabs li a i {
     font-size: 5vmin;
 }
@@ -338,15 +344,31 @@ section.projects .pad h1 {
 
 .profile {
     background: #353535;
+    cursor: pointer;
     border: none;
     margin: 0.5em;
     color: #e3e3e3;
-    height: 40em;
-    width: 35em;
+    height: 30em;
+    width: 27em;
     display: inline-block;
     overflow: auto;
     white-space: normal;
     padding: 0 1em 0 1em;
+}
+
+section.teams .profile {
+    background: #e3e3e3;
+    color: #353535;
+}
+
+#project-profile-modal .modal-content {
+    color: #e3e3e3;
+    background: #353535;
+}
+
+#teams-profile-modal .modal-content {
+    background: #e3e3e3;
+    color: #353535;
 }
 
 .profile.animated:nth-child(1) {
@@ -389,18 +411,7 @@ section.projects .pad h1 {
     -webkit-animation-delay: .10s
 }
 
-@media (max-width: 768px) {
-    .profile {
-        width: 96vw;
-    }
-}
-
-section.teams .profile {
-    background: #e3e3e3;
-    color: #353535;
-}
-
-.profile img {
+.profile img, .profile-modal img {
     padding: 1.5em 0 1.5em 0;
     transition: all 0.5s;
     height: 200px;

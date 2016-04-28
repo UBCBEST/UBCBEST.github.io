@@ -61,6 +61,7 @@
     },
     {
       "name": "Jon Schmok",
+      "img": "/static/img/placeholder.png",
       "position": "Member",
       "year": "3rd",
       "department": "Electrical Engineering",
@@ -69,6 +70,7 @@
     },
     {
       "name": "Alessandro Narciso",
+      "img": "/static/img/placeholder.png",
       "position": "Member",
       "year": "1st",
       "department": "Engineering",
@@ -76,6 +78,7 @@
     },
     {
       "name": "Jade Varelle",
+      "img": "/static/img/placeholder.png",
       "position": "Member",
       "year": "2nd",
       "department": "Electrical Engineering",
@@ -84,6 +87,7 @@
     },
     {
       "name": "Hamza Faran",
+      "img": "/static/img/placeholder.png",
       "position": "Member",
       "year": "4th",
       "department": "Computer Engineering",
@@ -91,6 +95,7 @@
     },
     {
       "name": "Emil Maric",
+      "img": "/static/img/placeholder.png",
       "position": "Member",
       "year": "4th",
       "department": "Computer Engineering",
@@ -98,6 +103,7 @@
     },
     {
       "name": "Koushik Peri",
+      "img": "/static/img/placeholder.png",
       "position": "Member",
       "year": "4th",
       "department": "Computer Engineering",
@@ -105,6 +111,7 @@
     },
     {
       "name": "Kieren Wou",
+      "img": "/static/img/placeholder.png",
       "position": "Member",
       "year": "4th",
       "department": "Computer Engineering",
@@ -266,6 +273,7 @@
     },
     {
       "name": "Harish Anand",
+      "img": "/static/img/placeholder.png",
       "position": "Member",
       "year": "3rd",
       "department": "Electrical Engineering",
@@ -274,6 +282,7 @@
     },
     {
       "name": "Raj Kumar",
+      "img": "/static/img/placeholder.png",
       "position": "Member",
       "year": "3rd",
       "department": "Electrical Engieering",
