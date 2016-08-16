@@ -443,3 +443,13 @@ section.teams .profile {
 .profile img:hover {
 
 }
+
+#updates {
+    padding: 1em 0 1em 0;
+    margin: 0 auto;
+}
+
+#updates .fb-wrapper {
+    width: 500px;
+    margin: auto;
+}
