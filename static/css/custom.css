@@ -72,7 +72,7 @@ h1.section-heading {
 }
 
 footer {
-    padding: 0 1em 0 1em;
+    padding: 2em 1em 2em 1em;
     color: #ffffff;
     font-weight: 200;
 }
@@ -255,6 +255,10 @@ section.tab-panel ul.nav-tabs li a i {
     font-size: 5vmin;
 }
 
+section.teams .nav.nav-tabs li:first-of-type {
+    margin-left: 2em;
+}
+
 section.projects {
     background: #e3e3e3;
     color: #353535;
@@ -348,12 +352,16 @@ section.projects .pad h1 {
     border: none;
     margin: 0.5em;
     color: #e3e3e3;
-    height: 30em;
-    width: 27em;
+    height: 21em;
+    width: 21em;
     display: inline-block;
     overflow: auto;
     white-space: normal;
     padding: 0 1em 0 1em;
+}
+
+.profile:first-of-type {
+    margin-left: 2em;
 }
 
 section.teams .profile {
@@ -416,6 +424,16 @@ section.teams .profile {
     transition: all 0.5s;
     height: 200px;
     width: 150px;
+}
+
+.profile .contents .name {
+    font-size: 1.5em;
+    margin-bottom: 0;
+}
+
+.profile .contents .position{
+    font-size: 1em;
+    margin: 0 auto 0 auto;
 }
 
 .profile p:not(.lead) {
