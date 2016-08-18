@@ -1,17 +1,24 @@
 (function () {
     angular.module('app')
         .controller('projectsController', function (DataFactory, $scope) {
+            $scope.selectedP = null;
+            $scope.tabP = 0;
+
+            $scope.selectP = function (member) {
+                $scope.selectedP = member;
+            };
 
             DataFactory.projects()
-                .success(function(data) {
-                    $scope.donated = data.donated;
-                    $scope.idea_emr = data.idea_emr;
-                    $scope.m2m = data.m2m;
-                    $scope.ptm = data.ptm;
-                    $scope.rrm = data.rrm;
-                    $scope.femur = data.femur;
-                    $scope.phone_holder = data.phone_holder;
+                .success(function (data) {
+                    $scope.projects = data.data;
                 });
 
+            $scope.isTabP = function (tab) {
+                return tab === $scope.tabP;
+            }
+
+            $scope.setTabP = function (tab) {
+                $scope.tabP = tab;
+            }
         });
 })();
