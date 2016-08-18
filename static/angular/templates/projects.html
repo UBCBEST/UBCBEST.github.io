@@ -1,10 +1,13 @@
-<section class="projects tab-panel" ng-cloak>
-    <h1 class="text-right section-heading wow fadeIn"><i class="fa fa-list-alt"></i> The Projects</h1>
+<section class="projects tab-panel" id="projects" ng-cloak>
+    <h1 class="text-right section-heading wow fadeIn">
+        <i class="fa fa-list-alt"></i>&ensp;<span class="red">Projects</span>
+    </h1>
     <hr class="divider projects wow fadeIn">
     <ul class="nav nav-tabs wow fadeIn">
-        <li ng-class="{ 'active': isTabP($index) }" ng-repeat="project in projects">
+        <li ng-class="{ 'active': isTabP($index) }" ng-repeat="project in projects"
+            ng-click="setTabP($index)">
             <a data-target="#{[ project.id ]}" data-toggle="tab">
-                <span class="hidden-xs">{[ project.abbr ]}</span>
+                <span class="hidden-xs">{[ project.tab ]}</span>
                 <span class="visible-xs"><i class="fa" ng-class="project.icon"></i></span>
             </a>
         </li>
@@ -24,7 +27,7 @@
                 </p>
             </div>
 
-            <div class="profile-wrapper" data-stellar-background-ratio="0.5">
+            <div class="profile-wrapper" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="500">
                 <section class="panel panel-default profile animated fadeInRight" ng-repeat="member in project.members"
                          data-toggle="modal" data-target="#project-profile-modal" ng-click="selectP(member)">
                     <div class="contents">

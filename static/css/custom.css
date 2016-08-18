@@ -12,10 +12,15 @@ h1, h2, h3, h4 {
     color: #691b18;
 }
 
+.bold {
+    font-weight: 500;
+}
+
 .massive {
     font-size: 8vw;
     font-weight: 100;
-    color: #ac2925;
+    /*color: #ac2925;*/
+    color: #e3e3e3;
 }
 
 .title {
@@ -27,7 +32,8 @@ h1, h2, h3, h4 {
 .mini {
     font-size: 2vw;
     font-weight: 100;
-    color: #ac2925;
+    /*color: #ac2925;*/
+    color: #e3e3e3;
 }
 
 @media (max-width: 768px) {
@@ -45,7 +51,7 @@ h1, h2, h3, h4 {
 }
 
 h1.section-heading {
-    padding: 0 0.5em 0 0.5em;
+    padding: 0 1.5em 0 1.5em;
 }
 
 .bulbs.photo {
@@ -63,6 +69,12 @@ h1.section-heading {
 
 .presentation.photo {
     background-image: url('../img/best-presentation.jpg');
+}
+
+@media (max-width: 768px) {
+    .presentation.photo {
+        background-image: none;
+    }
 }
 
 .photo {
@@ -232,10 +244,6 @@ textarea {
     border-color: white;
 }
 
-.pad {
-    padding: 0 1.5em 0 1.5em;
-}
-
 .headliner {
     min-height: 50vh;
     margin: 25vh 0;
@@ -256,7 +264,11 @@ section.tab-panel ul.nav-tabs li a i {
 }
 
 section.teams .nav.nav-tabs li:first-of-type {
-    margin-left: 2em;
+    margin-left: 3em;
+}
+
+section.projects .nav.nav-tabs li:first-of-type {
+    margin-right: 3em;
 }
 
 section.tab-panel {
@@ -278,22 +290,17 @@ section.teams ul.nav-tabs li {
 
 section.projects ul.nav-tabs li {
     float: right;
+    transition: all 0.3s;
 }
 
-section.teams ul.nav-tabs a, section.projects ul.nav-tabs a {
+section.tab-panel ul.nav-tabs a {
     color: #353535;
-}
-
-section.projects .nav-tabs > li.active > a,
-section.projects .nav-tabs > li > a:hover {
-    color: #e3e3e3;
-    background: #353535;
 }
 
 section.tab-panel .nav-tabs > li.active > a,
 section.tab-panel .nav-tabs > li > a:hover {
-    color: #353535;
-    background: #e3e3e3;
+    color: #e3e3e3;
+    background: #691b18;
 }
 
 ul.nav.nav-tabs > li:hover {
@@ -309,8 +316,8 @@ section.projects .pad h1 {
     padding: 0;
 }
 
-.tab-pane .pad {
-    padding: 2em;
+.pad {
+    padding: 1.5em 3em 1.5em 3em;
 }
 
 .project-desc {
@@ -426,11 +433,17 @@ section.teams .profile {
 }
 
 #updates {
-    padding: 1em 0 1em 0;
+    padding: 3em 0 3em 0;
     margin: 0 auto;
 }
 
 #updates .fb-wrapper {
     width: 500px;
     margin: auto;
+}
+
+@media (max-width: 768px) {
+    #updates .fb-wrapper {
+        width: 80vw;
+    }
 }

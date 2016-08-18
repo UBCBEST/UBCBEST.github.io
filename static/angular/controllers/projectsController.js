@@ -11,11 +11,14 @@
             DataFactory.projects()
                 .success(function (data) {
                     $scope.projects = data.data;
-
                 });
 
             $scope.isTabP = function (tab) {
                 return tab === $scope.tabP;
+            }
+
+            $scope.setTabP = function (tab) {
+                $scope.tabP = tab;
             }
         });
 })();

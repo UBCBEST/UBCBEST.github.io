@@ -1,8 +1,10 @@
-<section class="teams tab-panel" ng-cloak>
-    <h1 class="section-heading text-left wow fadeIn">The Teams <i class="fa fa-users"></i></h1>
+<section class="teams tab-panel" id="teams" ng-cloak>
+    <h1 class="section-heading text-left wow fadeIn">
+        <span class="red">Teams</span>&ensp;<i class="fa fa-users"></i>
+    </h1>
     <hr class="divider teams wow fadeIn">
     <ul class="nav nav-tabs wow fadeIn">
-        <li ng-class="{ 'active': team.isTabT($index) }" ng-repeat="team in teams">
+        <li ng-class="{ 'active': isTabT($index) }" ng-repeat="team in teams" ng-click="setTabT($index)">
             <a data-target="#{[ team.id ]}" data-toggle="tab">
                 <span class="hidden-xs">{[ team.tab ]}</span>
                 <span><i class="visible-xs fa" ng-class="team.icon"></i></span>

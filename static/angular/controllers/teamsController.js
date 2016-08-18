@@ -15,6 +15,10 @@
 
             $scope.isTabT = function (tab) {
                 return tab === $scope.tabT;
+            };
+
+            $scope.setTabT = function (tab) {
+                $scope.tabT = tab;
             }
         });
 })();

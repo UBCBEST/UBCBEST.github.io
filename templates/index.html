@@ -21,7 +21,6 @@
 </head>
 <body id="page-top">
 
-<!--
 <nav id="main-nav" class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -32,7 +31,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">UBC BEST</a>
+            <a class="navbar-brand page-scroll" href="#page-top">UBC <span class="red bold">BEST</span></a>
         </div>
 
         <div class="collapse navbar-collapse" id="collapse-menu">
@@ -41,36 +40,32 @@
                     <a class="page-scroll" href="#teams">Teams</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#services">Services</a>
+                    <a class="page-scroll" href="#projects">Projects</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#how-it-works">How it Works</a>
+                    <a class="page-scroll" href="#updates">Updates</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#signup">Sign Up</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
--->
 
 <div parallax-background class="bulbs photo" parallax-ratio="0.7">
     <div class="container">
         <div class="row headliner">
             <p class="massive lead col-xs-12 text-center wow fadeInUp">Welcome</p>
             <p class="title lead col-xs-12 text-center wow fadeInUp">
-                We Are UBC BEST<span class="red"></span>
+                We Are UBC <span class="red bold">BEST</span>
             </p>
             <p class="col-xs-12 lead mini text-center wow fadeInUp">
                 University of British Columbia's <br/>
-                <span class="red">B</span>iomedical
-                <span class="red">E</span>ngineering
-                <span class="red">S</span>tudent
-                <span class="red">T</span>eam
+                <span class="red bold">B</span>iomedical
+                <span class="red bold">E</span>ngineering
+                <span class="red bold">S</span>tudent
+                <span class="red bold">T</span>eam
             </p>
         </div>
     </div>
@@ -80,13 +75,19 @@
 
 <projects-directive></projects-directive>
 
-<div id="updates" parallax-background class="presentation photo" parallax-ratio="0.5">
-    <div class="fb-wrapper">
-        <div class="fb-page" data-href="https://www.facebook.com/best.ubc" data-tabs="timeline"
-             data-small-header="false"
-             data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-width="500">
-            <blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a
-                    href="https://www.facebook.com/facebook">Facebook</a></blockquote>
+<div class="pad">
+        <h1>Updates</h1>
+        <div id="updates" parallax-background class="presentation photo" parallax-ratio="0.5"
+             parallax-vertical-offset="500">
+            <div class="fb-wrapper">
+                <div class="fb-page" data-href="https://www.facebook.com/best.ubc" data-tabs="timeline"
+                     data-small-header="false"
+                     data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"
+                     data-width="500">
+                    <blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a
+                            href="https://www.facebook.com/facebook">Facebook</a></blockquote>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -111,7 +112,7 @@
 
 </div>
 
-<div parallax-background class="bulbs photo" parallax-ratio="0.1">
+<div parallax-background class="bulbs photo" parallax-ratio="0.1" id="contact">
     <connect></connect>
 </div>
 

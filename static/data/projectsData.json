@@ -3,6 +3,7 @@
     {
       "id": "donated",
       "icon": "fa-hospital-o",
+      "tab": "Donated",
       "name": "Donated Medical Equipment",
       "abbr": "donated",
       "desc": [
@@ -48,6 +49,7 @@
     {
       "id": "idea",
       "icon": "fa-database",
+      "tab": "Idea",
       "name": "IDEA-EMR",
       "abbr": "EMR",
       "desc": [
@@ -141,6 +143,7 @@
     {
       "id": "m2m",
       "icon": "fa-music",
+      "tab": "Music",
       "name": "Music 2 Movement",
       "abbr": "M2M",
       "desc": [
@@ -219,6 +222,7 @@
     {
       "id": "ptm",
       "icon": "fa-bolt",
+      "tab": "Phototherapy",
       "name": "Phototherapy Monitor",
       "abbr": "PTM",
       "desc": [
@@ -349,6 +353,7 @@
     {
       "id": "rrm",
       "icon": "fa-mixcloud",
+      "tab": "Respiratory",
       "name": "Respiratory Rate Monitor",
       "abbr": "RRM",
       "desc": [
@@ -451,6 +456,7 @@
     {
       "id": "ffrp",
       "icon": "fa-chain-broken",
+      "tab": "Femur",
       "name": "Femur Fracture Research",
       "abbr": "FFRP",
       "desc": [
@@ -529,6 +535,7 @@
     {
       "id": "mph",
       "icon": "fa-mobile-phone",
+      "tab": "Phone",
       "name": "Microscope Phone Holder",
       "abbr": "MPH",
       "desc": [
