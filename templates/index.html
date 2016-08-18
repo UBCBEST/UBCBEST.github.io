@@ -37,6 +37,9 @@
         <div class="collapse navbar-collapse" id="collapse-menu">
             <ul class="nav navbar-nav navbar-right">
                 <li>
+                    <a class="page-scroll" href="#about">About</a>
+                </li>
+                <li>
                     <a class="page-scroll" href="#teams">Teams</a>
                 </li>
                 <li>
@@ -71,25 +74,65 @@
     </div>
 </div>
 
+<div class="row" id="about">
+    <div class="col-xs-12 col-sm-4 pad center">
+        <h1><i class="fa fa-info-circle"></i>&ensp;<span class="red">About</span></h1>
+        <p>
+            We are a multi-disciplinary team of students from the Faculty of Applied Science
+            (Engineering), Science, Sauder School of Business, Kinesiology, Arts and Medicine with the shared goal of
+            improving quality of life and healthcare services with innovative
+            technologies.
+        </p>
+    </div>
+
+    <div class="col-xs-12 col-sm-4 pad center">
+        <h1><i class="fa fa-line-chart"></i>&ensp;<span class="red">Vision</span></h1>
+        <p>
+            Build a multidisciplinary community that cultivates networking, technical growth, and collaboration in the
+            biomedical field at UBC.
+        </p>
+    </div>
+
+    <div class="col-xs-12 col-sm-4 pad center">
+        <h1><i class="fa fa-hand-grab-o"></i>&ensp;<span class="red">Mission</span></h1>
+        <p>
+            Identify medical challenges that capable students can address in an innovative way with the goal of
+            improving quality of life globally.
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div id="gallery" class="col-xs-12 col-sm-offset-1 col-sm-10"
+         ng-controller="galleryController">
+        <div class="item" ng-class="{ 'portrait': image.orientation === 'portrait' }" ng-repeat="image in images"
+             style="background-image: url({[ image.img ]})">
+            <div class="gallery-text">
+                <p>{[ image.caption ]}</p>
+            </div>
+        </div>
+    </div>
+</div>
+
 <teams-directive></teams-directive>
 
 <projects-directive></projects-directive>
 
 <div class="pad">
-        <h1>Updates</h1>
-        <div id="updates" parallax-background class="presentation photo" parallax-ratio="0.5"
-             parallax-vertical-offset="500">
-            <div class="fb-wrapper">
-                <div class="fb-page" data-href="https://www.facebook.com/best.ubc" data-tabs="timeline"
-                     data-small-header="false"
-                     data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"
-                     data-width="500">
-                    <blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a
-                            href="https://www.facebook.com/facebook">Facebook</a></blockquote>
-                </div>
+    <h1 class="red">Updates</h1>
+    <div id="updates" parallax-background class="presentation photo" parallax-ratio="0.5"
+         parallax-vertical-offset="500">
+        <div class="fb-wrapper">
+            <div class="fb-page" data-href="https://www.facebook.com/best.ubc" data-tabs="timeline"
+                 data-small-header="false"
+                 data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"
+                 data-width="500">
+                <blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a
+                        href="https://www.facebook.com/facebook">Facebook</a></blockquote>
             </div>
         </div>
     </div>
+</div>
 </div>
 
 <div>
@@ -125,6 +168,7 @@
 <script src="/static/assets/js/wow.min.js"></script>
 <script src="/static/assets/js/stellar.min.js"></script>
 <script src="/static/angular/app.js"></script>
+<script src="/static/angular/controllers/galleryController.js"></script>
 <script src="/static/angular/controllers/teamsController.js"></script>
 <script src="/static/angular/controllers/projectsController.js"></script>
 <script src="/static/angular/controllers/contactController.js"></script>

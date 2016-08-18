@@ -36,6 +36,10 @@ h1, h2, h3, h4 {
     color: #e3e3e3;
 }
 
+.center {
+    text-align: center;
+}
+
 @media (max-width: 768px) {
     .massive {
         font-size: 20vw;
@@ -75,6 +79,44 @@ h1.section-heading {
     .presentation.photo {
         background-image: none;
     }
+}
+
+#gallery {
+    white-space: nowrap;
+    overflow: scroll;
+}
+
+#gallery .item {
+    margin: 0 1em 0 1em;
+    height: 400px;
+    width: 600px;
+    display: inline-block;
+    overflow: auto;
+    white-space: normal;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+#gallery .gallery-text {
+    color: white;
+    text-align: center;
+    height: 100%;
+}
+
+#gallery .gallery-text p {
+    width: 600px;
+    position: absolute;
+    bottom: 10px;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+#gallery .item.portrait{
+    width: 350px;
+}
+
+#gallery .item.portrait p {
+    width: 350px;
 }
 
 .photo {
@@ -419,7 +461,7 @@ section.teams .profile {
     margin-bottom: 0;
 }
 
-.profile .contents .position{
+.profile .contents .position {
     font-size: 1em;
     margin: 0 auto 0 auto;
 }
