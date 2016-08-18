@@ -5,13 +5,26 @@
       "caption": "Full Team 2015-2016"
     },
     {
+      "img": "/static/img/gallery/mcewen.jpg",
+      "orientation": "portrait",
+      "caption": "BEST at McEwen Family Applied Science Quality of Life Event"
+    },
+    {
       "img": "/static/img/gallery/best-presentation.jpg",
       "caption": "BEST holds an IMDI trip debrief"
+    },
+    {
+      "img": "/static/img/gallery/makerere.jpg",
+      "caption": "BEST IMDI trip members Andrea, Blake, Georgia, and Marysia at the Makerere University in Uganda, Africa"
     },
     {
       "img": "/static/img/gallery/eng-phys-poster.jpg",
       "orientation": "portrait",
       "caption": "BEST presents a poster at the Engineering Physics High School Event"
+    },
+    {
+      "img": "/static/img/gallery/imagine-day.jpg",
+      "caption": "BEST Booth at Imagine Day 2015-2016"
     },
     {
       "img": "/static/img/gallery/storm-the-wall.jpg",

@@ -71,6 +71,13 @@ h1.section-heading {
     min-height: 100vh !important;
 }
 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+    color: #e3e3e3;
+    background: #691b18;
+}
+
 .presentation.photo {
     background-image: url('../img/best-presentation.jpg');
 }
@@ -111,7 +118,7 @@ h1.section-heading {
     background: rgba(0, 0, 0, 0.2);
 }
 
-#gallery .item.portrait{
+#gallery .item.portrait {
     width: 350px;
 }
 
