@@ -2,8 +2,8 @@
     <h1 class="text-right section-heading wow fadeIn"><i class="fa fa-list-alt"></i> The Projects</h1>
     <hr class="divider projects wow fadeIn">
     <ul class="nav nav-tabs wow fadeIn">
-        <li ng-class="{ 'active': isTab($index) }" ng-repeat="project in projects">
-            <a data-target="#{[ project.id ]}" data-toggle="tab" >
+        <li ng-class="{ 'active': isTabP($index) }" ng-repeat="project in projects">
+            <a data-target="#{[ project.id ]}" data-toggle="tab">
                 <span class="hidden-xs">{[ project.abbr ]}</span>
                 <span class="visible-xs"><i class="fa" ng-class="project.icon"></i></span>
             </a>
@@ -11,7 +11,8 @@
     </ul>
 
     <div class="tab-content">
-        <div class="tab-pane fade in" ng-class="{ 'active': isTab($index) }" id="{[ project.id ]}" ng-repeat="project in projects">
+        <div class="tab-pane fade in" ng-class="{ 'active': isTabP($index) }" id="{[ project.id ]}"
+             ng-repeat="project in projects">
             <div class="pad">
                 <h1>
                     <i class="fa hidden-xs" ng-class="project.icon"></i>
@@ -36,6 +37,12 @@
                 </section>
             </div>
 
+            <script>
+                $('.profile-wrapper').stellar({
+                    horizontalScrolling: true,
+                    verticalScrolling: false
+                })
+            </script>
         </div>
     </div>
 

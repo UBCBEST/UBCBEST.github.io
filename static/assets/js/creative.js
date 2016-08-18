@@ -34,5 +34,10 @@
         }
     });
 
+    $('.profile-wrapper').stellar({
+        horizontalScrolling: true,
+        verticalScrolling: false
+    })
+
 })(jQuery); // End of use strict
 
