@@ -259,32 +259,16 @@ section.teams .nav.nav-tabs li:first-of-type {
     margin-left: 2em;
 }
 
-section.projects {
-    background: #e3e3e3;
-    color: #353535;
-    border-top: solid #353535;
-    border-bottom: solid #353535;
+section.tab-panel {
     padding: 1em 0 1em 0;
 }
 
-section.teams {
-    background: #353535;
-    color: #e3e3e3;
-    border-top: solid #e3e3e3;
-    border-bottom: solid #e3e3e3;
-    padding: 1em 0 1em 0;
-}
-
-hr.teams.divider {
-    border-color: #e3e3e3;
-}
-
-hr.projects.divider {
+hr.teams.divider, hr.projects.divider {
     border-color: #353535;
 }
 
 section.teams ul.nav-tabs {
-    border-color: #e3e3e3;
+    /*border-color: #e3e3e3;*/
 }
 
 section.teams ul.nav-tabs li {
@@ -292,19 +276,11 @@ section.teams ul.nav-tabs li {
     transition: all 0.3s;
 }
 
-section.projects ul.nav-tabs {
-    border-color: #353535;
-}
-
 section.projects ul.nav-tabs li {
     float: right;
 }
 
-section.teams ul.nav-tabs a {
-    color: #e3e3e3;
-}
-
-section.projects ul.nav-tabs a {
+section.teams ul.nav-tabs a, section.projects ul.nav-tabs a {
     color: #353535;
 }
 
@@ -314,8 +290,8 @@ section.projects .nav-tabs > li > a:hover {
     background: #353535;
 }
 
-section.teams .nav-tabs > li.active > a,
-section.teams .nav-tabs > li > a:hover {
+section.tab-panel .nav-tabs > li.active > a,
+section.tab-panel .nav-tabs > li > a:hover {
     color: #353535;
     background: #e3e3e3;
 }
@@ -344,6 +320,11 @@ section.projects .pad h1 {
 .profile-wrapper {
     white-space: nowrap;
     overflow: scroll;
+    background-image: url('../img/bulbs.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left;
+    padding: 2em 0 2em 0;
 }
 
 .profile {
