@@ -4,11 +4,31 @@ import smtplib
 from email.mime.text import MIMEText
 
 app = flask.Flask(__name__)
+teams = []
+projects = []
 
 
 @app.route('/')
 def index():
     return flask.render_template('index.html')
+
+
+@app.route('/api/teams')
+@app.route('/api/teams/<ii>', methods=['GET'])
+def get_team(ii=None):
+    if ii:
+        return flask.json.jsonify(teams['data'][int(ii)])
+    else:
+        return flask.json.jsonify(teams)
+
+
+@app.route('/api/projects')
+@app.route('/api/projects/<ii>', methods=['GET'])
+def get_project(ii=None):
+    if ii:
+        return flask.json.jsonify(projects['data'][int(ii)])
+    else:
+        return flask.json.jsonify(projects)
 
 
 @app.route('/api/email', methods=['POST'])
@@ -34,4 +54,10 @@ def send_email():
 
 if __name__ == '__main__':
     app.debug = True
+    with open('static/data/projectsData.json') as data:
+        projects = flask.json.load(data)
+
+    with open('static/data/teamsData.json') as data:
+        teams = flask.json.load(data)
+
     app.run()
