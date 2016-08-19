@@ -1,7 +1,7 @@
 # ubcbest-website
 _Website for Biomedical Engineering Student Team_  
 
-![logo](static/img/best-logo.gif =400x600)
+<img src=“static/img/best-logo.gif” alt=“logo” width=“400” height=“600” />
 
 To run this locally, you must install the `Python` and `Flask` on your computer.  
 To install Flask using `pip`, run  
