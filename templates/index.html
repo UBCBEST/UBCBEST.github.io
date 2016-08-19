@@ -103,8 +103,8 @@
 </div>
 
 <div class="row">
-    <div id="gallery" class="col-xs-12 col-sm-offset-1 col-sm-10"
-         ng-controller="galleryController">
+    <h1 class="col-xs-12 text-center"><i class="fa fa-image"></i>&ensp;<span class="red">Gallery</span></h1>
+    <div id="gallery" class="col-xs-12 col-sm-offset-1 col-sm-10" ng-controller="galleryController">
         <div class="item" ng-class="{ 'portrait': image.orientation === 'portrait' }" ng-repeat="image in images"
              style="background-image: url({[ image.img ]})">
             <div class="gallery-text">
@@ -139,7 +139,7 @@
     <section class="container stats-container">
         <div class="row wow fadeIn" data-wow-delay="0.3s">
             <div class="col-sm-4 text-center">
-                <i class="fa fa-gavel fa-3x"></i>
+                <i class="fa fa-cogs fa-3x"></i>
                 <counter count-to="25" text="prototypes built" step="1"></counter>
             </div>
             <div class="col-sm-4 text-center" data-wow-delay="0.3s">
@@ -147,7 +147,7 @@
                 <counter count-to="34246" text="lines of code written" step="546"></counter>
             </div>
             <div class="col-sm-4 text-center" data-wow-delay="0.3s">
-                <i class="fa fa-user-plus fa-3x"></i>
+                <i class="fa fa-globe fa-3x"></i>
                 <counter count-to="300" text="people reached" step="6"></counter>
             </div>
         </div>
