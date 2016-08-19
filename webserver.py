@@ -23,7 +23,7 @@ def send_email():
     s = smtplib.SMTP('smtp.mailgun.org', 587)
 
     s.login('postmaster@sandboxdc686bea42dd461588344b6135d7b757.mailgun.org', '07c05c110d3caeef2b6786ad2f2be051')
-    # s.sendmail(msg['From'], msg['To'], msg.as_string())
+    s.sendmail(msg['From'], msg['To'], msg.as_string())
     s.quit()
 
     return flask.jsonify({
