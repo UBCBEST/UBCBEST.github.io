@@ -12,7 +12,6 @@
                 $scope.contactForm.$setPristine();
                 $scope.contactForm.$setUntouched();
                 $scope.message = {};
-
             }
         }]);
 })();
