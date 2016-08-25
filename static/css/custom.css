@@ -62,15 +62,6 @@ h1.section-heading {
     background-image: url('../img/landing-parallax.jpg');
 }
 
-.landing {
-    background: #c9544a;
-    background: -webkit-radial-gradient(#FF6357, #9a2720);
-    background: -o-radial-gradient(#FF6357, #9a2720);
-    background: -moz-radial-gradient(#FF6357, #9a2720);
-    background: radial-gradient(#FF6357, #9a2720);
-    min-height: 100vh !important;
-}
-
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > .active > a:hover {
@@ -128,8 +119,7 @@ h1.section-heading {
 
 .photo {
     background-attachment: fixed;
-    background-position: 50% 0;
-    background-repeat: repeat-x;
+    background-repeat: repeat;
 }
 
 footer {
@@ -394,7 +384,7 @@ section.projects .pad h1 {
     white-space: nowrap;
     overflow: scroll;
     background-image: url('../img/bulbs.jpg');
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
     background-position: left;
     padding: 2em 0 2em 0;
