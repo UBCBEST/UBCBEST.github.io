@@ -5,3 +5,7 @@ threadsafe: true
 handlers:
 - url: .*
   script: webserver.app
+
+libraries:
+- name: MySQLdb
+  version: "latest"
