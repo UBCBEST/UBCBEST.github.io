@@ -1,4 +1,4 @@
-body {
+html, body {
     overflow-x: hidden;
     font-family: 'Helvetica Neue', 'Open Sans', sans-serif;
     font-weight: 100;
@@ -95,7 +95,7 @@ h1.section-heading {
 
 #gallery {
     white-space: nowrap;
-    overflow: scroll;
+    overflow-x: scroll;
 }
 
 #gallery .item {
@@ -400,7 +400,7 @@ section.projects .pad h1 {
 
 .profile-wrapper {
     white-space: nowrap;
-    overflow: scroll;
+    overflow-x: scroll;
     background-image: url('../img/bulbs.jpg');
     background-repeat: repeat;
     background-attachment: fixed;
