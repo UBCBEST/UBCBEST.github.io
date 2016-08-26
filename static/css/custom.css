@@ -502,4 +502,33 @@ section.teams .profile {
     #updates .fb-wrapper {
         width: 80vw;
     }
+
+    section.tab-panel .section-heading {
+        text-align: center;
+    }
+
+    section.teams .nav.nav-tabs li:first-of-type {
+        margin-left: 0;
+    }
+
+    section.projects .nav.nav-tabs li:first-of-type {
+        margin-right: 0;
+    }
+
+    .nav.nav-tabs {
+        text-align:center;
+    }
+
+    section.teams ul.nav-tabs li {
+        float: none;
+        transition: all 0.3s;
+        display: inline-block;
+    }
+
+    section.projects ul.nav-tabs li {
+        float: none;
+        transition: all 0.3s;
+        display: inline-block;
+    }
+
 }

@@ -5,7 +5,7 @@
       "icon": "fa-hospital-o",
       "tab": "Donated",
       "name": "Donated Medical Equipment",
-      "abbr": "donated",
+      "abbr": "DME",
       "desc": [
         "A common challenge encountered on the IMDI trip was with the use, maintenance and disposal of donated medical equipment. Studies have shown that as much of 70% of donated medical equipment is never put into use in recipient countries. There are many factors that contribute to this problem, for example a lack of training to use the equipment and technical manuals. Often technical considerations are not accounted for when equipment is donated – such as differences in voltage between countries, and power fluctuations common to low resource settings.",
         "This project aims to further research these challenges, as well as the donation practices of hospitals in Canada, and to identify possible avenues in which this challenge can be addressed and improved."
@@ -49,9 +49,9 @@
     {
       "id": "idea",
       "icon": "fa-database",
-      "tab": "Idea",
-      "name": "IDEA-EMR",
-      "abbr": "EMR",
+      "tab": "IDEA",
+      "name": "Infectious Diseases Emergency Aid - Electronic Medical Record",
+      "abbr": "IDEA-EMR",
       "desc": [
         "The Infectious Disease and Emergency Aid Electronic Medical Records (IDEA EMR) project arose from a proposal generated in November 2014 to address the challenge of transferring and recording patient findings within Ebola Treatment Centers. This project is now developing an EMR that uses a local mesh network to record the findings of patients with infectious diseases such as Ebola."
       ],
@@ -454,11 +454,11 @@
       ]
     },
     {
-      "id": "ffrp",
+      "id": "fft",
       "icon": "fa-chain-broken",
       "tab": "Femur",
-      "name": "Femur Fracture Research",
-      "abbr": "FFRP",
+      "name": "Femur Fracture Treatment",
+      "abbr": "FFT",
       "desc": [
         "Traction is commonly used in international and low resource settings to treat bone fractures, mainly femur fractures, by pulling the bones into alignment and maintaining that alignment for long periods of time. There are a number of challenges associated with this process. For example, patients can be immobile for up to 3 months while undergoing traction, which results in prolonged usage of hospital resources and bed space that is increasingly scarce. This project’s purpose is primarily to research the feasibility of designing a compact device that performs the same mechanics on the leg as traction, but allowing for more patient mobility and decreasing the fracture healing time, thus reducing hospital cost and resource depletion."
       ],
