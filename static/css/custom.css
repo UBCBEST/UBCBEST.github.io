@@ -114,6 +114,10 @@ h1.section-heading {
     width: 350px;
 }
 
+#gallery .item-tooltip {
+    cursor: alias;
+}
+
 #gallery .gallery-text {
     color: white;
     text-align: center;
