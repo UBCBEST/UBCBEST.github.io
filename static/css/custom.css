@@ -167,6 +167,10 @@ footer a:hover {
     color: #b92c28;
 }
 
+footer a:active, footer a:visited {
+    color: #ffc88f;
+}
+
 input[type=text], input[type=email] {
     font-size: 1.5rem;
 }
