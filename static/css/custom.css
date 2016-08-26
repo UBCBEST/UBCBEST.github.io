@@ -54,12 +54,26 @@ h1, h2, h3, h4 {
     }
 }
 
+.navbar-brand {
+    padding: 10px 15px 6px 15px;
+}
+
+.navbar-brand .img-logo {
+    height: 35px;
+    width: 23px;
+}
+
 h1.section-heading {
     padding: 0 1.5em 0 1.5em;
 }
 
 .bulbs.photo {
     background-image: url('../img/landing-parallax.jpg');
+}
+
+.navbar-default .navbar-nav a,
+.navbar-default .navbar-nav > .active > a{
+    transition: all 0.35s;
 }
 
 .navbar-default .navbar-nav > .active > a,
