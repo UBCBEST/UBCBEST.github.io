@@ -72,7 +72,7 @@ h1.section-heading {
 }
 
 .navbar-default .navbar-nav a,
-.navbar-default .navbar-nav > .active > a{
+.navbar-default .navbar-nav > .active > a {
     transition: all 0.35s;
 }
 
@@ -110,6 +110,10 @@ h1.section-heading {
     background-size: 100% auto;
 }
 
+#gallery .item.portrait {
+    width: 350px;
+}
+
 #gallery .gallery-text {
     color: white;
     text-align: center;
@@ -121,10 +125,6 @@ h1.section-heading {
     position: absolute;
     bottom: 10px;
     background: rgba(0, 0, 0, 0.2);
-}
-
-#gallery .item.portrait {
-    width: 350px;
 }
 
 #gallery .item.portrait p {
@@ -534,7 +534,7 @@ section.teams .profile {
     }
 
     .nav.nav-tabs {
-        text-align:center;
+        text-align: center;
     }
 
     section.teams ul.nav-tabs li {
@@ -549,4 +549,20 @@ section.teams .profile {
         display: inline-block;
     }
 
+    #gallery .item {
+        height: 60vw;
+        width: 90vw;
+    }
+
+    #gallery .item.portrait {
+        width: 52vw;
+    }
+
+    #gallery .gallery-text p {
+        width: 90vw;
+    }
+
+    #gallery .item.portrait p {
+        width: 52vw;
+    }
 }
