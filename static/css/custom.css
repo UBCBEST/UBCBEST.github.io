@@ -506,18 +506,18 @@ section.teams .profile {
 
 }
 
-#updates {
+#updates-wrapper-wrapper {
     padding: 3em 0 3em 0;
     margin: 0 auto;
 }
 
-#updates .fb-wrapper {
+#updates-wrapper .fb-wrapper {
     width: 500px;
     margin: auto;
 }
 
 @media (max-width: 768px) {
-    #updates .fb-wrapper {
+    #updates-wrapper .fb-wrapper {
         width: 80vw;
     }
 
