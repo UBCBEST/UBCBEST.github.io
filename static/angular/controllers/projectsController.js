@@ -7,7 +7,7 @@
             function getProject(tabP) {
                 DataFactory.getProject(tabP)
                     .success(function (data) {
-                        $scope.project = data;
+                        $scope.project = data.data;
                     });
             }
 

@@ -1,42 +1,108 @@
-import flask
+from flask import Flask
+from flask import render_template
+from flask import request
+from flask import json
+from flask import jsonify
 import smtplib
 
 from email.mime.text import MIMEText
+from database import database
+from database import GalleryItem, Project, ProjectMember, Team, TeamMember
+from pony.orm import db_session
+from pony.orm import select
 
-app = flask.Flask(__name__)
-with open('static/data/projectsData.json') as data:
-    projects = flask.json.load(data)
+app = Flask(__name__)
 
-with open('static/data/teamsData.json') as data:
-    teams = flask.json.load(data)
+
+class Response(object):
+    @classmethod
+    def _error(cls, type, status_code, msg=None, exc=None):
+        assert type in ["client", "server"]
+        response = jsonify({
+            'message': exc.message if msg is None else msg,
+            'status': '{}-error'.format(type)
+        })
+        response.status_code = status_code
+        return response
+
+    @classmethod
+    def server_error(cls, status_code, msg=None, exc=None):
+        return cls._error("server", status_code=status_code, msg=msg, exc=exc)
+
+    @classmethod
+    def client_error(cls, status_code, msg=None, exc=None):
+        return cls._error("client", status_code=status_code, msg=msg, exc=exc)
+
+    @classmethod
+    def success(cls, data=None, msg=None):
+        response = jsonify({
+            'data': data,
+            'status': 'success',
+            'message': msg
+        })
+        return response
 
 
 @app.route('/')
 def index():
-    return flask.render_template('index.html')
+    return render_template('index.html')
+
+
+@app.route('/api/gallery')
+@db_session
+def get_gallery():
+    data = []
+    for item in select(i for i in GalleryItem):
+        print item.to_dict(with_lazy=True)
+        data.append(item.to_dict(with_lazy=True))
+    return Response.success(data=data)
 
 
 @app.route('/api/teams')
-@app.route('/api/teams/<ii>', methods=['GET'])
+@app.route('/api/teams/<ii>')
+@db_session
 def get_team(ii=None):
     if ii:
-        return flask.json.jsonify(teams['data'][int(ii)])
+        team = Team.get(id=int(ii) + 1)
+        if not team:
+            return Response.client_error(msg='Team not found')
+        data = team.to_dict(with_lazy=True)
+        data['members'] = []
+        for member in team.members:
+            data['members'].append(member.to_dict(with_lazy=True))
+        return Response.success(data=data)
     else:
-        return flask.json.jsonify(teams)
+        data = []
+        for team in select(t for t in Team):
+            data.append(team.to_dict(with_lazy=True))
+        return Response.success(data=data)
 
 
 @app.route('/api/projects')
-@app.route('/api/projects/<ii>', methods=['GET'])
+@app.route('/api/projects/<ii>')
+@db_session
 def get_project(ii=None):
     if ii:
-        return flask.json.jsonify(projects['data'][int(ii)])
+        project = Project.get(id=int(ii) + 1)
+        if not project:
+            return Response.client_error(msg='Project not found')
+        data = project.to_dict(with_lazy=True)
+        data['members'] = []
+        for member in project.members:
+            data['members'].append(member.to_dict(with_lazy=True))
+        return Response.success(data=data)
     else:
-        return flask.json.jsonify(projects)
+        data = []
+        for project in select(p for p in Project):
+            data.append(project.to_dict(with_lazy=True))
+        return Response.success(
+            data=data
+        )
 
 
 @app.route('/api/email', methods=['POST'])
 def send_email():
-    data = flask.request.get_json()
+    data = request.get_json()
 
     msg = MIMEText(data['body'] + '\n\n' + data['name'])
     msg['Subject'] = data['subject']
@@ -49,7 +115,7 @@ def send_email():
     s.sendmail(msg['From'], msg['To'], msg.as_string())
     s.quit()
 
-    return flask.jsonify({
+    return jsonify({
         'status': 'success',
         'message': 'woooo'
     })

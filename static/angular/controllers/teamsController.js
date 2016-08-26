@@ -7,13 +7,14 @@
             function getTeam(tabT) {
                 DataFactory.getTeam(tabT)
                     .success(function (data) {
-                        $scope.team = data;
+                        $scope.team = data.data;
                     });
             }
 
             DataFactory.teams()
                 .success(function (data) {
                     $scope.teams = data.data;
+                    console.log($scope.teams[0].name);
                 });
 
             $scope.selectT = function (member) {

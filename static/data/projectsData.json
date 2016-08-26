@@ -236,7 +236,7 @@
           "name": "Rahat Dande",
           "position": "Project Lead",
           "img": "/static/img/projects/ptm/rahat-dhande.jpg",
-          "year": "2nd Year",
+          "year": "2nd",
           "department": "Engineering Physics",
           "desc": "Rahat Dhande is passionate about science and technology, and their application in Biomedical Engineering.  In his spare time, Rahat likes to wonder what he could do if he had spare time."
         },
@@ -526,8 +526,8 @@
           "name": "Himani Kukreja",
           "img": "/static/img/projects/femur/himani-kukreja.jpg",
           "position": "Member",
-          "year": "",
-          "department": "",
+          "year": "1st",
+          "department": "Engineering",
           "desc": ""
         }
       ]

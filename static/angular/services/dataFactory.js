@@ -3,7 +3,7 @@
         .factory('DataFactory', ['$http', function ($http) {
             return {
                 images: function () {
-                    return $http.get('/static/data/galleryData.json');
+                    return $http.get('/api/gallery');
                 },
                 projects: function () {
                     return $http.get('/api/projects');

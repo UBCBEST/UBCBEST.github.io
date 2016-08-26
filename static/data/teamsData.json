@@ -273,10 +273,11 @@
       "name": "Alumni",
       "members": [
         {
-          "img": "/static/img/placeholder.png"
-        },
-        {
-          "img": "/static/img/placeholder.png"
+          "name": "placeholder",
+          "img": "/static/img/placeholder.png",
+          "link": "https://www.linkedin.com",
+          "desc": [
+          ]
         }
       ]
     },
@@ -292,6 +293,7 @@
           "year": "1st",
           "department": "Engineering",
           "img": "/static/img/teams/spc/elaine-baluyut.jpg",
+          "link": "https://www.linkedin.com",
           "desc": [
             "Coming from a country with a poor healthcare system, like the Philippines, has driven Elaine’s interest in improving global health. She believes that biomedical advancements have the ability to make massive ripples in all realms of society and provide much needed medical aid in low resource communities."
           ]
@@ -302,6 +304,7 @@
           "year": "1st",
           "department": "Engineering",
           "img": "/static/img/teams/spc/sofia-echeverria.jpg",
+          "link": "https://www.linkedin.com",
           "desc": [
             "Sofia is excited to jumpstart her hands-on experience with BEST. She became passionate about global health issues while completing a Global Studies Program and a pre-college Biomedical program at George Washington University. She aims to expand her knowledge on developing solutions relevant to global health issues, while working with professional and talented peers."
           ]
@@ -312,6 +315,7 @@
           "year": "1st",
           "department": "Engineering",
           "img": "/static/img/teams/spc/ashley-lloyd.jpg",
+          "link": "https://www.linkedin.com",
           "desc": [
             "Ashley has been passionate about medicine since she was in kindergarten. Having lived in South Africa for ten years, she has a profound interest in global health and awareness. Through BEST Ashley hopes to find a way to combine her love of physics with her passion for medicine."
           ]
@@ -322,6 +326,7 @@
           "year": "1st",
           "department": "Engineering",
           "img": "/static/img/teams/spc/tiffany-quon.jpg",
+          "link": "https://www.linkedin.com",
           "desc": [
             "Tiffany is passionate about design. She has experience with publicity and graphic design, and has recently discovered a love for hand lettering. Tiffany is interested in the intersection between design, science, and social justice, which she hopes to continue finding out more about with BEST!"
           ]
@@ -332,6 +337,7 @@
           "year": "1st",
           "department": "Engineering",
           "img": "/static/img/teams/spc/adriano-sela.jpg",
+          "link": "https://www.linkedin.com",
           "desc": [
             "Adriano has a profound interest in Theoretical Physics and Mechanics. He lived in Uganda for two and a half years and is deeply involved in local and international communities of Kampala. In his spare time he enjoys playing basketball, reading about interesting Physics concepts, and spontaneous miscellaneous plans."
           ]
@@ -342,6 +348,7 @@
           "year": "1st",
           "department": "Engineering",
           "img": "/static/img/teams/spc/reid-sutherland.jpg",
+          "link": "https://www.linkedin.com",
           "desc": [
             "Reid has a strong interest in Chemical and Biological Engineering.  He is passionate about activism and making the world a better place.  One day he hopes to be developing new and improved pharmaceuticals. In his spare time he enjoys reading, volleyball, and spending time with family and friends."
           ]
@@ -352,6 +359,7 @@
           "year": "1st",
           "department": "Engineering",
           "img": "/static/img/placeholder.png",
+          "link": "https://www.linkedin.com",
           "desc": [
             "Andrew Yan joined BEST because he wanted to help design medical devices.  His hobbies include swimming, badminton, reading a good book and watching TV."
           ]
