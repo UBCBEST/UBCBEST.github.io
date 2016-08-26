@@ -9,7 +9,7 @@ h1, h2, h3, h4 {
 }
 
 .red {
-    color: #691b18;
+    color: #932532;
 }
 
 .bold {
@@ -80,7 +80,7 @@ h1.section-heading {
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > .active > a:hover {
     color: #e3e3e3;
-    background: #691b18;
+    background: #932532;
 }
 
 .presentation.photo {
@@ -164,7 +164,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #b92c28;
+    color: #932532;
 }
 
 footer a:active, footer a:visited {
@@ -232,7 +232,7 @@ textarea {
 }
 
 .social ul li a:not(.btn):hover {
-    color: #b92c28;
+    color: #932532;
 }
 
 /* Donate button animation */
@@ -264,7 +264,7 @@ textarea {
 
 .btn:hover .bottom {
     top: 7px;
-    color: #b92c28;
+    color: #932532;
 }
 
 .btn .content {
@@ -374,7 +374,7 @@ section.tab-panel ul.nav-tabs a {
 section.tab-panel .nav-tabs > li.active > a,
 section.tab-panel .nav-tabs > li > a:hover {
     color: #e3e3e3;
-    background: #691b18;
+    background: #932532;
 }
 
 ul.nav.nav-tabs > li:hover {
