@@ -1,5 +1,6 @@
 html, body {
     overflow-x: hidden;
+    width: 100%;
     font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
     font-weight: 100;
 }
@@ -34,10 +35,6 @@ h1, h2, h3, h4 {
     font-weight: 100;
     /*color: #ac2925;*/
     color: #e3e3e3;
-}
-
-.center {
-    text-align: center;
 }
 
 @media (max-width: 768px) {
@@ -314,7 +311,7 @@ textarea {
     padding: 5em 0;
     margin-top: 2em;
     margin-bottom: 2em;
-    background: linear-gradient(230deg, #ffadad, #FFD6AD, #ffc88f);
+    background: linear-gradient(230deg, #ff5050, #ffc88f, #cc3300);
     background-size: 300% 300%;
     animation: css-gradient 20s ease infinite;
 }
@@ -357,10 +354,6 @@ hr.teams.divider, hr.projects.divider {
     border-color: #353535;
 }
 
-section.teams ul.nav-tabs {
-    /*border-color: #e3e3e3;*/
-}
-
 section.teams ul.nav-tabs li {
     float: left;
     transition: all 0.3s;
@@ -387,7 +380,6 @@ ul.nav.nav-tabs > li:hover {
 
 section.projects .pad h1 {
     text-align: right;
-    padding: inherit;
 }
 
 .tab-pane {
@@ -521,6 +513,10 @@ section.teams .profile {
 }
 
 @media (max-width: 768px) {
+    .pad {
+        padding: 1.5em 1em;
+    }
+
     #updates-wrapper .fb-wrapper {
         width: 80vw;
     }

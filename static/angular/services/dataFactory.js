@@ -16,6 +16,9 @@
                 },
                 getTeam: function (index) {
                     return $http.get('/api/teams/'+index);
+                },
+                recruitment: function () {
+                    return $http.get('/static/data/recruitmentData.json')
                 }
             }
         }]);

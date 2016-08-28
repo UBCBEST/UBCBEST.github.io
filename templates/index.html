@@ -63,6 +63,9 @@
                     <a class="page-scroll" href="#updates">Updates</a>
                 </li>
                 <li>
+                    <a class="page-scroll" href="#apply">Apply</a>
+                </li>
+                <li>
                     <a class="page-scroll" href="#contact">Contact</a>
                 </li>
             </ul>
@@ -88,31 +91,35 @@
     </div>
 </div>
 
-<div class="row" id="about">
-    <div class="col-xs-12 col-sm-4 pad center">
-        <h1><i class="fa fa-info-circle"></i>&ensp;<span class="red">About</span></h1>
-        <p>
-            We are a multi-disciplinary team of students from the Faculty of Applied Science
-            (Engineering), Science, Sauder School of Business, Kinesiology, Arts and Medicine with the shared goal of
-            improving quality of life and healthcare services with innovative
-            technologies.
-        </p>
-    </div>
+<div class="pad">
+    <div class="row" id="about">
+        <div class="col-xs-12 col-sm-4 text-center">
+            <h1><i class="fa fa-info-circle"></i>&ensp;<span class="red">About</span></h1>
+            <p class="text-justify">
+                We are a multi-disciplinary team of students from the Faculty of Applied Science
+                (Engineering), Science, Sauder School of Business, Kinesiology, Arts and Medicine focused on developing
+                context appropriate solutions to medical challenges worldwide.
+            </p>
+        </div>
 
-    <div class="col-xs-12 col-sm-4 pad center">
-        <h1><i class="fa fa-line-chart"></i>&ensp;<span class="red">Vision</span></h1>
-        <p>
-            Build a multidisciplinary community that cultivates networking, technical growth, and collaboration in the
-            biomedical field at UBC.
-        </p>
-    </div>
+        <div class="col-xs-12 col-sm-4 text-center">
+            <h1><i class="fa fa-line-chart"></i>&ensp;<span class="red">Vision</span></h1>
+            <p class="text-justify">
+                Build a multidisciplinary community that cultivates networking, technical growth, and collaboration in
+                the
+                biomedical field at UBC.
+            </p>
+        </div>
 
-    <div class="col-xs-12 col-sm-4 pad center">
-        <h1><i class="fa fa-hand-grab-o"></i>&ensp;<span class="red">Mission</span></h1>
-        <p>
-            Identify medical challenges that capable students can address in an innovative way with the goal of
-            improving quality of life globally.
-        </p>
+        <div class="col-xs-12 col-sm-4 text-center">
+            <h1><i class="fa fa-hand-grab-o"></i>&ensp;<span class="red">Mission</span></h1>
+            <ul class="text-justify list-unstyled">
+                <li>Successfully implement relevant technology in the medical community to optimize care.
+                <li>Develop our members both technically and professionally.</li>
+                <li>Promote student learning of entrepreneurship in the biomedical field.</li>
+                </li>
+            </ul>
+        </div>
     </div>
 </div>
 
@@ -151,6 +158,51 @@
     </div>
 </div>
 
+<div class="pad" id="apply" ng-controller="applyController">
+    <h1 class="red">Apply</h1>
+    <div class="row">
+        <div class="col-xs-12" ng-show="recruitmentMessage">
+            <blockquote>
+                *** {[ recruitmentMessage ]} ***
+            </blockquote>
+        </div>
+        <div class="col-xs-6 col-sm-3">
+            <h2><i class="fa fa-child"></i>&ensp;Undergraduate Students</h2>
+            <p>UBC BEST is constantly recruiting talented undergraduate students to contribute to our projects. Please
+                refer to our active postings to see if we are currently recruiting for specific positions.
+                <br/>
+                If you feel as if you are not technically experienced for the open roles, be sure to check out our
+                Mentorship Program.</p>
+        </div>
+        <div class="col-xs-6 col-sm-3">
+            <h2><i class="fa fa-graduation-cap"></i>&ensp;Graduate Students </h2>
+            <p>Although UBC BEST does not have any graduate students working as technical members, we are always
+                interested
+                in speaking to potential advisors. Currently, we have multiple graduate students who contribute to our
+                team by acting as an advisor to one or more of the projects. If you think you had skills that could
+                benefit BEST, please get in touch!</p>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <h2><i class="fa fa-stethoscope"></i>&ensp;Medical Professionals</h1>
+                <p>UBC BEST is always looking for new projects to work on that address challenges in the medical field.
+                    If
+                    you
+                    have an idea, would like to get involved as an advisor, or just want to hear more about our team
+                    then we
+                    would appreciate the opportunity to meet with you.</p>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <h2><i class="fa fa-industry"></i>&ensp;Industry Members</h1>
+                <p>UBC BEST benefits greatly from advisors in the engineering field. If you are interested in learning
+                    more
+                    about BEST and contributing to our team, then we would appreciate the opportunity to get in touch
+                    and
+                    look
+                    for areas for collaboration.</p>
+        </div>
+    </div>
+</div>
+
 <div class="stats-container">
     <section class="container">
         <div class="row wow fadeIn" data-wow-delay="0.3s">
@@ -168,7 +220,6 @@
             </div>
         </div>
     </section>
-
 </div>
 
 <div parallax-background class="bulbs photo" parallax-ratio="0.1" id="contact">
@@ -182,12 +233,14 @@
 <script src="/static/assets/js/angular-parallax.js"></script>
 <script src="/static/assets/js/wow.min.js"></script>
 <script src="/static/assets/js/stellar.min.js"></script>
+<script src="/static/assets/js/creative.js"></script>
 <script src="/static/angular/counterApp.js"></script>
 <script src="/static/angular/app.js"></script>
 <script src="/static/angular/controllers/galleryController.js"></script>
 <script src="/static/angular/controllers/teamsController.js"></script>
 <script src="/static/angular/controllers/projectsController.js"></script>
 <script src="/static/angular/controllers/contactController.js"></script>
+<script src="/static/angular/controllers/applyController.js"></script>
 <script src="/static/angular/directives/connect.js"></script>
 <script src="/static/angular/directives/projectsDirective.js"></script>
 <script src="/static/angular/directives/teamsDirective.js"></script>

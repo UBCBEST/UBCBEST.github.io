@@ -268,7 +268,7 @@
     },
     {
       "id": "alum",
-      "icon": "fa-child",
+      "icon": "fa-star",
       "tab": "Alumni",
       "name": "Alumni",
       "members": [
@@ -281,10 +281,10 @@
       ]
     },
     {
-      "id": "spc",
-      "icon": "fa-star",
-      "tab": "Special",
-      "name": "Specialized Roles",
+      "id": "ment",
+      "icon": "fa-user",
+      "tab": "Mentorship",
+      "name": "Mentorship Program",
       "members": [
         {
           "name": "Elaine Baluyut",
