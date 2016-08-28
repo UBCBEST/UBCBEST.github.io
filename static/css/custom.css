@@ -123,12 +123,12 @@ h1.section-heading {
 
 #gallery .gallery-text p {
     width: 600px;
-    position: absolute;
-    bottom: 10px;
+    position: relative;
+    top: 350px;
     background: rgba(0, 0, 0, 0.5);
 }
 
-#gallery .item.portrait p {
+#gallery .item.portrait .gallery-text p {
     width: 350px;
 }
 
