@@ -93,6 +93,7 @@ h1.section-heading {
 #gallery {
     white-space: nowrap;
     overflow-x: scroll;
+    height: 400px;
 }
 
 #gallery .item {
@@ -105,6 +106,7 @@ h1.section-heading {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% auto;
+    vertical-align: top;
 }
 
 #gallery .item.portrait {
@@ -554,6 +556,10 @@ section.teams .profile {
         float: none;
         transition: all 0.3s;
         display: inline-block;
+    }
+
+    #gallery {
+        height: 60vw;
     }
 
     #gallery .item {
