@@ -412,7 +412,8 @@ section.projects .pad h1 {
     color: #e3e3e3;
     height: 21em;
     width: 21em;
-    display: inline-block;
+    display: inline-flex;
+    vertical-align: middle;
     overflow: auto;
     white-space: normal;
     padding: 0 1em 0 1em;
@@ -482,6 +483,12 @@ section.teams .profile {
     transition: all 0.5s;
     height: 200px;
     width: 150px;
+}
+
+.profile .contents {
+    height: 21em;
+    overflow: hidden;
+    width: 100%;
 }
 
 .profile .contents .name {
@@ -559,6 +566,7 @@ section.teams .profile {
     }
 
     #gallery .gallery-text p {
+        top: 50vw;
         width: 90vw;
     }
 
