@@ -5,16 +5,8 @@
             $scope.tabT = 0;
 
             function getTeam(tabT) {
-                DataFactory.getTeam(tabT)
-                    .success(function (data) {
-                        $scope.team = data;
-                    });
+                $scope.team = $scope.teams[tabT];
             }
-
-            DataFactory.teams()
-                .success(function (data) {
-                    $scope.teams = data.data;
-                });
 
             $scope.selectT = function (member) {
                 $scope.selectedT = member;
@@ -29,6 +21,10 @@
                 getTeam(tab);
             };
 
-            getTeam($scope.tabT);
+            DataFactory.teams()
+                .success(function (data) {
+                    $scope.teams = data.data;
+                    getTeam($scope.tabT);
+                });
         });
 })();

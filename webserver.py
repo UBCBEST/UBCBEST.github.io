@@ -17,21 +17,13 @@ def index():
 
 
 @app.route('/api/teams')
-@app.route('/api/teams/<ii>', methods=['GET'])
-def get_team(ii=None):
-    if ii:
-        return flask.json.jsonify(teams['data'][int(ii)])
-    else:
-        return flask.json.jsonify(teams)
+def get_team():
+    return flask.json.jsonify(teams)
 
 
 @app.route('/api/projects')
-@app.route('/api/projects/<ii>', methods=['GET'])
-def get_project(ii=None):
-    if ii:
-        return flask.json.jsonify(projects['data'][int(ii)])
-    else:
-        return flask.json.jsonify(projects)
+def get_project():
+    return flask.json.jsonify(projects)
 
 
 @app.route('/api/email', methods=['POST'])
