@@ -26,5 +26,12 @@
                     $scope.teams = data.data;
                     getTeam($scope.tabT);
                 });
+        })
+        .directive('teamsDirective', function () {
+            return {
+                restrict: "E",
+                templateUrl: "/static/angular/templates/teams.html",
+                controller: "teamsController"
+            }
         });
 })();

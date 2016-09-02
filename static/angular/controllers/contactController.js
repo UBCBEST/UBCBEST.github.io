@@ -13,5 +13,13 @@
                 $scope.contactForm.$setUntouched();
                 $scope.message = {};
             }
-        }]);
+        }])
+        .directive('contact', function () {
+            return {
+                restrict: 'E',
+                templateUrl: '/static/angular/templates/contact.html',
+                controller: 'contactController',
+                controllerAs: 'contactCtrl'
+            };
+        });
 })();

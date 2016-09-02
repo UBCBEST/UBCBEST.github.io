@@ -26,5 +26,12 @@
                     $scope.projects = data.data;
                     getProject($scope.tabP);
                 });
+        })
+        .directive('projectsDirective', function () {
+            return {
+                restrict: "E",
+                templateUrl: "/static/angular/templates/projects.html",
+                controller: "projectsController"
+            }
         });
 })();
