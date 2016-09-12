@@ -1,7 +1,7 @@
 {
   "status": {
-    "active": false,
-    "activeMessage": "UBC BEST is currently seeking undergraduate students who share a passion for biomedical engineering to join our team. To see current opportunities please refer to our Recruitment Package. If you are less experienced in your degree, we are currently looking for students to join our Mentorship Program.",
+    "active": true,
+    "activeMessage": "UBC BEST is currently seeking undergraduate students who share a passion for biomedical engineering to join our team. To see current opportunities please refer to our Recruitment Package. If you are less experienced in your degree, we are currently looking for students to join our Mentorship Program. Please find our contact info below.",
     "inactiveMessage": "UBC BEST is not currently seeking new members. If you are interested in getting involved or hearing more about the team, however, please contact us below!"
   }
 }
