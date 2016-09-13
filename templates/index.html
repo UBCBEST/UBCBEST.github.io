@@ -163,7 +163,10 @@
         <div class="col-xs-12" ng-show="recruitmentMessage">
             <blockquote>
                 <i class="red fa fa-exclamation-triangle" ng-show="activeRecruitment"></i>
-                {[ recruitmentMessage ]}
+                {[ recruitmentMessage ]}<br />
+                <a ng-repeat="link in links" ng-show="activeRecruitment" href="{[ link.href ]}" target="_blank">
+                    {[ link.name ]}<br />
+                </a>
             </blockquote>
         </div>
         <div class="col-xs-6 col-sm-3">

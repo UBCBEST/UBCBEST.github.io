@@ -8,6 +8,8 @@
             DataFactory.recruitment()
                 .success(function (data) {
                     var status = data.status;
+                    $scope.links = data.links;
+
                     if (status.active) {
                         $scope.activeRecruitment = true;
                         $scope.recruitmentMessage = status.activeMessage;
