@@ -173,10 +173,12 @@ footer a {
 
 footer a:hover {
     color: #932532;
+    text-decoration: none;
 }
 
-footer a:active, footer a:visited {
+footer a:active, footer a:visited, footer a:focus {
     color: #ffc88f;
+    text-decoration: none;
 }
 
 input[type=text], input[type=email] {
