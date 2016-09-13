@@ -72,15 +72,7 @@
           "department": "Engineering Physics",
           "desc": "Elizabeth is specializing in Electrical option, with a passion for biomedical engineering. She has extensive experience working in the biomedical industry through work terms at Kardium Inc., BC Cancer Research Center, and UBC MS/MRI Research Group. She is excited to provide technical support and mentorship for this project team."
         },
-        {
-          "name": "Jon Schmok",
-          "img": "/static/img/placeholder.png",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "Jon Schmok is passionate about both technology and medicine, and is hoping to work towards a PhD and pursue a research career in Biomedical Engineering."
-        },
+
         {
           "name": "Alessandro Narciso",
           "img": "/static/img/placeholder.png",
@@ -139,7 +131,7 @@
       "name": "Music 2 Movement",
       "abbr": "M2M",
       "desc": [
-        "Approximately 800,000 people suffer from a stroke each year; about one every four seconds. Suffering a stroke results in the weakness and or loss of function in the body. Often times, those who have suffered from a stroke undergo a repetitive rehabilitation process in order to recover important daily functions. Music to Movement is a student body led initiative aimed at developing an assistive music therapy device that creates a more motivating and engaging experience towards recovery. One year since inception, Music to Movement has emerged through the collaboration of all the sub teams of UBC BEST, and the extensive research and guidance from our partnered music therapists."
+        "Approximately 800,000 people suffer from a stroke each year; about one every four seconds. Suffering a stroke results in the weakness and or loss of function in the body. Often times, those who have suffered from a stroke undergo a repetitive rehabilitation process in order to recover important daily functions. Music to Movement is a student body led initiative aimed at developing an assistive music therapy device that creates a more motivating and engaging experience towards recovery. Two years since inception, Music to Movement has emerged through the collaboration of all the sub teams of UBC BEST, and the extensive research and guidance from our partnered music therapists. Along with strong continued development, M2M has been featured as finalists at the MDDC Awards for Excellence in Biomedical Engineering Design and Innovation as well as for the RESNA (Rehabilitation Engineering and Assistive Technology Society of North America) Student Design Competition Award."
       ],
       "members": [
         {
