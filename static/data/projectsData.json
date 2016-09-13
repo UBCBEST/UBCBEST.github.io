@@ -441,10 +441,11 @@
       "id": "fft",
       "icon": "fa-chain-broken",
       "tab": "Femur",
-      "name": "Femur Fracture Treatment",
+      "name": "Femur Fracture Treatment Project",
       "abbr": "FFT",
       "desc": [
-        "Traction is commonly used in international and low resource settings to treat bone fractures, mainly femur fractures, by pulling the bones into alignment and maintaining that alignment for long periods of time. There are a number of challenges associated with this process. For example, patients can be immobile for up to 3 months while undergoing traction, which results in prolonged usage of hospital resources and bed space that is increasingly scarce. This project’s purpose is primarily to research the feasibility of designing a compact device that performs the same mechanics on the leg as traction, but allowing for more patient mobility and decreasing the fracture healing time, thus reducing hospital cost and resource depletion."
+        "Trauma is a major cause of death and disability worldwide and motor vehicle accidents are the leading cause of nonfatal injuries, with femur fractures being the most common musculoskeletal injury. Effective femoral surgery is not easily accessible to patients in low income countries and as a result, patients are treated with other methods. One of the most common treatments is called skeletal traction, a non-surgical method of realigning bones through constant force application. It is a method that requires few resources and is not deemed surgical, but constrains a patient to a bed for 2-3 months and is often accompanied by complications including pin-tract infection, malunion, nonunion, blood clots, and pressure sores. The Femur Fracture Treatment Project team aims to design a device that aligns and maintains alignment of a broken femur, while being compact and allowing more mobility than current methods. The project aims to design a device that will produce better patient outcomes, increase mobility, and decrease hospital cost and bed time compared to current traction treatment.",
+        "The team is currently prototyping various designs of the device, while also conducting research on bone and fracture mechanics and bone healing. The team is working with a group of Orthopaedic Medicine students in Uganda to develop the device so it is context appropriate and will be successful in improving traction treatment in low income countries."
       ],
       "members": [
         {
