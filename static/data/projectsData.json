@@ -483,7 +483,7 @@
         {
           "name": "Georgia Grzybowski",
           "img": "/static/img/projects/donated/georgia-grzybowski.jpg",
-          "position": "Project Adviser",
+          "position": "Project Advisor",
           "year": "3rd",
           "department": "Mechanical Engineering, Minor in Science",
           "biomed": true,
@@ -491,11 +491,67 @@
         },
         {
           "name": "Rahat Dande",
-          "position": "Project Adviser",
+          "position": "Project Advisor",
           "img": "/static/img/projects/ptm/rahat-dhande.jpg",
           "year": "2nd Year",
           "department": "Engineering Physics",
           "desc": "Rahat Dhande is passionate about science and technology, and their application in Biomedical Engineering.  In his spare time, Rahat likes to wonder what he could do if he had spare time."
+        }
+      ]
+    },
+    {
+      "id": "imdi",
+      "icon": "fa-mobile-phone",
+      "tab": "IMDI",
+      "name": "International Medical Device Initiative",
+      "abbr": "IMDI",
+      "desc": [
+        "The International Medical Device Initiative (IMDI) was a 3 week international fact-finding mission to Kenya and Uganda that took place in May 2015 after months of planning and preparation. The purpose of this initiative was to investigate medical challenges in international environments that our team could address with contextually appropriate innovations, and to develop connections with local medical professionals who we could collaborate with in the future."
+      ],
+      "links":[
+        {
+          "text": "Find out more about the IMDI project.",
+          "url": "http://best.ece.ubc.ca/imdi/"
+        },
+        {
+          "text": "Read about our trip on our blog.",
+          "url": "http://best.ece.ubc.ca/category/imdi-2015/"
+        }
+      ],
+      "members": [
+        {
+          "name": "Andrea Marshall",
+          "img": "/static/img/projects/donated/andrea-marshall.jpg",
+          "position": "Trip Member",
+          "year": "4th",
+          "department": "Electrical Engineering",
+          "desc": "Andrea was part of the team that traveled to Kenya and Uganda in May 2015. She also has 23 months of work experience in the medical device industry at Kardium Inc, LightIntegra Technology and Haemonetics. She is looking forward to providing mentorship and support for this project. In her spare time she enjoys yoga, volleyball, spin classes and BEST!"
+        },
+        {
+          "name": "Georgia Grzybowski",
+          "img": "/static/img/projects/donated/georgia-grzybowski.jpg",
+          "position": "Trip Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering, Minor in Science",
+          "biomed": true,
+          "desc": "Global healthcare and biomedical innovation is above everything else what I am most passionate about. I am thrilled to be the lead for this projects and to be working with the amazing students of UBC BEST. I am currently on co-op and am proudly working for Mantra Energy Alternatives."
+        },
+        {
+          "name": "Marysia Grzybowski",
+          "img": "/static/img/projects/donated/marysia-grzybowski.jpg",
+          "position": "Trip Member",
+          "year": "5th",
+          "department": "Integrated Sciences",
+          "desc": "Marysia is studying Neuroscience through the integration of physiology and psychology. She was one of the members that traveled to Kenya and Uganda on a fact-finding mission in May 2015. She is passionate about global health and the integral role that technology has in medical advancement."
+        },
+        {
+          "name": "Blake Henderson",
+          "img": "/static/img/projects/rrm/blake-henderson.jpg",
+          "position": "Trip Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering, Minor in Commerce",
+          "biomed": true,
+          "desc": "Blake was one of the team members who traveled to Kenya and Uganda on a fact-finding mission this past year. While there, he spent a lot of time in the Paediatrics departments and is looking forward to using those experiences to help guide the development of this project. He has previously worked in Orthopaedic Research at the Centre for Hip Health and Mobility at Vancouver General Hospital, and on the Research Team at Kardium Inc., where he will be returning to work in the summer."
         }
       ]
     }

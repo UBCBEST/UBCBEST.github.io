@@ -10,6 +10,10 @@ html, body {
     color: #e3e3e3;
 }
 
+a.red:hover {
+    color: inherit;
+}
+
 h1, h2, h3, h4 {
     font-weight: 100;
 }
@@ -120,6 +124,10 @@ h1.section-heading {
 
 #gallery .item-tooltip {
     cursor: alias;
+}
+
+#gallery .item:hover .item-tooltip {
+    text-decoration: none;
 }
 
 #gallery .gallery-text {
