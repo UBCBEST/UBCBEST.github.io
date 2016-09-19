@@ -65,9 +65,9 @@
                 <div class="modal-body">
                     <img ng-src="{[ selectedP.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
                     <h3>{[ selectedP.position ]}</h3>
-                    <p class="lead">
+                    <p class="lead" ng-show="selectedP.year">
                         {[ selectedP.year ]} Year {[ selectedP.department ]}
-                        <small ng-show="member.biomed"><br/>(Biomedical Option)</small>
+                        <small ng-show="selectedP.biomed"><br/>(Biomedical Option)</small>
                     </p>
                     <p>{[ selectedP.desc ]}</p>
                 </div>
