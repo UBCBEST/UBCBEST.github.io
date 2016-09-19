@@ -4,11 +4,11 @@
       "id": "donated",
       "icon": "fa-hospital-o",
       "tab": "Donated",
-      "name": "Donated Medical Equipment",
-      "abbr": "DME",
+      "name": "Donated Medical Equipment Project",
+      "abbr": "DMEP",
       "desc": [
         "A common challenge encountered on the IMDI trip was with the use, maintenance and disposal of donated medical equipment. Studies have shown that as much of 70% of donated medical equipment is never put into use in recipient countries. There are many factors that contribute to this problem, for example a lack of training to use the equipment and technical manuals. Often technical considerations are not accounted for when equipment is donated – such as differences in voltage between countries, and power fluctuations common to low resource settings.",
-        "This project aims to further research these challenges, as well as the donation practices of hospitals in Canada, and to identify possible avenues in which this challenge can be addressed and improved."
+        "This project aims to improve medical equipment donation practices from Canada to low income countries. The team aims to work in partnership with Canadian charities, and biomedical professionals to develop appropriate solutions to improving the quality of donations made to low income countries and the system in which they are donated. The DEMP team is currently organizing a webinar with CMBES to facilitate collaboration and communication between Canadian charities that donate medical equipment. The webinar will facilitate discussion regarding challenges charities face when donating and possible solutions to improve those challenges. "
       ],
       "members": [
         {
