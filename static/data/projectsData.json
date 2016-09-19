@@ -4,11 +4,11 @@
       "id": "donated",
       "icon": "fa-hospital-o",
       "tab": "Donated",
-      "name": "Donated Medical Equipment",
-      "abbr": "DME",
+      "name": "Donated Medical Equipment Project",
+      "abbr": "DMEP",
       "desc": [
         "A common challenge encountered on the IMDI trip was with the use, maintenance and disposal of donated medical equipment. Studies have shown that as much of 70% of donated medical equipment is never put into use in recipient countries. There are many factors that contribute to this problem, for example a lack of training to use the equipment and technical manuals. Often technical considerations are not accounted for when equipment is donated – such as differences in voltage between countries, and power fluctuations common to low resource settings.",
-        "This project aims to further research these challenges, as well as the donation practices of hospitals in Canada, and to identify possible avenues in which this challenge can be addressed and improved."
+        "This project aims to improve medical equipment donation practices from Canada to low income countries. The team aims to work in partnership with Canadian charities, and biomedical professionals to develop appropriate solutions to improving the quality of donations made to low income countries and the system in which they are donated. The DEMP team is currently organizing a webinar with CMBES to facilitate collaboration and communication between Canadian charities that donate medical equipment. The webinar will facilitate discussion regarding challenges charities face when donating and possible solutions to improve those challenges. "
       ],
       "members": [
         {
@@ -64,15 +64,6 @@
           "department": "Integrated Sciences",
           "desc": "Marysia is studying Neuroscience through the integration of physiology and psychology. She was one of the members that traveled to Kenya and Uganda on a fact-finding mission in May 2015. She is passionate about global health and the integral role that technology has in medical advancement."
         },
-        {
-          "name": "Elizabeth Wicks",
-          "position": "Associate Captain",
-          "img": "/static/img/projects/idea-emr/elizabeth-wicks.jpg",
-          "year": "5th",
-          "department": "Engineering Physics",
-          "desc": "Elizabeth is specializing in Electrical option, with a passion for biomedical engineering. She has extensive experience working in the biomedical industry through work terms at Kardium Inc., BC Cancer Research Center, and UBC MS/MRI Research Group. She is excited to provide technical support and mentorship for this project team."
-        },
-
         {
           "name": "Alessandro Narciso",
           "img": "/static/img/placeholder.png",
@@ -142,14 +133,6 @@
           "department": "Mechanical Engineering",
           "biomed": true,
           "desc": "May has been a driving force for the Music to Movement project in the previous year and looks forward to leading her team in further developing UBC BEST’s stroke rehabilitation device. In the past, May has worked as an undergraduate student volunteer doing PR2 software development and programming a Myo-Controlled Robot Arm demo. She currently works for Arbutus Medical as a biomedical engineering co-op student and is living her dream of making a positive difference to the global health community one small step at a time."
-        },
-        {
-          "name": "Julie Kerr",
-          "position": "Associated Captain",
-          "img": "/static/img/projects/m2m/julie-kerr.jpg",
-          "year": "3rd",
-          "department": "Mechanical Engineering (Biomed Option)",
-          "desc": "Julie is looking forward to applying the knowledge that she gained on her work term at Ballard to this project. This past summer, Julie was on a work term at Strait Access Technology in South Africa working on a mitral valve repair device."
         },
         {
           "name": "Clinton Large",
@@ -232,22 +215,6 @@
           "department": "Electrical Engineering",
           "biomed": true,
           "desc": "Brandon has immense interest in software development. He has extensive work experience including a work term in the Collaborative Advanced Robotics and Intelligent Systems (CARIS) lab and Robotics for Rehabilitation at UBC . He is looking forward to leading this excellent team of students!"
-        },
-        {
-          "name": "Andrea Marshall",
-          "img": "/static/img/projects/donated/andrea-marshall.jpg",
-          "position": "Associated Captain",
-          "year": "4th",
-          "department": "Electrical Engineering",
-          "desc": "Andrea was part of the team that traveled to Kenya and Uganda in May 2015. She also has 23 months of work experience in the medical device industry at Kardium Inc, LightIntegra Technology and Haemonetics. She is looking forward to providing mentorship and support for this project. In her spare time she enjoys yoga, volleyball, spin classes and BEST!"
-        },
-        {
-          "name": "Elizabeth Wicks",
-          "position": "Associate Captain",
-          "img": "/static/img/projects/idea-emr/elizabeth-wicks.jpg",
-          "year": "5th",
-          "department": "Engineering Physics",
-          "desc": "Elizabeth is specializing in Electrical option, with a passion for biomedical engineering. She has extensive experience working in the biomedical industry through work terms at Kardium Inc., BC Cancer Research Center, and UBC MS/MRI Research Group. She is excited to provide technical support and mentorship for this project team."
         },
         {
           "name": "Carol Fu",
@@ -354,15 +321,6 @@
           "desc": "Karen joined BEST to explore her interest in medicine, especially in neurology and rehabilitation, as well as the development of medical devices for low resource settings. Karen has previously worked in the biomedical industry as a co-op student at LightIntegra Technology where she will be returning this summer, and hopes to pursue a similar career in the medical device industry."
         },
         {
-          "name": "Blake Henderson",
-          "img": "/static/img/projects/rrm/blake-henderson.jpg",
-          "position": "Associate Captain",
-          "year": "3rd",
-          "department": "Mechanical Engineering, Minor in Commerce",
-          "biomed": true,
-          "desc": "Blake was one of the team members who traveled to Kenya and Uganda on a fact-finding mission this past year. While there, he spent a lot of time in the Paediatrics departments and is looking forward to using those experiences to help guide the development of this project. He has previously worked in Orthopaedic Research at the Centre for Hip Health and Mobility at Vancouver General Hospital, and on the Research Team at Kardium Inc., where he will be returning to work in the summer."
-        },
-        {
           "name": "Lap-Tak Chu",
           "img": "/static/img/projects/rrm/lap-tak-chu.jpg",
           "position": "Member",
@@ -456,14 +414,6 @@
           "department": "Mechanical Engineering, Minor in Science",
           "biomed": true,
           "desc": "Global healthcare and biomedical innovation is above everything else what I am most passionate about. I am thrilled to be the lead for this projects and to be working with the amazing students of UBC BEST. I am currently on co-op and am proudly working for Mantra Energy Alternatives."
-        },
-        {
-          "name": "Julie Kerr",
-          "position": "Associated Captain",
-          "img": "/static/img/projects/m2m/julie-kerr.jpg",
-          "year": "3rd",
-          "department": "Mechanical Engineering (Biomed Option)",
-          "desc": "Julie is looking forward to applying the knowledge that she gained on her work term at Ballard to this project. This past summer, Julie was on a work term at Strait Access Technology in South Africa working on a mitral valve repair device."
         },
         {
           "name": "Amara Kraft",
