@@ -88,7 +88,7 @@
           "year": "3rd",
           "department": "Mechanical Engineering",
           "biomed": true,
-          "desc": "Karen joined BEST to explore her interest in medicine, especially in neurology and rehabilitation, as well as the development of medical devices for low resource settings. Karen has previously worked in the biomedical industry as a co-op student at LightIntegra Technology where she will be returning this summer, and hopes to pursue a similar career in the medical device industry."
+          "desc": "I’m very excited to be joining BEST for another year and am looking forward to see what our dedicated team can accomplish! Previously, I have worked in the biomedical industry at LightIntegra Technology in Vancouver and am excited to use the skills I gained there for the development of BEST. In the future, I hope to get involved with injury biomechanics and rehabilitation, or aerospace design and development."
         },
         {
           "name": "Lap-Tak Chu",
@@ -170,6 +170,32 @@
           "department": "Electrical Engineering",
           "biomed": true,
           "desc": "One of the main reasons I joined UBC was because of it's biomedical engineering program and UBC BEST was a great opportunity for me to gain more hands on practical experience in my intended field of study and pursue my interest. I joined UBC BEST in my second year and have enjoyed being part of the Respiratory Rate Monitor team since then."
+        },
+        {
+          "name": "Reid Sutherland",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Chemical & Biological Engineering",
+          "desc": "Reid strives to make the world a better place, and hopes to do so throughout the course of his studies, and later his career.  He is interested in drug delivery systems, pharmaceuticals, enzyme engineering, and the production and design of synthetic organs."
+        },
+        {
+          "name": "Henry (Harry) Pigot",
+          "position": "Member",
+          "year": "4th",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": "I have experience working in a number of research and development environments over the past four years in Canada, Germany, Japan, and Sweden. After almost two years working on ex-vivo organ perfusion machines, I am eager to share my perspective on medical device development with UBC BEST. It is a pleasure to be involved in problem definition, prototyping, design, and testing with the RRM team."
+        },
+        {
+          "name": "Alessandro Narciso",
+          "img": "/static/img/placeholder.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Electrical Engineering",
+          "desc": [
+            "My passion lies in innovation and making a difference in the world. When I came to UBC and discovered BEST, I instantly fell in love with innovating impactful medical devices with the aim to improve global health, especially for those in low resource settings.",
+            "I’m extremely passionate about software having previously worked on the IDEA EMR Project with BEST, as well as the world of business and entrepreneurship having worked for the Alberta Government, Department of Economic Development and Trade."
+            ]
         }
       ]
     },
@@ -198,14 +224,6 @@
           "year": "5th",
           "department": "Integrated Sciences",
           "desc": "Marysia is studying Neuroscience through the integration of physiology and psychology. She was one of the members that traveled to Kenya and Uganda on a fact-finding mission in May 2015. She is passionate about global health and the integral role that technology has in medical advancement."
-        },
-        {
-          "name": "Alessandro Narciso",
-          "img": "/static/img/placeholder.png",
-          "position": "Member",
-          "year": "1st",
-          "department": "Engineering",
-          "desc": "Alessandro is deeply passionate about biomedical engineering. Through UBC BEST, he aims to pursue this passion and create an impact in the world by developing medical innovations to aid those in low-resource settings. Besides biomedical engineering, Alessandro’s interests include soccer, boxing, playing guitar, software development and travelling."
         },
         {
           "name": "Jade Varelle",
