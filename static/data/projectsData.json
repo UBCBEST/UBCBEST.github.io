@@ -162,6 +162,14 @@
           "year": "2nd",
           "department": "Chemical & Biological Engineering",
           "desc": ""
+        },
+        {
+          "name": "Yamen Taha",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": "One of the main reasons I joined UBC was because of it's biomedical engineering program and UBC BEST was a great opportunity for me to gain more hands on practical experience in my intended field of study and pursue my interest. I joined UBC BEST in my second year and have enjoyed being part of the Respiratory Rate Monitor team since then."
         }
       ]
     },
