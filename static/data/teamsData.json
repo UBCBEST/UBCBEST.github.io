@@ -282,6 +282,33 @@
       ]
     },
     {
+      "id": "adv",
+      "icon": "fa-commenting",
+      "tab": "Advisor",
+      "name": "Advisor Team",
+      "members": [
+        {
+          "name": "Rohit Singla",
+          "title": "Advisor",
+          "img": "/static/img/teams/adv/rohit-singla.jpg",
+          "link": "",
+          "desc": [
+            "Rohit is an MASc candidate in Biomedical Engineering. His research is innovating surgical techniques for kidney cancer. "
+          ]
+        },
+        {
+          "name": "David Weekes",
+          "title": "Advisor",
+          "img": "/static/img/placeholder.png",
+          "link": "",
+          "desc": [
+            "My passion for biotechnology and innovation stems from a project I was involved in at the start of 2016, in which myself and a small, interdisciplinary team of UBC students underwent the initial stages of building a health-and-wellness start-up.",
+            "We focused more on the business side of things, including customer discovery, financial planning, networking, and investment pitching; however, I am a scientist at heart, and I have lots of experience in publishing, experimental design, IP searches, and data processing."
+          ]
+        }
+      ]
+    },
+    {
       "id": "ment",
       "icon": "fa-user",
       "tab": "Mentorship",
