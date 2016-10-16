@@ -315,75 +315,103 @@
       "name": "Mentorship Program",
       "members": [
         {
-          "name": "Elaine Baluyut",
-          "position": "Mentee",
-          "year": "1st",
-          "department": "Engineering",
-          "img": "/static/img/teams/spc/elaine-baluyut.jpg",
+          "name": "Aria Rezapour",
+          "position": "Head of Mentorship",
+          "year": "3rd",
+          "department": "Integrated Engineering",
+          "img": "/static/img/projects/m2m/aria-rezapour.jpg",
           "desc": [
-            "Coming from a country with a poor healthcare system, like the Philippines, has driven Elaine’s interest in improving global health. She believes that biomedical advancements have the ability to make massive ripples in all realms of society and provide much needed medical aid in low resource communities."
+            "As a Head of Mentorship and member of Music to Movement I strive to support and guide new members of UBC BEST to develop the technical and professional skills to contribute to finding solutions in Biomedical Engineering. This opportunity has allowed me to combine my passion and experience in developing Biomedical devices with my desire to teach others and help them build their capacity.",
+            "The Biomedical field provides a unique opportunity, as I continues to strive towards working for social change, and explore the contributions that the marriage of engineering and physiology can have to improving people’s lives and society at large, an endeavour I hope to share with others."
           ]
         },
         {
-          "name": "Sofia Echeverria",
-          "position": "Mentee",
-          "year": "1st",
-          "department": "Engineering",
-          "img": "/static/img/teams/spc/sofia-echeverria.jpg",
+          "name": "Esther Lin",
+          "position": "Head of Mentorship",
+          "year": "2nd",
+          "department": "Engineering Physics",
+          "img": "",
           "desc": [
-            "Sofia is excited to jumpstart her hands-on experience with BEST. She became passionate about global health issues while completing a Global Studies Program and a pre-college Biomedical program at George Washington University. She aims to expand her knowledge on developing solutions relevant to global health issues, while working with professional and talented peers."
+            ""
           ]
         },
         {
-          "name": "Ashley Lloyd",
+          "name": "Nikita Srivalsan",
           "position": "Mentee",
           "year": "1st",
           "department": "Engineering",
-          "img": "/static/img/teams/spc/ashley-lloyd.jpg",
+          "img": "",
           "desc": [
-            "Ashley has been passionate about medicine since she was in kindergarten. Having lived in South Africa for ten years, she has a profound interest in global health and awareness. Through BEST Ashley hopes to find a way to combine her love of physics with her passion for medicine."
+            "Considering the extensive use of engineering technology in healthcare, pursuing biomedical engineering would aid me in following my interest in neurological disorders and their prevention using biomedical technology.",
+            "One idea that always intrigued me is the notion of giving paralyzed individuals the ability to move through the use of brain-controlled assistive devices. I want to learn how to apply principles and techniques from engineering sciences to global medical problems, to provide society with more innovative medical devices for the future."
           ]
         },
         {
-          "name": "Tiffany Quon",
+          "name": "Michael Ko",
           "position": "Mentee",
           "year": "1st",
           "department": "Engineering",
-          "img": "/static/img/teams/spc/tiffany-quon.jpg",
+          "img": "",
           "desc": [
-            "Tiffany is passionate about design. She has experience with publicity and graphic design, and has recently discovered a love for hand lettering. Tiffany is interested in the intersection between design, science, and social justice, which she hopes to continue finding out more about with BEST!"
+            "I'm very passionate about helping others with disabilities, and interested in the field of medicine regarding DNA and genetics. Inspired by growing up with a physically disabled brother, I hope to be admitted into Mechanical Engineering under the Biomedical option next year, and pursue my goal of creating a more advanced and comfortable wheelchair for those who have physical limitations.",
+            "My dream is to help discover a cure for my brother who has Duchenne Muscular Dystrophy."
           ]
         },
         {
-          "name": "Adriano Sela",
+          "name": "Alexander Waslen",
           "position": "Mentee",
           "year": "1st",
           "department": "Engineering",
-          "img": "/static/img/teams/spc/adriano-sela.jpg",
+          "img": "",
           "desc": [
-            "Adriano has a profound interest in Theoretical Physics and Mechanics. He lived in Uganda for two and a half years and is deeply involved in local and international communities of Kampala. In his spare time he enjoys playing basketball, reading about interesting Physics concepts, and spontaneous miscellaneous plans."
+            "My interests lie in both medicine and engineering and in developing technologies that combine the two. I am excited at the prospect of designing solutions to problems in the healthcare field and I love learning new skills, especially when they are hands-on.",
+            "In my free time I enjoy playing tennis, reading, and playing various musical instruments."
           ]
         },
         {
-          "name": "Reid Sutherland",
+          "name": "Milena Ljusic",
           "position": "Mentee",
-          "year": "1st",
-          "department": "Engineering",
-          "img": "/static/img/teams/spc/reid-sutherland.jpg",
+          "year": "2nd",
+          "department": "Material Engineering",
+          "img": "",
           "desc": [
-            "Reid has a strong interest in Chemical and Biological Engineering.  He is passionate about activism and making the world a better place.  One day he hopes to be developing new and improved pharmaceuticals. In his spare time he enjoys reading, volleyball, and spending time with family and friends."
+            "I have always been passionate about helping others. However, rather than studying to become a doctor, I chose to become an engineer; I want to work on advancing the technology used in the healthcare system and create more accessible healthcare tools for developing countries–allowing doctors all over the world to effectively and efficiently treat their patients.",
+            "I am hoping to specialize in Biomaterials in my fourth year as well as pursue a Master’s and Doctorate Degree in Biomedical Engineering."
           ]
         },
         {
-          "name": "Andrew Yan",
+          "name": "Morgan Kaye",
           "position": "Mentee",
           "year": "1st",
           "department": "Engineering",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "desc": [
-            "Andrew Yan joined BEST because he wanted to help design medical devices.  His hobbies include swimming, badminton, reading a good book and watching TV."
+            "I intend on pursuing either chemical or biomedical engineering, and am hoping that the skills I develop in BEST will help me be successful throughout my engineering program. I am passionate about global health issues and am excited to see how my involvement in BEST can aid third world countries."
+          ]
+        },
+        {
+          "name": "Michael Halim",
+          "position": "Mentee",
+          "year": "1st",
+          "department": "Engineering",
+          "img": "",
+          "desc": [
+            "Coming from Indonesia, I have always valued the importance of medical advancements and its impact towards our society.",
+            "As such, I aspire to pursue graduate school and establish a biotechnology startup in order to make greater progress in improving global health and change the community for the better. I am looking forward to learning from and working with talented peers at UBC BEST to alleviate some of the world’s most pressing health challenges."
+          ]
+        },
+        {
+          "name": "Leanna Hogarth",
+          "position": "Mentee",
+          "year": "2nd",
+          "department": "Electrical Engineering, Biomedical Option",
+          "img": "",
+          "desc": [
+            "For as long as I can remember, I have had a passion for science and its applications for human well-being.",
+            "Having experience with fine pitch soldering, Arduino programming, and basic PCB prototyping, I hope to have the opportunity to apply these skills to solve real world healthcare problems with the help of BEST. Although I have yet to be involved in any BEST projects, I look forward to collaborating with the team in the future."
           ]
         }
+
       ]
     }
   ]
