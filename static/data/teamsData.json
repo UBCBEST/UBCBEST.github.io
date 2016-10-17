@@ -413,6 +413,38 @@
         }
 
       ]
+    },
+    {
+      "id": "donor",
+      "icon": "fa-heart",
+      "tab": "Donor",
+      "name": "Donor Team",
+      "members": [
+        {
+          "name": "Dr. James McEwen",
+          "title": "President, Western Clinical Engineering Ltd.",
+          "img": "/static/img/teams/bod/james-mcewen.jpg",
+          "link": ""
+        },
+        {
+          "name": "Paul Geyer",
+          "title": "CEO, LightIntegra Technology",
+          "img": "/static/img/teams/bod/paul-geyer.jpg",
+          "link": ""
+        },
+        {
+          "name": "SpencerCreo Foundation",
+          "title": "",
+          "img": "",
+          "link": ""
+        },
+        {
+          "name": "Laurent Pelissier",
+          "title": "Chairman and CEO, Clarius Mobile Health",
+          "img": "",
+          "link": ""
+        }
+      ]
     }
   ]
 }
