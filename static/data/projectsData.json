@@ -328,7 +328,7 @@
           "year": "3rd",
           "department": "Mechanical Engineering, Minor in Science",
           "biomed": true,
-          "desc": "Global healthcare and biomedical innovation is above everything else what I am most passionate about. I am thrilled to be the lead for this projects and to be working with the amazing students of UBC BEST. I am currently on co-op and am proudly working for Mantra Energy Alternatives."
+          "desc": "I am a third year Mechanical Engineering student with an option in Biomedical Engineering. I was a member of the IMDI field team and was involved in the identification of the needs and challenges that have shaped four of BEST’s current projects. I saw first hand the burden of trauma in low income countries and the challenges with femur fracture treatment. This put into perspective the need for biomedical innovation in treatment and motivated me to development this project."
         },
         {
           "name": "Amara Kraft",
@@ -368,9 +368,10 @@
           "name": "Karla Rivera",
           "img": "/static/img/projects/femur/karla-rivera.jpg",
           "position": "Member",
-          "year": "2nd",
+          "year": "3rd",
           "department": "Mechanical Engineering",
-          "desc": "Karla has a strong interest in the development of technologies that contribute to medical innovations. Becoming a BEST member in her first year has allowed her to become even more passionate and fascinated by the technology that is continuously improving the physical, as well as mental health of others. In her spare time, Karla enjoys hiking, camping, yoga and competitive in Karate."
+          "biomed": true,
+          "desc": "Karla is very passionate about advancing biomedical technologies to improve individuals' quality of life. She is very excited to collaborate with medical professionals and apply her co-op experience to develop a low-cost and effective alternative to current traction practices. During her free time, Karla enjoys hiking, reading and practicing karate."
         },
         {
           "name": "Himani Kukreja",
@@ -379,6 +380,57 @@
           "year": "",
           "department": "",
           "desc": ""
+        },
+        {
+          "name": "Amanda Tuey",
+          "img": "/static/img/placeholder.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "desc": "I am a passionate student with high interest in new technologies and innovations that contribute to improving daily life in low-income countries, especially within the health care system.  I have experience building guitars and other wood-working projects, and I also have technical experience working at General Fusion and General Electric. I’m not quite sure where ultimate passions lie, but I plan to gain more experience through UBC BEST, international exchange, minors in Commerce and Computer Science, and co-op to find out!"
+        },
+        {
+          "name": "Cyrus Thomas",
+          "img": "/static/img/placeholder.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Medicine",
+          "desc": "Interest in orthopaedic medicine along with a previous degree in Kinesiology from McMaster make the Femur Fracture Treatment Project (FFTP) a perfect outlet to build upon my driving passion. My developing medical background allows me to participate as part of the research team alongside other members with varying interests and unique skill sets. When I have some free time, you can find me doing all things outdoors or enjoying the latest creations at Rain or Shine!"
+        },
+        {
+          "name": "Tyler Lee-Jarvis",
+          "img": "/static/img/placeholder.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "I have a passion for developing clinical and assistive medical devices for people that do not have access to adequate funding or facilities to receive the care they need. I am a Camosun College transfer student now enrolled in my 3rd year of mechanical engineering (biomedical option) at UBC. As a new member of BEST I look forward to the development of real-world solutions to medical issues worldwide."
+        },
+        {
+          "name": "Jessie Massong",
+          "img": "/static/img/placeholder.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "desc": "Jessie believes that technology is highly valuable to advancing medicine. She wants to help make the adoption of medical technologies more widespread in both developed and developing countries. She is excited to apply her hands-on mechanical design experience to developing devices that target specific needs in the clinic. Jessie loves collaborating with the amazing community of intelligent, creative and caring people created by BEST."
+        },
+        {
+          "name": "Eric Allum",
+          "img": "/static/img/placeholder.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "Engineering for healthcare is an exciting new opportunity for me with a lot of potential for innovation.  I am looking forward to utilizing the experience I’ve gained as a C.E.T. in the oil & gas industry to design and prototype creative solutions to challenging global health problems.  In whatever spare time I can make I like to do cool stuff on mountains, fish, and hike."
+        },
+        {
+          "name": "Jessica Bo",
+          "img": "/static/img/placeholder.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "My inspiration to pursue my passion for promoting innovative medical technologies came as a result of volunteering as a pediatrics research adviser and advocate. I gained valuable mechanical design experience during my co-op terms at Mazdis, which I hope to bring to the Femur Fracture Treatment Project team. I also love travelling the world and exploring new places!"
         }
       ]
     },
