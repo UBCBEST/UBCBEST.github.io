@@ -109,12 +109,13 @@
           ]
         },
         {
-          "name": "Muieen Cader",
+          "name": "Eric Cho",
           "title": "Business Team Lead",
-          "img": "/static/img/teams/man/muieen-cader.jpg",
-          "link": "https://ca.linkedin.com/in/muieen",
+          "img": "",
+          "link": "",
           "desc": [
-            "I am a 4th year UBC Sauder School of Business student currently specializing in both Real Estate and Entrepreneurship. I have worked in both manufacturing and NGO’s prior to my role in UBC BEST. I am a member as it is helping me to better understand product development in a growing industry. Please feel free to contact me regarding anything business related."
+            "I am a 4th year Sauder student specializing in Accounting and Operations & Logistics. As the Business Team Lead, my main duty is to ensure that the UBC BEST projects get a business perspective during the development phase.",
+            "Over the last 4 years, I have gained a diverse range of experiences in multiple industries including competitive debate, financial services, academic research, and commercial insurance."
           ]
         }
       ]
@@ -126,30 +127,43 @@
       "name": "Business Team",
       "members": [
         {
-          "name": "Muieen Cader",
+          "name": "Eric Cho",
           "title": "Business Team Lead",
-          "img": "/static/img/teams/man/muieen-cader.jpg",
-          "link": "https://ca.linkedin.com/in/muieen",
+          "img": "",
+          "link": "",
           "desc": [
-            "I am a 4th year UBC Sauder School of Business student currently specializing in both Real Estate and Entrepreneurship. I have worked in both manufacturing and NGO’s prior to my role in UBC BEST. I am a member as it is helping me to better understand product development in a growing industry. Please feel free to contact me regarding anything business related."
+            "I am a 4th year Sauder student specializing in Accounting and Operations & Logistics. As the Business Team Lead, my main duty is to ensure that the UBC BEST projects get a business perspective during the development phase.",
+            "Over the last 4 years, I have gained a diverse range of experiences in multiple industries including competitive debate, financial services, academic research, and commercial insurance."
           ]
         },
         {
-          "name": "Isabel Keng",
-          "title": "HR Specialist",
-          "img": "/static/img/teams/bus/isabel-keng.jpg",
-          "link": "https://www.linkedin.com/in/isabelkeng",
+          "name": "Andrew Ladouceur",
+          "title": "Member",
+          "img": "",
+          "link": "",
           "desc": [
-            "Isabel is a fourth year UBC Sauder School of Business student specializing in Human Resources. She is looking forward to developing a more structured recruitment process for UBC BEST and helping in the development of better management structures and processes."
+            "I believe in innovative ideas, backed with technical analysis to produce disruptive, data-driven solutions. As an entrepreneur and case study enthusiast, consulting has always been a career of interest of mine, and I am excited to positively impact people across the world with UBC BEST.",
+            "I have experience working as a special projects intern where I assisted with a $22 million acquisition, as well leading a 50-person group to launch an app for a startup I am working with."
           ]
         },
         {
-          "name": "Lap-Tak Chu",
-          "title": "Treasurer",
-          "img": "/static/img/teams/bus/lap-tak-chu.jpg",
-          "link": "https://www.linkedin.com/in/lap-tak-chu-b36638106",
+          "name": "Herman Chiu",
+          "title": "Member",
+          "img": "",
+          "link": "",
           "desc": [
-            ""
+            "Herman is an amicable, inspired listener whose role in every job seems inveterately to gravitate towards operational strategy – it may even seem that he doesn’t otherwise think at work. Of course, his passion for tech, start-ups, and venture capital comes from an unwavering, unabashed; undiminished; nigh upon naïve hope for the world, with balanced roots in both the humanities and social sciences.",
+            "Besides theoretically rigorous (sometimes interminably arid) conversation, he enjoys exercises in running, skiing, golfing, hiking, verbosity and gastronomy."
+          ]
+        },
+        {
+          "name": "Vania Hung",
+          "title": "Member",
+          "img": "",
+          "link": "",
+          "desc": [
+            "My goal is to work in the healthcare industry and I am excited to combine my business knowledge and passion to give back to the community as a business consultant.",
+            "I have gained analytical, research, and communication skills through various extracurricular activities and work experience. I look forward to working with the rest of the team to further develop my skills with these projects!"
           ]
         }
       ]
@@ -413,38 +427,6 @@
         }
 
       ]
-    }/*,
-    {
-      "id": "donor",
-      "icon": "fa-heart",
-      "tab": "Donor",
-      "name": "Donor Team",
-      "members": [
-        {
-          "name": "Dr. James McEwen",
-          "title": "President, Western Clinical Engineering Ltd.",
-          "img": "/static/img/teams/bod/james-mcewen.jpg",
-          "link": ""
-        },
-        {
-          "name": "Paul Geyer",
-          "title": "CEO, LightIntegra Technology",
-          "img": "/static/img/teams/bod/paul-geyer.jpg",
-          "link": ""
-        },
-        {
-          "name": "SpencerCreo Foundation",
-          "title": "",
-          "img": "",
-          "link": ""
-        },
-        {
-          "name": "Laurent Pelissier",
-          "title": "Chairman and CEO, Clarius Mobile Health",
-          "img": "",
-          "link": ""
-        }
-      ]
-    }*/
+    }
   ]
 }
