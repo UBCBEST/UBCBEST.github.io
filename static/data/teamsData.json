@@ -55,8 +55,8 @@
           "img": "/static/img/teams/man/marysia-grzybowski.jpg",
           "link": "https://www.linkedin.com/in/marysia-grzybowski-244838b9",
           "desc": [
-            "I am excited to take on the roles of project lead in the IDEA EMR Project and the Medical Equipment Donations Project. I was one of the members that travelled to Kenya and Uganda, and look forward to using the findings gathered on the trip to develop medical technology that will have a positive impact on society. ",
-            "I am a 5th year Integrated Sciences student studying Neuroscience through the integration of physiology and psychology. Some of the most valuable experiences that I have had during my undergraduate degree have been researching behavioural neuroscience, travelling, volunteering in a cardiac hospital in Nepal and of course being a member of UBC BEST and in the IMDI trip to Uganda and Kenya. I am very passionate about global health and hope to pursue a career in medicine in the future."
+            "I am in my 5th year in Integrated Sciences, studying physiology and behavioral neuroscience. UBC BEST has given me the opportunity to pursue my passion for using multidisciplinary and contextually appropriate approaches to improve the access and acceptability of patient care worldwide. Within BEST I am pursuing (should this be: I have experience facilitating..) our international partnership with the Makerere University Biomedical Engineering Program. I was one of four members who travelled to Uganda and Kenya to establish collaborations like this and research challenges healthcare workers experience in the delivery of patient care in low resource settings.",
+            "I was the project co-lead of the IDEA Electronic Medical Records (EMR) project which partnered with Innovative Canadians for Change (ICChange) to develop a trauma registry mobile application for Eastern African countries. This product is being further developed by ICChange, with the goal to improve patient care following traumatic injury. On the Ebola Aid Project team I collaborated with NGDI to design an EMR for rural Ebola Treatment Centers. I also have experience facilitating the collaboration between BEST and the UBC Faculty of Medicine, and was the co-lead of the Donated Medical Equipment Project which researched the sustainability of donating medical equipment to low-income countries."
           ]
         },
         {
@@ -65,8 +65,8 @@
           "img": "/static/img/teams/man/georgia-grzybowski.jpg",
           "link": "https://ca.linkedin.com/pub/georgia-grzybowski/85/b24/a8b",
           "desc": [
-            "It has been rewarding to be part of the team's growth and adaption over the past 3 years. UBC BEST has provided myself and fellow team-members with the opportunity to learn first-hand about the medical device design process, and gain hands-on problem definition and prototyping experience.",
-            "I have had the pleasure of working in different R&D environments in Canada, Germany, Japan, and Sweden. It is this experience in medical device design and testing that I contribute to the UBC BEST management team. I am trained in the application of risk management to medical devices (ISO 14971) as well as quality management systems for the design and manufacture of medical devices (ISO 13485). After nearly two years working on ex-vivo organ perfusion machines, I am excited to share my industry experience with the rest of the team."
+            "I am a third year Mechanical Engineering student with an option in Biomedical Engineering. I am a passionate member of BEST and a dedicated leader of the Femur Fracture Treatment Project and the Donated Medical Equipment Project. I was a member of the IMDI field team and was involved in the identification of the needs and challenges that have shaped four of BEST’s current projects. I am thrilled to have been apart of the identification and starting development of both the projects I lead. The IMDI Initiative put into perspective the essential need for biomedical innovation and healthcare development in international settings.",
+            "I am excited to be apart of this new and growing field that has the potential to make an impact in a setting where improvement in health care is needed the most. The BEST team has not only given me the opportunity to follow and explore this passion of mine, but also to make a difference in this field."
           ]
         },
         {
@@ -109,13 +109,23 @@
           ]
         },
         {
+          "name": "Henry (Harry) Pigot",
+          "title": "Executive Advisor",
+          "img": "",
+          "link": "",
+          "desc": [
+            "It has been rewarding to be part of the team's growth and adaption over the past 3 years. UBC BEST has provided myself and fellow team-members with the opportunity to learn first-hand about the medical device design process, and gain hands-on problem definition and prototyping experience.",
+            "I have had the pleasure of working in different R&D environments in Canada, Germany, Japan, and Sweden. It is this experience in medical device design and testing that I contribute to the UBC BEST management team. I am trained in the application of risk management to medical devices (ISO 14971) as well as quality management systems for the design and manufacture of medical devices (ISO 13485). After nearly two years working on ex-vivo organ perfusion machines, I am excited to share my industry experience with the rest of the team."
+          ]
+        },
+        {
           "name": "Eric Cho",
           "title": "Business Team Lead",
           "img": "",
           "link": "",
           "desc": [
-            "I am a 4th year Sauder student specializing in Accounting and Operations & Logistics. As the Business Team Lead, my main duty is to ensure that the UBC BEST projects get a business perspective during the development phase.",
-            "Over the last 4 years, I have gained a diverse range of experiences in multiple industries including competitive debate, financial services, academic research, and commercial insurance."
+            "Recognizing the unique opportunity of bridging talent between faculties, I wanted to join UBC BEST to work with students of all faculties. I am a 4th year Sauder student specializing in Accounting and Operations & Logistics. As the Business Team Lead, my main duty is to ensure that the UBC BEST projects get a business perspective during the development phase.",
+            "Over the last 4 years, I have gained a diverse range of experiences in multiple industries. Everything from coaching students in competitive debate to Ivy League debate tournaments, to providing financial service at G&F Financial Group, and doing research assistant work at Sauder. This past summer I worked as a Summer Analyst at AIG, underwriting small to large cap firms. I love being able to apply my knowledge and skills to create real world impacts, and am always striving to see how I can make a difference. The biomedical industry is a rapidly growing and dynamic field to be in, and am truly excited to be a part of BEST."
           ]
         }
       ]
@@ -164,6 +174,16 @@
           "desc": [
             "My goal is to work in the healthcare industry and I am excited to combine my business knowledge and passion to give back to the community as a business consultant.",
             "I have gained analytical, research, and communication skills through various extracurricular activities and work experience. I look forward to working with the rest of the team to further develop my skills with these projects!"
+          ]
+        },
+        {
+          "name": "Linda Dai",
+          "title": "Member",
+          "img": "",
+          "link": "",
+          "desc": [
+            "I'm a self-motivated and interpersonal worker, with experience in team management, SEO, and market analytics",
+            " My aspirations in life include obtaining a career in strategy consulting, travelling the world, and hopefully doing my part in the world someday. I enjoy reading about the latest news in space exploration and spending too much time organizing my to do list."
           ]
         }
       ]
