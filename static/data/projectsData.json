@@ -140,14 +140,6 @@
           "desc": "Lap-Tak is passionate about improving global health. He hopes to pursue a career in the medical and health industry. In his spare time he enjoys being in the outdoors."
         },
         {
-          "name": "Nima Sarrafi",
-          "img": "/static/img/projects/rrm/nima-sarrafi.jpg",
-          "position": "Member",
-          "year": "4th",
-          "department": "Electrical Engineering",
-          "desc": "Nima has experience with signal processing through developing a personalized surgical tourniquet for his capstone project and is looking forward to applying that experience to this project."
-        },
-        {
           "name": "Amira Balderin",
           "img": "/static/img/projects/rrm/amira-balderin.jpg",
           "position": "Member",
@@ -530,14 +522,6 @@
           "year": "3rd",
           "department": "Electrical Engineering",
           "desc": "Raj has a strong interest in developing low cost medical devices and also is passionate about the use of mechatronics in the field of biomedical engineering.  In his spare time he likes reading books, tinkering and breaking things, watching movies, and listening to classical music."
-        },
-        {
-          "name": "Parynaz Adamy",
-          "img": "/static/img/projects/ptm/parynaz-adamy.jpg",
-          "position": "Member",
-          "year": "4th",
-          "department": "Computer Science and Biology",
-          "desc": "Parynaz worked as a research assistant at Michael Smith Laboratories, subjecting little E.coli to experimental evolution (essentially making super bugs) to understand where/how mutations happen.  As cute as super bug E.coli were, her love of computer science and background in Biology have made her interested in its applications to Biomedical engineering.  She is thrilled to be a part of UBC BEST and this awesome project.  In her spare time, Parynaz likes to kill it in cycling class and then eat ice cream."
         },
         {
           "name": "Tavia Walsh",

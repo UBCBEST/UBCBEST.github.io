@@ -274,10 +274,12 @@
       "name": "Alumni",
       "members": [
         {
-          "img": ""
+          "name": "Nima Sarrafi",
+          "img": "/static/img/projects/rrm/nima-sarrafi.jpg"
         },
         {
-          "img": ""
+          "name": "Parynaz Adamy",
+          "img": "/static/img/projects/ptm/parynaz-adamy.jpg"
         }
       ]
     },
