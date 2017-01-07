@@ -72,7 +72,7 @@
         {
           "name": "James Zhou",
           "position": "Member",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "year": "3rd",
           "department": "Computer Engineering",
           "desc": "I joined UBC BEST because I want to learn more about biomedical devices as well as the role of computer systems in the field of biotechnology.  I have experience with embedded systems programming and database design, and am currently working on integrating a relational database to store patient records and sessional data for the M2M device. Aside from trying to debug my code and differentiating resistor band colours, I like to read science fiction novels and practice Taekwondo."
@@ -80,7 +80,7 @@
         {
           "name": "Tiffany Quon",
           "position": "Member",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "year": "2nd",
           "department": "Engineering Physics",
           "desc": "I love learning, and I'm really excited by the work M2M—and all of UBC BEST—is doing. I enjoy blogging and hand lettering, and have recently brought this love of writing into web development and coding questions. I also have professional graphic design experience with building brands and working within large, established ones. I hope to build upon my technical skills with M2M, bring my background as a content creator into my work, and contribute to something great."
@@ -88,7 +88,7 @@
         {
           "name": "Sydney Begin",
           "position": "Member",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "year": "3rd",
           "department": "Mechanical Engineering",
           "desc": "I have a passion for music and using my engineering knowledge to develop medical devices that can help make a difference, and am thrilled to contribute to such a great project and team. My experience includes working with interactive devices at SMART Technologies, on advanced control system technology projects at Spartan Controls, and designing and building a track inspection vehicle for the Canada Line at Protrans BC. I look forward to the continued development of the Music to Movement Project!"
@@ -96,7 +96,7 @@
         {
           "name": "Andrew Yan",
           "position": "Member",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "year": "2nd",
           "department": "Electrical Engineering",
           "biomed": true,
@@ -105,7 +105,7 @@
         {
           "name": "Yuki Sekimori",
           "position": "Member",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "year": "2nd",
           "department": "Integrated Engineering",
           "desc": "I have worked on designing the casing and mechanical component, designing the hardware circuit as well as the software that operates the Tap peripheral. I have consulted with local musical therapists and industrial designers to receive their feedback and discuss further improvements of our prototypes. I am driven to make a difference in the world and serve to the community through pursuing the combination of medicine and innovation. It has been an exciting learning experience working with this team."
@@ -207,7 +207,7 @@
         },
         {
           "name": "Yamen Taha",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "3rd",
           "department": "Electrical Engineering",
@@ -216,7 +216,7 @@
         },
         {
           "name": "Reid Sutherland",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "2nd",
           "department": "Chemical & Biological Engineering",
@@ -224,7 +224,7 @@
         },
         {
           "name": "Henry (Harry) Pigot",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "4th",
           "department": "Electrical Engineering",
@@ -233,7 +233,7 @@
         },
         {
           "name": "Alessandro Narciso",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "2nd",
           "department": "Electrical Engineering",
@@ -269,7 +269,7 @@
         },
         {
           "name": "Jade Varelle",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "2nd",
           "department": "Electrical Engineering",
@@ -278,7 +278,7 @@
         },
         {
           "name": "Hamza Faran",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "4th",
           "department": "Computer Engineering",
@@ -286,7 +286,7 @@
         },
         {
           "name": "Emil Maric",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "4th",
           "department": "Computer Engineering",
@@ -294,7 +294,7 @@
         },
         {
           "name": "Koushik Peri",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "4th",
           "department": "Computer Engineering",
@@ -302,7 +302,7 @@
         },
         {
           "name": "Kieren Wou",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "4th",
           "department": "Computer Engineering",
@@ -383,7 +383,7 @@
         },
         {
           "name": "Amanda Tuey",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -391,7 +391,7 @@
         },
         {
           "name": "Cyrus Thomas",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "2nd",
           "department": "Medicine",
@@ -399,7 +399,7 @@
         },
         {
           "name": "Tyler Lee-Jarvis",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -408,7 +408,7 @@
         },
         {
           "name": "Jessie Massong",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -416,7 +416,7 @@
         },
         {
           "name": "Eric Allum",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -425,7 +425,7 @@
         },
         {
           "name": "Jessica Bo",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -516,7 +516,7 @@
         },
         {
           "name": "Harish Anand",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "4th",
           "department": "Electrical Engineering, Minor in Commerce",
@@ -525,7 +525,7 @@
         },
         {
           "name": "Raj Kumar",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "3rd",
           "department": "Electrical Engineering",
@@ -550,7 +550,7 @@
         },
         {
           "name": "Nabil Ali-Mohamad",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "2nd",
           "department": "Chemical & Biological Engineering",
@@ -558,7 +558,7 @@
         },
         {
           "name": "Adriano Sela Aviles",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "2nd",
           "department": "Computer Engineering",
@@ -566,7 +566,7 @@
         },
         {
           "name": "Bhaskar Yechuri",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "position": "Member",
           "year": "2nd",
           "department": "Electrical Engineering",

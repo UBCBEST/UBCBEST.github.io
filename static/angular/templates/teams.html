@@ -50,7 +50,8 @@
                 </header>
                 <div class="modal-body">
                     <a ng-href="{[ selectedT.link ]}" target="_blank">
-                        <img ng-src="{[ selectedT.img ]}" alt="" class="img-circle" src="/static/img/placeholder.png">
+                        <img ng-src="{[ selectedT.img ]}" alt="" class="img-circle" ng-show="selectedT.img">
+                        <img alt="" class="img-circle" src="/static/img/placeholder.png" ng-hide="selectedT.img">
                     </a>
                     <h2 ng-show="selectedT.title">{[ selectedT.title ]}</h2>
                     <h2 ng-show="selectedT.occupation">{[ selectedT.occupation ]}</h2>
