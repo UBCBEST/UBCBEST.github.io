@@ -394,15 +394,15 @@
     },
     {
       "id": "ptm",
-      "icon": "fa-bolt",
-      "tab": "Phototherapy",
-      "name": "Phototherapy Monitor",
-      "abbr": "PTM",
+      "icon": "fa-leaf",
+      "tab": "MINT",
+      "name": "Medical Innovation in NeuroTechnology",
+      "abbr": "MINT",
       "desc": [
-        "Phototherapy is a treatment used in Newborn Units in hospitals to treat babies with severe jaundice. During the treatment, infants are placed under phototherapeutic light, which is primarily blue, for a recommended 7 day period. On International Medical Device Initiative (IMDI) trip to East Africa in May 2015, multiple medical professionals in both Kenya and Uganda expressed the uncertainty in knowing if the bulbs used by the phototherapy units were working effectively.",
-        "Although light is being emitted, there is no indication that there is enough blue light present for the treatment to be completed within the recommended time.",
-        "As bulbs degrade over time, they begin to produce less and less blue light. A consequence of insufficient blue light is that babies are left under the phototherapy light for longer than the recommended period of treatment. Such prolonged exposure to the intense light of phototherapy bulbs can cause skin damage.",
-        "The end goal of the project is to create a device that can monitor the level of blue light being emitted from phototherapy bulbs, and notify the doctors and nurses if the bulb is functioning efficiently, or if it needs to be changed."
+        "Mission Statement → To build our capacity to tackle neurotech challenges, foster a collaborative network of professionals, enthusiasts and the general public. ",
+        "Vision → We aim to bridge clinical and social aspects of neuroscience by accessibly reproducing and innovating upon notable experiments and technologies.",
+        "About Us → We are a project under UBC’s BEST (Biomedical Engineering Student Team), populated by a diverse group of students (Nursing, Psych, COGS, Elec Eng, Mech Eng, CompSci, etc) eager to make an impact.",
+        "Website → https://github.com/UBCBEST/mint-eeg"
       ],
       "members": [
         {
