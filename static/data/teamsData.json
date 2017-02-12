@@ -264,14 +264,24 @@
         },
         {
           "name": "Elizabeth Wicks",
-          "title": "Chief Executive Officer",
-          "occupation": "",
+          "occupation": "Clinical Development Engineer, Intuitive Surgical",
           "img": "/static/img/teams/exec/elizabeth-wicks.jpg",
           "link": "https://ca.linkedin.com/in/wickselizabeth",
           "desc": [
-            "Starting on this team as a Project Manager on the Ebola Aid Team to develop a EMR system for healthcare workers, to now working alongside Julie and Blake as Captains of UBC BEST, I have had the incredible opportunity to work with very talented individuals on this team. It is my passion to develop innovative technologies to address the needs and challenges in the medical industry – through BEST and our six exciting projects, I am able to do just that.",
-            "I am currently in my final year of Engineering Physics with a specialization in the Electrical Option and a Minor in Commerce. I have 16 months of co-op experience in the biomedical industry, doing research, software development, verification & validation, and electrical/mechanical design. At Kardium Inc., a biomedical device company working on an ablation catheter to treat atrial fibrillation, I worked as a verification engineer in summer 2015 and a software developer in spring 2013. I have also worked on cutting-edge optical coherence tomography imaging systems at the BC Cancer Research Centre. At the UBC MS/MRI Research Group, I developed a novel method for measuring the normalized brain volume of multiple sclerosis patients on high-resolution 3D T1-weighted MRI scans.  Last summer, I presented my accepted abstract on my algorithm from MS/MRI at an international medical imaging conference (ISMRM 2015) in Toronto, Ontario. Recently, I was accepted into the Next 36 program as one of Canada’s top entrepreneurs, where I’ll be working towards starting my own company.",
-            "I am so excited and privileged to be working with this group of incredible hard-working students, and am looking forward what the future holds for UBC BEST."
+            ""
+          ]
+        },
+        {
+          "name": "Blake Henderson",
+          "title": "Chief Executive Officer",
+          "occupation": "",
+          "img": "/static/img/teams/exec/blake-henderson.jpg",
+          "link": "https://www.linkedin.com/in/blakehenders",
+          "desc": [
+            "I sought out UBC BEST the moment I began my studies at UBC with a clear goal of becoming a biomedical engineer to develop innovative medical devices to address challenges in patient care. I am currently in my third year of Mechanical Engineering in the Biomedical Option with a Minor in Commerce, and am able to apply my education towards achieving these goals.",
+            "After developing early prototypes for the Music to Movement device, I began planning the International Medical Device Initiative (IMDI). In May 2015, I was one of the four field team members that travelled to Uganda and Kenya, embarking on my goal of developing devices for global health.",
+            "After returning from the IMDI trip, I began work at the Centre for Hip Health and Mobility (CHHM) as an Orthopaedic Research Assistance, investigating cartilage stress and deformation in the hip. I then continued to pursue my passion for biomedical innovation as a member of the Research Team at Kardium Inc., a biomedical company that is developing a sophisticated catheter for the treatment of atrial fibrillation, where I will be returning to work in the summer.",
+            "I have enjoyed being Project Lead of the Respiratory Rate Monitor Team, and am now excited about becoming an Executive Team Member to continue the incredible growth of this team. I envision this team continuing to tackle complex initiatives, while providing a resource for development for students at UBC, and in the greater community."
           ]
         },
         {
@@ -287,16 +297,14 @@
           ]
         },
         {
-          "name": "Blake Henderson",
+          "name": "Amara Kraft",
           "title": "Chief Technology Officer",
-          "occupation": "",
-          "img": "/static/img/teams/exec/blake-henderson.jpg",
-          "link": "https://www.linkedin.com/in/blakehenders",
-          "desc": [
-            "I sought out UBC BEST the moment I began my studies at UBC with a clear goal of becoming a biomedical engineer to develop innovative medical devices to address challenges in patient care. I am currently in my third year of Mechanical Engineering in the Biomedical Option with a Minor in Commerce, and am able to apply my education towards achieving these goals.",
-            "After developing early prototypes for the Music to Movement device, I began planning the International Medical Device Initiative (IMDI). In May 2015, I was one of the four field team members that travelled to Uganda and Kenya, embarking on my goal of developing devices for global health.",
-            "After returning from the IMDI trip, I began work at the Centre for Hip Health and Mobility (CHHM) as an Orthopaedic Research Assistance, investigating cartilage stress and deformation in the hip. I then continued to pursue my passion for biomedical innovation as a member of the Research Team at Kardium Inc., a biomedical company that is developing a sophisticated catheter for the treatment of atrial fibrillation, where I will be returning to work in the summer.",
-            "I have enjoyed being Project Lead of the Respiratory Rate Monitor Team, and am now excited about becoming an Executive Team Member to continue the incredible growth of this team. I envision this team continuing to tackle complex initiatives, while providing a resource for development for students at UBC, and in the greater community."
+          "img": "/static/img/teams/exec/amara-kraft.jpg",
+          "link": "https://ca.linkedin.com/in/amara-kraft-75803786",
+          "desc": ["The moment that I learned about BEST, I began the process of joining the team so I could surround myself with other like-minded students with a passion for biomedical engineering. I am currently finishing my 3rd year of Mechanical Engineering in the Biomedical Option, with a Minor in Commerce.",
+            "Since working on the early stages of the Music to Movement project, I have been a member of the Femur Fracture Treatment Project (FFTP). With this project I have been involved with the early research stages and have since been a key member in the prototype phase. I have now stepped up into the role of CTO for BEST and enjoy helping all the projects meet their deadlines and achieve their goals.",
+            "I have developed a range of skills gained from different co-op experiences with the Department of Fisheries and Oceans, Shell, and Skytrain.",
+            "Working with such a great group of students that are passionate about the biomedical field, has been the most rewarding part of being involved in UBC BEST. I believe in this team and what we can accomplish with the goal of helping people and having an impact on the medical world."
           ]
         }
       ]
