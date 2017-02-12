@@ -414,6 +414,14 @@
           "desc": "Rahat Dhande is passionate about science and technology, and their application in Biomedical Engineering.  In his spare time, Rahat likes to wonder what he could do if he had spare time."
         },
         {
+          "name": "Giulio Sacar",
+          "position": "Technical Lead",
+          "img": "",
+          "year": "4th",
+          "department": "Engineering Physics",
+          "desc": ""
+        },
+        {
           "name": "Kristyn Lee",
           "img": "/static/img/projects/ptm/kristyn-lee.jpg",
           "position": "Member",
