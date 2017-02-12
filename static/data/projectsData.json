@@ -28,15 +28,6 @@
           "desc": "Clinton has completed two work terms in Michael Smith Labs working with statistical modelling, Monte Carlo simulations, mammalian tissue culturing, and DNA Sanger Sequencing, as well as his one work term in the Chemical & Biological Engineering department working with anaerobic waste water treatment.He is very excited to apply his 10 years of playing trumpet to the development of a musical therapy device."
         },
         {
-          "name": "Harley Johnson",
-          "position": "Member",
-          "img": "/static/img/projects/m2m/harley-johnson.jpg",
-          "year": "3rd",
-          "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "Music to Movement is a perfect fit for Harley, with her many years of playing piano and woodwinds, as well as working for the Royal Conservatory of Music. She is looking forward to applying their school skills to physical projects and helping patients get better through the use of music."
-        },
-        {
           "name": "Jose Martinez",
           "position": "Member",
           "img": "/static/img/projects/m2m/jose-martinez.jpg",
@@ -149,15 +140,6 @@
           "desc": "Amira is passionate about the social impact of low resource health initiatives as well as the technology behind these devices. She has experience in software development, testing, and UX design. In NWHacks 2015, she placed in the Top 10, creating an alarm clock using pulse oximetry to wake the person in the optimal sleep cycle to ensure regular and deep sleep by using heart rate readings."
         },
         {
-          "name": "Kahlan Gibson",
-          "img": "/static/img/projects/rrm/kahlan-gibson.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "Kahlan is interested in digital design and global access to technology. She will be joining Intel as an Embedded Systems Coop in Digital Design and Validation in January 2016. In her spare time, Kahlan is a member of the Meadow Ridge Moose Hockey team, a competitive team that travels throughout the lower mainland, Kamloops, and Victoria."
-        },
-        {
           "name": "Mehar Gill",
           "img": "/static/img/projects/rrm/mehar-gill.jpg",
           "position": "Member",
@@ -188,14 +170,6 @@
           "year": "3rd",
           "department": "Computer Science",
           "desc": "Edward has a keen interest in science and technology’s role in improving the quality and accessibility of healthcare. He has enjoyed learning arduino and working with the rest of the RR team this year."
-        },
-        {
-          "name": "Glen Aggiss",
-          "img": "/static/img/projects/rrm/glen-aggiss.jpg",
-          "position": "Member",
-          "year": "2nd",
-          "department": "Chemical & Biological Engineering",
-          "desc": ""
         },
         {
           "name": "Yamen Taha",
@@ -334,19 +308,11 @@
         {
           "name": "Hannah Haghdadi",
           "img": "/static/img/projects/femur/hannah-haghdadi.jpg",
-          "position": "Member",
+          "position": "Advisor",
           "year": "5th",
           "department": "Mechanical Engineering",
           "biomed": true,
           "desc": "Hannah is passionate about biomedical research and development in both clinical and industrial setting. Hannah has worked at SFU NeuroSpine Lab as part of a research team and at Sorin Group Canada as product design engineer. She is looking forward to be part of this project team."
-        },
-        {
-          "name": "Vivian Wong",
-          "img": "/static/img/projects/femur/vivian-wong.jpg",
-          "position": "Member",
-          "year": "5th",
-          "department": "Mechanical Engineering",
-          "desc": "Vivian is passionate about biomedical engineering and the many branches of global health, including governmental policies and implementation of technology on a global scale. She has completed a number coop placements and excited to finally put those skills to use while working with BEST! In moments of spare time, she’s also interested in improving her amateur guitar playing skills, reading, and martial arts."
         },
         {
           "name": "Paula Adruschak",
@@ -482,14 +448,6 @@
           "desc": ""
         },
         {
-          "name": "Jenny Yang",
-          "img": "/static/img/projects/ptm/jenny-yang.jpg",
-          "position": "Member",
-          "year": "2nd",
-          "department": "Engineering Physics",
-          "desc": "Jenny is passionate about global access to medicine, and hopes to potentially have an impact on the healthcare system. In her spare time she enjoys cooking, playing badminton and watching movies."
-        },
-        {
           "name": "Kristyn Lee",
           "img": "/static/img/projects/ptm/kristyn-lee.jpg",
           "position": "Member",
@@ -497,14 +455,6 @@
           "department": "Electrical Engineering, Minor in Commerce",
           "biomed": true,
           "desc": "I hope to pursue a career in the biomedical device industry. Through UBC BEST, I want to make a difference in the lives of others by positively impacting the health sector. I am also pursuing a minor in Commerce since the combination of a business and engineering degree will help me understand the commercialization potential of new biomedical products. For co-op, I previously worked as a Junior Software Developer at Paragon Testing Enterprises. My hobbies include long distance running and tennis."
-        },
-        {
-          "name": "Lily Takeuchi",
-          "img": "/static/img/projects/ptm/lily-takeuchi.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Medical Laboratory Sciences",
-          "desc": "Lily is interested in laboratory medicine and engineering applications in haematology and immunopathology. Additionally she has research experience working at the Life Sciences Centre and the Child and Family Research Institute. Lily is looking forward to learning new skills and collaborating with such a multidisciplinary team on the Phototherapy project!  "
         },
         {
           "name": "Harish Anand",
