@@ -55,8 +55,8 @@
           "img": "/static/img/teams/man/marysia-grzybowski.jpg",
           "link": "https://www.linkedin.com/in/marysia-grzybowski-244838b9",
           "desc": [
-            "I am excited to take on the roles of project lead in the IDEA EMR Project and the Medical Equipment Donations Project. I was one of the members that travelled to Kenya and Uganda, and look forward to using the findings gathered on the trip to develop medical technology that will have a positive impact on society. ",
-            "I am a 5th year Integrated Sciences student studying Neuroscience through the integration of physiology and psychology. Some of the most valuable experiences that I have had during my undergraduate degree have been researching behavioural neuroscience, travelling, volunteering in a cardiac hospital in Nepal and of course being a member of UBC BEST and in the IMDI trip to Uganda and Kenya. I am very passionate about global health and hope to pursue a career in medicine in the future."
+            "I am in my 5th year in Integrated Sciences, studying physiology and behavioral neuroscience. UBC BEST has given me the opportunity to pursue my passion for using multidisciplinary and contextually appropriate approaches to improve the access and acceptability of patient care worldwide. Within BEST I am pursuing (should this be: I have experience facilitating..) our international partnership with the Makerere University Biomedical Engineering Program. I was one of four members who travelled to Uganda and Kenya to establish collaborations like this and research challenges healthcare workers experience in the delivery of patient care in low resource settings.",
+            "I was the project co-lead of the IDEA Electronic Medical Records (EMR) project which partnered with Innovative Canadians for Change (ICChange) to develop a trauma registry mobile application for Eastern African countries. This product is being further developed by ICChange, with the goal to improve patient care following traumatic injury. On the Ebola Aid Project team I collaborated with NGDI to design an EMR for rural Ebola Treatment Centers. I also have experience facilitating the collaboration between BEST and the UBC Faculty of Medicine, and was the co-lead of the Donated Medical Equipment Project which researched the sustainability of donating medical equipment to low-income countries."
           ]
         },
         {
@@ -65,8 +65,8 @@
           "img": "/static/img/teams/man/georgia-grzybowski.jpg",
           "link": "https://ca.linkedin.com/pub/georgia-grzybowski/85/b24/a8b",
           "desc": [
-            "I am in my third year of Mechanical Engineering with a option in Biomedical Engineering. On the UBC BEST team I am the lead of the Femur Fracture Research Project and the lead of the Donated Medical Equipment Project. I am thrilled to be the lead for these two projects and to be working with the amazing students of UBC BEST.",
-            "Global healthcare and biomedical innovation is above everything else what I am most passionate about. The BEST team has not only given me the opportunity to follow and explore this passion of mine, but also to make a difference in this field. This past May I was given the opportunity to go to Uganda and Kenya as a member of the IMDI Field team and see first hand global healthcare challenges and talk to the people that experience those challenges firsthand. This investigation turned into four global healthcare projects that are on their way to making a difference. This is why I love being a part of the UBC BEST team."
+            "I am a third year Mechanical Engineering student with an option in Biomedical Engineering. I am a passionate member of BEST and a dedicated leader of the Femur Fracture Treatment Project and the Donated Medical Equipment Project. I was a member of the IMDI field team and was involved in the identification of the needs and challenges that have shaped four of BEST’s current projects. I am thrilled to have been apart of the identification and starting development of both the projects I lead. The IMDI Initiative put into perspective the essential need for biomedical innovation and healthcare development in international settings.",
+            "I am excited to be apart of this new and growing field that has the potential to make an impact in a setting where improvement in health care is needed the most. The BEST team has not only given me the opportunity to follow and explore this passion of mine, but also to make a difference in this field."
           ]
         },
         {
@@ -109,12 +109,23 @@
           ]
         },
         {
-          "name": "Muieen Cader",
-          "title": "Business Team Lead",
-          "img": "/static/img/teams/man/muieen-cader.jpg",
-          "link": "https://ca.linkedin.com/in/muieen",
+          "name": "Henry (Harry) Pigot",
+          "title": "Executive Advisor",
+          "img": "",
+          "link": "",
           "desc": [
-            "I am a 4th year UBC Sauder School of Business student currently specializing in both Real Estate and Entrepreneurship. I have worked in both manufacturing and NGO’s prior to my role in UBC BEST. I am a member as it is helping me to better understand product development in a growing industry. Please feel free to contact me regarding anything business related."
+            "It has been rewarding to be part of the team's growth and adaption over the past 3 years. UBC BEST has provided myself and fellow team-members with the opportunity to learn first-hand about the medical device design process, and gain hands-on problem definition and prototyping experience.",
+            "I have had the pleasure of working in different R&D environments in Canada, Germany, Japan, and Sweden. It is this experience in medical device design and testing that I contribute to the UBC BEST management team. I am trained in the application of risk management to medical devices (ISO 14971) as well as quality management systems for the design and manufacture of medical devices (ISO 13485). After nearly two years working on ex-vivo organ perfusion machines, I am excited to share my industry experience with the rest of the team."
+          ]
+        },
+        {
+          "name": "Eric Cho",
+          "title": "Business Team Lead",
+          "img": "",
+          "link": "",
+          "desc": [
+            "Recognizing the unique opportunity of bridging talent between faculties, I wanted to join UBC BEST to work with students of all faculties. I am a 4th year Sauder student specializing in Accounting and Operations & Logistics. As the Business Team Lead, my main duty is to ensure that the UBC BEST projects get a business perspective during the development phase.",
+            "Over the last 4 years, I have gained a diverse range of experiences in multiple industries. Everything from coaching students in competitive debate to Ivy League debate tournaments, to providing financial service at G&F Financial Group, and doing research assistant work at Sauder. This past summer I worked as a Summer Analyst at AIG, underwriting small to large cap firms. I love being able to apply my knowledge and skills to create real world impacts, and am always striving to see how I can make a difference. The biomedical industry is a rapidly growing and dynamic field to be in, and am truly excited to be a part of BEST."
           ]
         }
       ]
@@ -126,30 +137,53 @@
       "name": "Business Team",
       "members": [
         {
-          "name": "Muieen Cader",
+          "name": "Eric Cho",
           "title": "Business Team Lead",
-          "img": "/static/img/teams/man/muieen-cader.jpg",
-          "link": "https://ca.linkedin.com/in/muieen",
+          "img": "",
+          "link": "",
           "desc": [
-            "I am a 4th year UBC Sauder School of Business student currently specializing in both Real Estate and Entrepreneurship. I have worked in both manufacturing and NGO’s prior to my role in UBC BEST. I am a member as it is helping me to better understand product development in a growing industry. Please feel free to contact me regarding anything business related."
+            "I am a 4th year Sauder student specializing in Accounting and Operations & Logistics. As the Business Team Lead, my main duty is to ensure that the UBC BEST projects get a business perspective during the development phase.",
+            "Over the last 4 years, I have gained a diverse range of experiences in multiple industries including competitive debate, financial services, academic research, and commercial insurance."
           ]
         },
         {
-          "name": "Isabel Keng",
-          "title": "HR Specialist",
-          "img": "/static/img/teams/bus/isabel-keng.jpg",
-          "link": "https://www.linkedin.com/in/isabelkeng",
+          "name": "Andrew Ladouceur",
+          "title": "Member",
+          "img": "",
+          "link": "",
           "desc": [
-            "Isabel is a fourth year UBC Sauder School of Business student specializing in Human Resources. She is looking forward to developing a more structured recruitment process for UBC BEST and helping in the development of better management structures and processes."
+            "I believe in innovative ideas, backed with technical analysis to produce disruptive, data-driven solutions. As an entrepreneur and case study enthusiast, consulting has always been a career of interest of mine, and I am excited to positively impact people across the world with UBC BEST.",
+            "I have experience working as a special projects intern where I assisted with a $22 million acquisition, as well leading a 50-person group to launch an app for a startup I am working with."
           ]
         },
         {
-          "name": "Lap-Tak Chu",
-          "title": "Treasurer",
-          "img": "/static/img/teams/bus/lap-tak-chu.jpg",
-          "link": "https://www.linkedin.com/in/lap-tak-chu-b36638106",
+          "name": "Herman Chiu",
+          "title": "Member",
+          "img": "",
+          "link": "",
           "desc": [
-            ""
+            "Herman is an amicable, inspired listener whose role in every job seems inveterately to gravitate towards operational strategy – it may even seem that he doesn’t otherwise think at work. Of course, his passion for tech, start-ups, and venture capital comes from an unwavering, unabashed; undiminished; nigh upon naïve hope for the world, with balanced roots in both the humanities and social sciences.",
+            "Besides theoretically rigorous (sometimes interminably arid) conversation, he enjoys exercises in running, skiing, golfing, hiking, verbosity and gastronomy."
+          ]
+        },
+        {
+          "name": "Vania Hung",
+          "title": "Member",
+          "img": "",
+          "link": "",
+          "desc": [
+            "My goal is to work in the healthcare industry and I am excited to combine my business knowledge and passion to give back to the community as a business consultant.",
+            "I have gained analytical, research, and communication skills through various extracurricular activities and work experience. I look forward to working with the rest of the team to further develop my skills with these projects!"
+          ]
+        },
+        {
+          "name": "Linda Dai",
+          "title": "Member",
+          "img": "",
+          "link": "",
+          "desc": [
+            "I'm a self-motivated and interpersonal worker, with experience in team management, SEO, and market analytics",
+            " My aspirations in life include obtaining a career in strategy consulting, travelling the world, and hopefully doing my part in the world someday. I enjoy reading about the latest news in space exploration and spending too much time organizing my to do list."
           ]
         }
       ]
@@ -282,81 +316,163 @@
       ]
     },
     {
+      "id": "adv",
+      "icon": "fa-commenting",
+      "tab": "Advisor",
+      "name": "Advisor Team",
+      "members": [
+        {
+          "name": "Rohit Singla",
+          "title": "Advisor",
+          "img": "/static/img/teams/adv/rohit-singla.jpg",
+          "link": "",
+          "desc": [
+            "Rohit is an MASc candidate in Biomedical Engineering. His research is innovating surgical techniques for kidney cancer. "
+          ]
+        },
+        {
+          "name": "David Weekes",
+          "title": "Advisor",
+          "img": "",
+          "link": "",
+          "desc": [
+            "My passion for biotechnology and innovation stems from a project I was involved in at the start of 2016, in which myself and a small, interdisciplinary team of UBC students underwent the initial stages of building a health-and-wellness start-up.",
+            "We focused more on the business side of things, including customer discovery, financial planning, networking, and investment pitching; however, I am a scientist at heart, and I have lots of experience in publishing, experimental design, IP searches, and data processing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adv",
+      "icon": "fa-commenting",
+      "tab": "Advisor",
+      "name": "Advisor Team",
+      "members": [
+        {
+          "name": "Rohit Singla",
+          "title": "Advisor",
+          "img": "/static/img/teams/adv/rohit-singla.jpg",
+          "link": "",
+          "desc": [
+            "Rohit is an MASc candidate in Biomedical Engineering. His research is innovating surgical techniques for kidney cancer. "
+          ]
+        },
+        {
+          "name": "David Weekes",
+          "title": "Advisor",
+          "img": "",
+          "link": "",
+          "desc": [
+            "My passion for biotechnology and innovation stems from a project I was involved in at the start of 2016, in which myself and a small, interdisciplinary team of UBC students underwent the initial stages of building a health-and-wellness start-up.",
+            "We focused more on the business side of things, including customer discovery, financial planning, networking, and investment pitching; however, I am a scientist at heart, and I have lots of experience in publishing, experimental design, IP searches, and data processing."
+          ]
+        }
+      ]
+    },
+    {
       "id": "ment",
       "icon": "fa-user",
       "tab": "Mentorship",
       "name": "Mentorship Program",
       "members": [
         {
-          "name": "Elaine Baluyut",
-          "position": "Mentee",
-          "year": "1st",
-          "department": "Engineering",
-          "img": "/static/img/teams/spc/elaine-baluyut.jpg",
+          "name": "Aria Rezapour",
+          "position": "Head of Mentorship",
+          "year": "3rd",
+          "department": "Integrated Engineering",
+          "img": "/static/img/projects/m2m/aria-rezapour.jpg",
           "desc": [
-            "Coming from a country with a poor healthcare system, like the Philippines, has driven Elaine’s interest in improving global health. She believes that biomedical advancements have the ability to make massive ripples in all realms of society and provide much needed medical aid in low resource communities."
+            "As a Head of Mentorship and member of Music to Movement I strive to support and guide new members of UBC BEST to develop the technical and professional skills to contribute to finding solutions in Biomedical Engineering. This opportunity has allowed me to combine my passion and experience in developing Biomedical devices with my desire to teach others and help them build their capacity.",
+            "The Biomedical field provides a unique opportunity, as I continues to strive towards working for social change, and explore the contributions that the marriage of engineering and physiology can have to improving people’s lives and society at large, an endeavour I hope to share with others."
           ]
         },
         {
-          "name": "Sofia Echeverria",
-          "position": "Mentee",
-          "year": "1st",
-          "department": "Engineering",
-          "img": "/static/img/teams/spc/sofia-echeverria.jpg",
+          "name": "Esther Lin",
+          "position": "Head of Mentorship",
+          "year": "2nd",
+          "department": "Engineering Physics",
+          "img": "",
           "desc": [
-            "Sofia is excited to jumpstart her hands-on experience with BEST. She became passionate about global health issues while completing a Global Studies Program and a pre-college Biomedical program at George Washington University. She aims to expand her knowledge on developing solutions relevant to global health issues, while working with professional and talented peers."
+            ""
           ]
         },
         {
-          "name": "Ashley Lloyd",
+          "name": "Nikita Srivalsan",
           "position": "Mentee",
           "year": "1st",
           "department": "Engineering",
-          "img": "/static/img/teams/spc/ashley-lloyd.jpg",
+          "img": "",
           "desc": [
-            "Ashley has been passionate about medicine since she was in kindergarten. Having lived in South Africa for ten years, she has a profound interest in global health and awareness. Through BEST Ashley hopes to find a way to combine her love of physics with her passion for medicine."
+            "Considering the extensive use of engineering technology in healthcare, pursuing biomedical engineering would aid me in following my interest in neurological disorders and their prevention using biomedical technology.",
+            "One idea that always intrigued me is the notion of giving paralyzed individuals the ability to move through the use of brain-controlled assistive devices. I want to learn how to apply principles and techniques from engineering sciences to global medical problems, to provide society with more innovative medical devices for the future."
           ]
         },
         {
-          "name": "Tiffany Quon",
+          "name": "Michael Ko",
           "position": "Mentee",
           "year": "1st",
           "department": "Engineering",
-          "img": "/static/img/teams/spc/tiffany-quon.jpg",
+          "img": "",
           "desc": [
-            "Tiffany is passionate about design. She has experience with publicity and graphic design, and has recently discovered a love for hand lettering. Tiffany is interested in the intersection between design, science, and social justice, which she hopes to continue finding out more about with BEST!"
+            "I'm very passionate about helping others with disabilities, and interested in the field of medicine regarding DNA and genetics. Inspired by growing up with a physically disabled brother, I hope to be admitted into Mechanical Engineering under the Biomedical option next year, and pursue my goal of creating a more advanced and comfortable wheelchair for those who have physical limitations.",
+            "My dream is to help discover a cure for my brother who has Duchenne Muscular Dystrophy."
           ]
         },
         {
-          "name": "Adriano Sela",
+          "name": "Alexander Waslen",
           "position": "Mentee",
           "year": "1st",
           "department": "Engineering",
-          "img": "/static/img/teams/spc/adriano-sela.jpg",
+          "img": "",
           "desc": [
-            "Adriano has a profound interest in Theoretical Physics and Mechanics. He lived in Uganda for two and a half years and is deeply involved in local and international communities of Kampala. In his spare time he enjoys playing basketball, reading about interesting Physics concepts, and spontaneous miscellaneous plans."
+            "My interests lie in both medicine and engineering and in developing technologies that combine the two. I am excited at the prospect of designing solutions to problems in the healthcare field and I love learning new skills, especially when they are hands-on.",
+            "In my free time I enjoy playing tennis, reading, and playing various musical instruments."
           ]
         },
         {
-          "name": "Reid Sutherland",
+          "name": "Milena Ljusic",
           "position": "Mentee",
-          "year": "1st",
-          "department": "Engineering",
-          "img": "/static/img/teams/spc/reid-sutherland.jpg",
+          "year": "2nd",
+          "department": "Material Engineering",
+          "img": "",
           "desc": [
-            "Reid has a strong interest in Chemical and Biological Engineering.  He is passionate about activism and making the world a better place.  One day he hopes to be developing new and improved pharmaceuticals. In his spare time he enjoys reading, volleyball, and spending time with family and friends."
+            "I have always been passionate about helping others. However, rather than studying to become a doctor, I chose to become an engineer; I want to work on advancing the technology used in the healthcare system and create more accessible healthcare tools for developing countries–allowing doctors all over the world to effectively and efficiently treat their patients.",
+            "I am hoping to specialize in Biomaterials in my fourth year as well as pursue a Master’s and Doctorate Degree in Biomedical Engineering."
           ]
         },
         {
-          "name": "Andrew Yan",
+          "name": "Morgan Kaye",
           "position": "Mentee",
           "year": "1st",
           "department": "Engineering",
-          "img": "/static/img/placeholder.png",
+          "img": "",
           "desc": [
-            "Andrew Yan joined BEST because he wanted to help design medical devices.  His hobbies include swimming, badminton, reading a good book and watching TV."
+            "I intend on pursuing either chemical or biomedical engineering, and am hoping that the skills I develop in BEST will help me be successful throughout my engineering program. I am passionate about global health issues and am excited to see how my involvement in BEST can aid third world countries."
+          ]
+        },
+        {
+          "name": "Michael Halim",
+          "position": "Mentee",
+          "year": "1st",
+          "department": "Engineering",
+          "img": "",
+          "desc": [
+            "Coming from Indonesia, I have always valued the importance of medical advancements and its impact towards our society.",
+            "As such, I aspire to pursue graduate school and establish a biotechnology startup in order to make greater progress in improving global health and change the community for the better. I am looking forward to learning from and working with talented peers at UBC BEST to alleviate some of the world’s most pressing health challenges."
+          ]
+        },
+        {
+          "name": "Leanna Hogarth",
+          "position": "Mentee",
+          "year": "2nd",
+          "department": "Electrical Engineering, Biomedical Option",
+          "img": "",
+          "desc": [
+            "For as long as I can remember, I have had a passion for science and its applications for human well-being.",
+            "Having experience with fine pitch soldering, Arduino programming, and basic PCB prototyping, I hope to have the opportunity to apply these skills to solve real world healthcare problems with the help of BEST. Although I have yet to be involved in any BEST projects, I look forward to collaborating with the team in the future."
           ]
         }
+
       ]
     }
   ]
