@@ -394,58 +394,32 @@
     },
     {
       "id": "ptm",
-      "icon": "fa-bolt",
-      "tab": "Phototherapy",
-      "name": "Phototherapy Monitor",
-      "abbr": "PTM",
+      "icon": "fa-leaf",
+      "tab": "MINT",
+      "name": "Medical Innovation in NeuroTechnology",
+      "abbr": "MINT",
       "desc": [
-        "Phototherapy is a treatment used in Newborn Units in hospitals to treat babies with severe jaundice. During the treatment, infants are placed under phototherapeutic light, which is primarily blue, for a recommended 7 day period. On International Medical Device Initiative (IMDI) trip to East Africa in May 2015, multiple medical professionals in both Kenya and Uganda expressed the uncertainty in knowing if the bulbs used by the phototherapy units were working effectively.",
-        "Although light is being emitted, there is no indication that there is enough blue light present for the treatment to be completed within the recommended time.",
-        "As bulbs degrade over time, they begin to produce less and less blue light. A consequence of insufficient blue light is that babies are left under the phototherapy light for longer than the recommended period of treatment. Such prolonged exposure to the intense light of phototherapy bulbs can cause skin damage.",
-        "The end goal of the project is to create a device that can monitor the level of blue light being emitted from phototherapy bulbs, and notify the doctors and nurses if the bulb is functioning efficiently, or if it needs to be changed."
+        "Mission Statement → To build our capacity to tackle neurotech challenges, foster a collaborative network of professionals, enthusiasts and the general public. ",
+        "Vision → We aim to bridge clinical and social aspects of neuroscience by accessibly reproducing and innovating upon notable experiments and technologies.",
+        "About Us → We are a project under UBC’s BEST (Biomedical Engineering Student Team), populated by a diverse group of students (Nursing, Psych, COGS, Elec Eng, Mech Eng, CompSci, etc) eager to make an impact.",
+        "Website → https://github.com/UBCBEST/mint-eeg"
       ],
       "members": [
         {
           "name": "Rahat Dande",
           "position": "Project Lead",
           "img": "/static/img/projects/ptm/rahat-dhande.jpg",
-          "year": "2nd Year",
+          "year": "3rd",
           "department": "Engineering Physics",
           "desc": "Rahat Dhande is passionate about science and technology, and their application in Biomedical Engineering.  In his spare time, Rahat likes to wonder what he could do if he had spare time."
         },
         {
-          "name": "Brandon Kim",
-          "position": "Technical Advisor",
-          "img": "/static/img/projects/ptm/brandon-kim.jpg",
+          "name": "Giulio Sacar",
+          "position": "Technical Lead",
+          "img": "",
           "year": "4th",
-          "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "Brandon has immense interest in software development. He has extensive work experience including a work term in the Collaborative Advanced Robotics and Intelligent Systems (CARIS) lab and Robotics for Rehabilitation at UBC . He is looking forward to leading this excellent team of students!"
-        },
-        {
-          "name": "Carol Fu",
-          "img": "/static/img/projects/ptm/carol-fu.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Computer Engineering",
-          "desc": "Carol joined BEST to meet other peers who are also interested in designing medical devices. In her spare time she reads Garfield all day long."
-        },
-        {
-          "name": "Rashmi Prakash",
-          "img": "/static/img/projects/ptm/rashmi-prakash.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "Rashmi has a strong interest in the development of diagnostic devices (specifically lab-on-a-chip) and also is passionate about the integration of biology and technology to develop prosthetics that are able receive and send cognitive messages. In her spare time she enjoys playing the guitar, hiking/camping, reading books, playing badminton and watching movies."
-        },
-        {
-          "name": "Justin Kang",
-          "img": "/static/img/projects/ptm/justin-kang.jpg",
-          "position": "Member",
-          "year": "2nd",
           "department": "Engineering Physics",
-          "desc": ""
+          "desc": "I like technology that is made with awareness of its users and economic context, aiming for high impact. In many ways, these are the trademarks of clinical tech, which is what has guided me here. I started MINT, a neurotech initiative, because it is simply absurd that we have affordable cloud computing but no established objective method to measure someone’s level of depression. The messy innards of consciousness are our original frontier, and one I want to poke at. ...Don’t you?"
         },
         {
           "name": "Kristyn Lee",
@@ -455,23 +429,6 @@
           "department": "Electrical Engineering, Minor in Commerce",
           "biomed": true,
           "desc": "I hope to pursue a career in the biomedical device industry. Through UBC BEST, I want to make a difference in the lives of others by positively impacting the health sector. I am also pursuing a minor in Commerce since the combination of a business and engineering degree will help me understand the commercialization potential of new biomedical products. For co-op, I previously worked as a Junior Software Developer at Paragon Testing Enterprises. My hobbies include long distance running and tennis."
-        },
-        {
-          "name": "Harish Anand",
-          "img": "",
-          "position": "Member",
-          "year": "4th",
-          "department": "Electrical Engineering, Minor in Commerce",
-          "biomed": true,
-          "desc": "My engineering experiences at Ericsson and Smart Tech have equipped me with skills and abilities that I am looking forward to applying with the BEST projects. In addition, as treasurer, I am looking forward to gaining financial skills along with practicing what I have learned thus far from my commerce minor. In my spare time I enjoy weight training and basketball along with learning about the newest technology that has hit the market!"
-        },
-        {
-          "name": "Raj Kumar",
-          "img": "",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Electrical Engineering",
-          "desc": "Raj has a strong interest in developing low cost medical devices and also is passionate about the use of mechatronics in the field of biomedical engineering.  In his spare time he likes reading books, tinkering and breaking things, watching movies, and listening to classical music."
         },
         {
           "name": "Tavia Walsh",
@@ -506,6 +463,23 @@
           "department": "Electrical Engineering",
           "biomed": true,
           "desc": "As an aspiring biomedical engineer,  I have a deep interest in the applications of electrical engineering to the fields of global healthcare and veterinary medicine. I hope to someday use the skills and network I gain through UBC Engineering and BEST to bring about positive global change."
+        },
+        {
+          "name": "Carol Fu",
+          "img": "/static/img/projects/ptm/carol-fu.jpg",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Computer Engineering",
+          "desc": "Carol joined BEST to meet other peers who are also interested in designing medical devices. In her spare time she reads Garfield all day long."
+        },
+        {
+          "name": "Rashmi Prakash",
+          "img": "/static/img/projects/ptm/rashmi-prakash.jpg",
+          "position": "Member",
+          "year": "4th",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": "Rashmi has a strong interest in the development of diagnostic devices (specifically lab-on-a-chip) and also is passionate about the integration of biology and technology to develop prosthetics that are able receive and send cognitive messages. In her spare time she enjoys playing the guitar, hiking/camping, reading books, playing badminton and watching movies."
         }
       ]
     },
