@@ -480,6 +480,42 @@
           "department": "Electrical Engineering",
           "biomed": true,
           "desc": "Rashmi has a strong interest in the development of diagnostic devices (specifically lab-on-a-chip) and also is passionate about the integration of biology and technology to develop prosthetics that are able receive and send cognitive messages. In her spare time she enjoys playing the guitar, hiking/camping, reading books, playing badminton and watching movies."
+        },
+        {
+          "name": "Emily Weemees",
+          "img": "",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Arts",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Yana Berte Is",
+          "img": "",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Sciences",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Michael Halim",
+          "img": "",
+          "position": "Member",
+          "year": "1st",
+          "department": "Engineering",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Michael Ko",
+          "img": "",
+          "position": "Member",
+          "year": "1st",
+          "department": "Engineering",
+          "biomed": false,
+          "desc": ""
         }
       ]
     },
