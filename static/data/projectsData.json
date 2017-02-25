@@ -483,7 +483,7 @@
         },
         {
           "name": "Emily Weemees",
-          "img": "",
+          "img": "/static/img/projects/ptm/emily-weemees.jpg",
           "position": "Member",
           "year": "3rd",
           "department": "Arts",
@@ -510,12 +510,12 @@
         },
         {
           "name": "Michael Ko",
-          "img": "",
+          "img": "/static/img/projects/ptm/michael-ko.jpg",
           "position": "Member",
           "year": "1st",
           "department": "Engineering",
           "biomed": false,
-          "desc": ""
+          "desc": "I'm very passionate about helping others with disabilities, and interested in the field of medicine regarding DNA and genetics. Inspired by growing up with a physically disabled brother, I hope to be admitted into Mechanical Engineering under the Biomedical option next year, and pursue my goal of creating a more advanced and comfortable wheelchair for those who have physical limitations."
         }
       ]
     },
