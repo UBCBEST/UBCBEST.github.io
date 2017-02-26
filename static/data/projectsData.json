@@ -414,12 +414,12 @@
           "desc": "Rahat Dhande is passionate about science and technology, and their application in Biomedical Engineering.  In his spare time, Rahat likes to wonder what he could do if he had spare time."
         },
         {
-          "name": "Giulio Sacar",
+          "name": "Giulio Sucar",
           "position": "Technical Lead",
-          "img": "",
+          "img": "/static/img/projects/ptm/giulio-sucar.jpg",
           "year": "4th",
           "department": "Engineering Physics",
-          "desc": "I like technology that is made with awareness of its users and economic context, aiming for high impact. In many ways, these are the trademarks of clinical tech, which is what has guided me here. I started MINT, a neurotech initiative, because it is simply absurd that we have affordable cloud computing but no established objective method to measure someone’s level of depression. The messy innards of consciousness are our original frontier, and one I want to poke at. ...Don’t you?"
+          "desc": "Dreamer at BEST. I like technology that is made with awareness of its users and economic context, aiming for high impact. In many ways, these are the trademarks of clinical tech, which is what has guides me here. I started MINT, a neurotech initiative, because it is simply absurd that we have affordable cloud computing but no established objective method to measure someone’s level of depression. The messy innards of consciousness are our original frontier, and one I want to poke at. ...Don’t you?"
         },
         {
           "name": "Kristyn Lee",
@@ -449,15 +449,15 @@
         },
         {
           "name": "Adriano Sela Aviles",
-          "img": "",
+          "img": "/static/img/projects/ptm/adriano-sela-aviles.jpg",
           "position": "Member",
           "year": "2nd",
           "department": "Computer Engineering",
-          "desc": "Adriano has a profound interest in computer engineering with a focus in biomedical applications. He lived in Uganda for two and a half years and is deeply involved in local and international communities of Kampala. In his spare time he enjoys exercising, playing basketball, and challenging himself with logic problems. His other areas of interest include medical and particle physics as well as astrophysics."
+          "desc": "Everything can be made faster, more compact, energy efficient, and more sustainable. Innovating medical devices with these factors in mind drives my motivation. I am a Computer Engineering student who joined BEST/MINT as a way of incorporating medical physics and technology into my career path."
         },
         {
           "name": "Bhaskar Yechuri",
-          "img": "",
+          "img": "/static/img/projects/ptm/bhaskar-yechuri.jpg",
           "position": "Member",
           "year": "2nd",
           "department": "Electrical Engineering",
@@ -492,16 +492,16 @@
         },
         {
           "name": "Yana Berte Is",
-          "img": "",
+          "img": "/static/img/projects/ptm/yana-berte-is.jpg",
           "position": "Member",
           "year": "3rd",
-          "department": "Sciences",
+          "department": "Science",
           "biomed": false,
           "desc": ""
         },
         {
           "name": "Michael Halim",
-          "img": "",
+          "img": "/static/img/projects/ptm/michael-halim.jpg",
           "position": "Member",
           "year": "1st",
           "department": "Engineering",
