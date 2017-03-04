@@ -22,8 +22,7 @@
                     {[ project.name ]}
                     <small>({[ project.abbr ]})</small>
                 </h1>
-                <p class="project-desc" ng-repeat="paragraph in project.desc">
-                    {[ paragraph ]}
+                <p class="project-desc" ng-repeat="paragraph in project.desc" ng-bind-html="paragraph | linky:'_blank':{rel: 'nofollow'}">
                 </p>
                 <ul class="list-unstyled" ng-show="project.links">
                     <li ng-repeat="link in project.links">
