@@ -398,6 +398,7 @@
       "tab": "MINT",
       "name": "Medical Innovation in NeuroTechnology",
       "abbr": "MINT",
+      "img": "/static/img/projects/ptm/mint-logo.png",
       "desc": [
         "Mission Statement → To build our capacity to tackle neurotech challenges, foster a collaborative network of professionals, enthusiasts and the general public. ",
         "Vision → We aim to bridge clinical and social aspects of neuroscience by accessibly reproducing and innovating upon notable experiments and technologies.",
