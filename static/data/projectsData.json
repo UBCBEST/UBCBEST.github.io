@@ -407,12 +407,13 @@
       ],
       "members": [
         {
-          "name": "Rahat Dande",
+          "name": "Kristyn Lee",
+          "img": "/static/img/projects/ptm/kristyn-lee.jpg",
           "position": "Project Lead",
-          "img": "/static/img/projects/ptm/rahat-dhande.jpg",
           "year": "3rd",
-          "department": "Engineering Physics",
-          "desc": "Rahat Dhande is passionate about science and technology, and their application in Biomedical Engineering.  In his spare time, Rahat likes to wonder what he could do if he had spare time."
+          "department": "Electrical Engineering, Minor in Commerce",
+          "biomed": true,
+          "desc": "I hope to pursue a career in the biomedical device industry. Through UBC BEST, I want to make a difference in the lives of others by positively impacting the health sector. I am also pursuing a minor in Commerce since the combination of a business and engineering degree will help me understand the commercialization potential of new biomedical products. For co-op, I previously worked as a Junior Software Developer at Paragon Testing Enterprises. My hobbies include long distance running and tennis."
         },
         {
           "name": "Giulio Sucar",
@@ -423,13 +424,12 @@
           "desc": "Dreamer at BEST. I like technology that is made with awareness of its users and economic context, aiming for high impact. In many ways, these are the trademarks of clinical tech, which is what has guides me here. I started MINT, a neurotech initiative, because it is simply absurd that we have affordable cloud computing but no established objective method to measure someone’s level of depression. The messy innards of consciousness are our original frontier, and one I want to poke at. ...Don’t you?"
         },
         {
-          "name": "Kristyn Lee",
-          "img": "/static/img/projects/ptm/kristyn-lee.jpg",
-          "position": "Member",
+          "name": "Rahat Dande",
+          "position": "Technical Advisor",
+          "img": "/static/img/projects/ptm/rahat-dhande.jpg",
           "year": "3rd",
-          "department": "Electrical Engineering, Minor in Commerce",
-          "biomed": true,
-          "desc": "I hope to pursue a career in the biomedical device industry. Through UBC BEST, I want to make a difference in the lives of others by positively impacting the health sector. I am also pursuing a minor in Commerce since the combination of a business and engineering degree will help me understand the commercialization potential of new biomedical products. For co-op, I previously worked as a Junior Software Developer at Paragon Testing Enterprises. My hobbies include long distance running and tennis."
+          "department": "Engineering Physics",
+          "desc": "Rahat Dhande is passionate about science and technology, and their application in Biomedical Engineering.  In his spare time, Rahat likes to wonder what he could do if he had spare time."
         },
         {
           "name": "Tavia Walsh",
@@ -466,17 +466,9 @@
           "desc": "As an aspiring biomedical engineer,  I have a deep interest in the applications of electrical engineering to the fields of global healthcare and veterinary medicine. I hope to someday use the skills and network I gain through UBC Engineering and BEST to bring about positive global change."
         },
         {
-          "name": "Carol Fu",
-          "img": "/static/img/projects/ptm/carol-fu.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Computer Engineering",
-          "desc": "Carol joined BEST to meet other peers who are also interested in designing medical devices. In her spare time she reads Garfield all day long."
-        },
-        {
           "name": "Rashmi Prakash",
           "img": "/static/img/projects/ptm/rashmi-prakash.jpg",
-          "position": "Member",
+          "position": "Technical Advisor",
           "year": "4th",
           "department": "Electrical Engineering",
           "biomed": true,
