@@ -398,37 +398,38 @@
       "tab": "MINT",
       "name": "Medical Innovation in NeuroTechnology",
       "abbr": "MINT",
+      "img": "/static/img/projects/ptm/mint-logo.png",
       "desc": [
         "Mission Statement → To build our capacity to tackle neurotech challenges, foster a collaborative network of professionals, enthusiasts and the general public. ",
         "Vision → We aim to bridge clinical and social aspects of neuroscience by accessibly reproducing and innovating upon notable experiments and technologies.",
         "About Us → We are a project under UBC’s BEST (Biomedical Engineering Student Team), populated by a diverse group of students (Nursing, Psych, COGS, Elec Eng, Mech Eng, CompSci, etc) eager to make an impact.",
-        "Website → https://github.com/UBCBEST/mint-eeg"
+        "Website → https://ubcmint.github.io"
       ],
       "members": [
         {
-          "name": "Rahat Dande",
+          "name": "Kristyn Lee",
+          "img": "/static/img/projects/ptm/kristyn-lee.jpg",
           "position": "Project Lead",
+          "year": "3rd",
+          "department": "Electrical Engineering, Minor in Commerce",
+          "biomed": true,
+          "desc": "I am so excited to be working with a diverse group of students that share a passion for NeuroTech innovation. Through UBC BEST, I aim to make a difference in the lives of others by positively impacting the health sector. I am also pursuing a minor in Commerce since the combination of a business and engineering degree will help me understand the commercialization potential of new biomedical products. For co-op, I previously worked as a Junior Software Developer at Paragon Testing Enterprises."
+        },
+        {
+          "name": "Giulio Sucar",
+          "position": "Technical Lead",
+          "img": "/static/img/projects/ptm/giulio-sucar.jpg",
+          "year": "4th",
+          "department": "Engineering Physics",
+          "desc": "Dreamer at BEST. I like technology that is made with awareness of its users and economic context, aiming for high impact. In many ways, these are the trademarks of clinical tech, which is what has guides me here. I started MINT, a neurotech initiative, because it is simply absurd that we have affordable cloud computing but no established objective method to measure someone’s level of depression. The messy innards of consciousness are our original frontier, and one I want to poke at. ...Don’t you?"
+        },
+        {
+          "name": "Rahat Dande",
+          "position": "Technical Advisor",
           "img": "/static/img/projects/ptm/rahat-dhande.jpg",
           "year": "3rd",
           "department": "Engineering Physics",
           "desc": "Rahat Dhande is passionate about science and technology, and their application in Biomedical Engineering.  In his spare time, Rahat likes to wonder what he could do if he had spare time."
-        },
-        {
-          "name": "Giulio Sacar",
-          "position": "Technical Lead",
-          "img": "",
-          "year": "4th",
-          "department": "Engineering Physics",
-          "desc": "I like technology that is made with awareness of its users and economic context, aiming for high impact. In many ways, these are the trademarks of clinical tech, which is what has guided me here. I started MINT, a neurotech initiative, because it is simply absurd that we have affordable cloud computing but no established objective method to measure someone’s level of depression. The messy innards of consciousness are our original frontier, and one I want to poke at. ...Don’t you?"
-        },
-        {
-          "name": "Kristyn Lee",
-          "img": "/static/img/projects/ptm/kristyn-lee.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Electrical Engineering, Minor in Commerce",
-          "biomed": true,
-          "desc": "I hope to pursue a career in the biomedical device industry. Through UBC BEST, I want to make a difference in the lives of others by positively impacting the health sector. I am also pursuing a minor in Commerce since the combination of a business and engineering degree will help me understand the commercialization potential of new biomedical products. For co-op, I previously worked as a Junior Software Developer at Paragon Testing Enterprises. My hobbies include long distance running and tennis."
         },
         {
           "name": "Tavia Walsh",
@@ -437,11 +438,11 @@
           "year": "3rd",
           "department": "Electrical Engineering",
           "biomed": true,
-          "desc": "As a team, we share a passion for helping people and advancing the medical field, and being a part of BEST is incredibly rewarding. Having access to information about device needs and challenges in real medical applications was incredible important in setting me on my goal towards becoming a biomedical engineer.  Through BEST, I have gained over two years of amazing technical experience, working on design proposals, research, and an early prototype of the neonatal phototherapy monitor project."
+          "desc": "As a team, we share a passion for helping people and advancing the medical field - getting a chance to do just that, as a part of BEST is incredibly rewarding. Having access to information about device needs and challenges in real medical applications was especially important in setting me on my goal towards becoming a biomedical engineer. I’m so excited to see what new innovations we will create in the field of NeuroTech!"
         },
         {
           "name": "Nabil Ali-Mohamad",
-          "img": "",
+          "img": "/static/img/projects/ptm/nabil-ali-mohamad.jpg",
           "position": "Member",
           "year": "2nd",
           "department": "Chemical & Biological Engineering",
@@ -449,15 +450,15 @@
         },
         {
           "name": "Adriano Sela Aviles",
-          "img": "",
+          "img": "/static/img/projects/ptm/adriano-sela-aviles.jpg",
           "position": "Member",
           "year": "2nd",
           "department": "Computer Engineering",
-          "desc": "Adriano has a profound interest in computer engineering with a focus in biomedical applications. He lived in Uganda for two and a half years and is deeply involved in local and international communities of Kampala. In his spare time he enjoys exercising, playing basketball, and challenging himself with logic problems. His other areas of interest include medical and particle physics as well as astrophysics."
+          "desc": "Everything can be made faster, more compact, energy efficient, and more sustainable. Innovating medical devices with these factors in mind drives my motivation. I am a Computer Engineering student who joined BEST/MINT as a way of incorporating medical physics and technology into my career path."
         },
         {
           "name": "Bhaskar Yechuri",
-          "img": "",
+          "img": "/static/img/projects/ptm/bhaskar-yechuri.jpg",
           "position": "Member",
           "year": "2nd",
           "department": "Electrical Engineering",
@@ -465,21 +466,49 @@
           "desc": "As an aspiring biomedical engineer,  I have a deep interest in the applications of electrical engineering to the fields of global healthcare and veterinary medicine. I hope to someday use the skills and network I gain through UBC Engineering and BEST to bring about positive global change."
         },
         {
-          "name": "Carol Fu",
-          "img": "/static/img/projects/ptm/carol-fu.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Computer Engineering",
-          "desc": "Carol joined BEST to meet other peers who are also interested in designing medical devices. In her spare time she reads Garfield all day long."
-        },
-        {
           "name": "Rashmi Prakash",
           "img": "/static/img/projects/ptm/rashmi-prakash.jpg",
-          "position": "Member",
+          "position": "Technical Advisor",
           "year": "4th",
           "department": "Electrical Engineering",
           "biomed": true,
           "desc": "Rashmi has a strong interest in the development of diagnostic devices (specifically lab-on-a-chip) and also is passionate about the integration of biology and technology to develop prosthetics that are able receive and send cognitive messages. In her spare time she enjoys playing the guitar, hiking/camping, reading books, playing badminton and watching movies."
+        },
+        {
+          "name": "Emily Weemees",
+          "img": "/static/img/projects/ptm/emily-weemees.jpg",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Arts",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Yana Pertels",
+          "img": "/static/img/projects/ptm/yana-pertels.jpg",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Science",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Michael Halim",
+          "img": "/static/img/projects/ptm/michael-halim.jpg",
+          "position": "Member",
+          "year": "1st",
+          "department": "Engineering",
+          "biomed": false,
+          "desc": "Coming from Indonesia, I have always valued the importance of medical advancements and its impact towards our society. I aspire to pursue graduate school and establish a biotechnology startup in order to make greater progress in improving global health and change the community for the better. I am excited to learn from and work with talented peers at UBC BEST to alleviate some of the world’s most pressing health challenges."
+        },
+        {
+          "name": "Michael Ko",
+          "img": "/static/img/projects/ptm/michael-ko.jpg",
+          "position": "Member",
+          "year": "1st",
+          "department": "Engineering",
+          "biomed": false,
+          "desc": "I'm very passionate about helping others with disabilities, and interested in the field of medicine regarding DNA and genetics. Inspired by growing up with a physically disabled brother, I hope to be admitted into Mechanical Engineering under the Biomedical option next year, and pursue my goal of creating a more advanced and comfortable wheelchair for those who have physical limitations."
         }
       ]
     },
