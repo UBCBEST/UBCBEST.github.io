@@ -114,9 +114,18 @@
       ],
       "members": [
         {
+          "name": "Jade Varelle",
+          "img": "",
+          "position": "Project Lead",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": "Jade Varelle is excited to gain experience in tackling healthcare challenges through UBC BEST. Jade is interested in medical physics, specifically imaging and signal processing. In her spare time Jade enjoys hiking, camping and playing field hockey."
+        },
+        {
           "name": "Karen Woodward",
           "img": "/static/img/projects/rrm/karen-woodward.jpg",
-          "position": "Project Lead",
+          "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
           "biomed": true,
@@ -224,15 +233,6 @@
           "year": "5th",
           "department": "Integrated Sciences",
           "desc": "Marysia is studying Neuroscience through the integration of physiology and psychology. She was one of the members that traveled to Kenya and Uganda on a fact-finding mission in May 2015. She is passionate about global health and the integral role that technology has in medical advancement."
-        },
-        {
-          "name": "Jade Varelle",
-          "img": "",
-          "position": "Member",
-          "year": "2nd",
-          "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "Jade Varelle is excited to gain experience in tackling healthcare challenges through UBC BEST. Jade is interested in medical physics, specifically imaging and signal processing. In her spare time Jade enjoys hiking, camping and playing field hockey."
         },
         {
           "name": "Hamza Faran",
