@@ -19,18 +19,18 @@
           ]
         },
         {
-          "name": "Julie Kerr",
+          "name": "Alessandro Narciso",
           "title": "Chief Operations Officer",
-          "img": "/static/img/teams/exec/julie-kerr.jpg",
-          "link": "https://ca.linkedin.com/pub/julie-kerr/8b/254/164",
+          "img": "/static/img/teams/exec/alessandro-narciso.jpg",
+          "link": "https://www.linkedin.com/in/alessandronarciso",
           "desc": [
-            "I have been an active member of UBC BEST since my first year at UBC, when the team was first created. Joining a team focused on developing innovative medical devices has greatly influenced my studies and passion for the field, and has helped me prepare as I plan to launch myself into the biomedical industry. I am currently in my fifth and final year of Mechanical Engineering, in the Biomedical Option.",
-            "As an original member of BEST, I have had the unique experience to watch and learn how the team has progressed, both from the perspective as a technical member as well as a leader of the team. I have worked on the early prototypes of the peripheral neuropathy foot sensor and musical therapy projects before moving to captain the team.",
-            "I have 12 months of co-op experience in the biomedical device field. At Strait Access Technologies in Cape Town, South Africa, I worked with the R&D team to develop a novel device to repair mitral regurgitation. At Clarius Mobile Health, I worked with the mechanical team to finalize the design of a hand-held, wireless ultrasound device, which is due to be released by the end of 2016.",
-            "My experience with BEST has given me two and a half years of technical experience, and the past year and a half of being the COO. I am excited to continue my final year as COO to further the development of the projects and our members. BEST has enriched my degree, and given me the opportunity to develop my own skills and passions, and to be able to provide that same environment for other students at UBC, and beyond."
+            "Ever since I first became interested in engineering, the innovations that astounded me most were the biomedical ones. The concept of being able to save someone’s life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my second year of Electrical Engineering.",
+            "When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA – EMR). There, I worked on creating mockups and prototypes to demonstrate the workflow to doctors and receive feedback from them. I also helped in designing and testing the user interface of the EMR. After the project was completed and handed off to ICChange for implementation, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code.",
+            "My work experience consists of 4 months with the Government of Alberta, Department of Economic Development and Trade, where I enriched my business and entrepreneurial skills by aiding my team in marketing Albertan corporations to attract foreign investment and trade opportunities in energy, health, and technology sectors.",
+            "Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 2 years and I hope to keep contributing to the club’s success by taking on the role of COO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
           ]
         },
-         {
+        {
           "name": "Amara Kraft",
           "title": "Chief Technology Officer",
           "img": "/static/img/teams/exec/amara-kraft.jpg",
@@ -272,6 +272,17 @@
           ]
         },
         {
+          "name": "Julie Kerr",
+          "img": "/static/img/teams/exec/julie-kerr.jpg",
+          "link": "https://ca.linkedin.com/pub/julie-kerr/8b/254/164",
+          "desc": [
+            "I have been an active member of UBC BEST since my first year at UBC, when the team was first created. Joining a team focused on developing innovative medical devices has greatly influenced my studies and passion for the field, and has helped me prepare as I plan to launch myself into the biomedical industry. I am currently in my fifth and final year of Mechanical Engineering, in the Biomedical Option.",
+            "As an original member of BEST, I have had the unique experience to watch and learn how the team has progressed, both from the perspective as a technical member as well as a leader of the team. I have worked on the early prototypes of the peripheral neuropathy foot sensor and musical therapy projects before moving to captain the team.",
+            "I have 12 months of co-op experience in the biomedical device field. At Strait Access Technologies in Cape Town, South Africa, I worked with the R&D team to develop a novel device to repair mitral regurgitation. At Clarius Mobile Health, I worked with the mechanical team to finalize the design of a hand-held, wireless ultrasound device, which is due to be released by the end of 2016.",
+            "My experience with BEST has given me two and a half years of technical experience, and the past year and a half of being the COO. I am excited to continue my final year as COO to further the development of the projects and our members. BEST has enriched my degree, and given me the opportunity to develop my own skills and passions, and to be able to provide that same environment for other students at UBC, and beyond."
+          ]
+        },
+        {
           "name": "Blake Henderson",
           "title": "Chief Executive Officer",
           "occupation": "",
@@ -285,15 +296,15 @@
           ]
         },
         {
-          "name": "Julie Kerr",
+          "name": "Alessandro Narciso",
           "title": "Chief Operations Officer",
-          "occupation": "",
-          "img": "/static/img/teams/exec/julie-kerr.jpg",
-          "link": "https://ca.linkedin.com/pub/julie-kerr/8b/254/164",
+          "img": "/static/img/teams/exec/alessandro-narciso.jpg",
+          "link": "https://www.linkedin.com/in/alessandronarciso",
           "desc": [
-            "As an original member of UBC BEST, I have had the pleasure to watch and learn how the team has progressed, and I am thrilled to work with Elizabeth and Andrea to further develop the team!",
-            "I am currently in my third year of Mechanical Engineering, Biomedical option. I have worked with Ballard Power Systems Inc. for an 8 month co-op term, working on their HD7 Fuel Cell Bus Module, gaining hands on mechanical experience. In addition, I have two years of technical experience on the Mechanical Subteam of UBC BEST. I can apply these experiences to lead this multidisciplinary group of students, creating innovative devices that will make a difference in  the medical field.",
-            "I am so inspired to work with a group of students who are passionate about the biomedical industry. I am excited to take on this new leadership role, sharing my knowledge and passion for biomedical devices, taking the design process full loop from conceptualization to development. I look forward to leading the team in making an impact on the medical community, especially as we begin to focus on devices for low resource settings."
+            "Ever since I first became interested in engineering, the innovations that astounded me most were the biomedical ones. The concept of being able to save someone’s life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my second year of Electrical Engineering.",
+            "When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA – EMR). There, I worked on creating mockups and prototypes to demonstrate the workflow to doctors and receive feedback from them. I also helped in designing and testing the user interface of the EMR. After the project was completed and handed off to ICChange for implementation, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code.",
+            "My work experience consists of 4 months with the Government of Alberta, Department of Economic Development and Trade, where I enriched my business and entrepreneurial skills by aiding my team in marketing Albertan corporations to attract foreign investment and trade opportunities in energy, health, and technology sectors.",
+            "Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 2 years and I hope to keep contributing to the club’s success by taking on the role of COO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
           ]
         },
         {
