@@ -110,7 +110,7 @@
       "name": "Respiratory Rate Monitor",
       "abbr": "RRM",
       "desc": [
-        "The Respiratory Rate Monitor Project is based on a proposal from the team’s recent International Medical Device Initiative (IMDI), where 4 team members travelled to Uganda and Kenya in May 2015 to speak to medical professionals about the challenges that they face in performing care for patients. The challenge was initially brought to the team by a paediatrician in Uganda who expressed the need for a device to actively monitor the respiratory rate of patients, and alert a healthcare professional when the rate drops, or if the breathing becomes shallow. Further investigation showed that often respiratory rate can be difficult to take, and is often neglected as a vital that should be actively monitored. The team hopes to develop a device to address these issues and optimize healthcare professionals’ ability to perform care."
+        "Each year, over one million children under the age of 5 die due to acute respiratory infections. The majority of these deaths occur in low resource countries, where hospitals often do not have the necessary personnel or equipment to constantly monitor the respiratory rate of paediatric patients. Measuring a patient’s respiratory rate is vital in the clinical assessment for disease diagnosis, prognosis, and treatment. The team aims to develop a low cost, context appropriate monitoring device that continuously reads a patient's respiratory rate and alerts a medical professional when the patient is in distress. Currently developing their second iteration prototype, the team is exploring accelerometer technology to use in their designs."
       ],
       "members": [
         {
