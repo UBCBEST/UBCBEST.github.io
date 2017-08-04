@@ -110,42 +110,26 @@
       "name": "Respiratory Rate Monitor",
       "abbr": "RRM",
       "desc": [
-        "The Respiratory Rate Monitor Project is based on a proposal from the team’s recent International Medical Device Initiative (IMDI), where 4 team members travelled to Uganda and Kenya in May 2015 to speak to medical professionals about the challenges that they face in performing care for patients. The challenge was initially brought to the team by a paediatrician in Uganda who expressed the need for a device to actively monitor the respiratory rate of patients, and alert a healthcare professional when the rate drops, or if the breathing becomes shallow. Further investigation showed that often respiratory rate can be difficult to take, and is often neglected as a vital that should be actively monitored. The team hopes to develop a device to address these issues and optimize healthcare professionals’ ability to perform care."
+        "Each year, over one million children under the age of 5 die due to acute respiratory infections. The majority of these deaths occur in low resource countries, where hospitals often do not have the necessary personnel or equipment to constantly monitor the respiratory rate of paediatric patients. Measuring a patient’s respiratory rate is vital in the clinical assessment for disease diagnosis, prognosis, and treatment. The team aims to develop a low cost, context appropriate monitoring device that continuously reads a patient's respiratory rate and alerts a medical professional when the patient is in distress. Currently developing their second iteration prototype, the team is exploring accelerometer technology to use in their designs."
       ],
       "members": [
         {
+          "name": "Jade Varelle",
+          "img": "",
+          "position": "Project Lead",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": "Jade Varelle is excited to gain experience in tackling healthcare challenges through UBC BEST. Jade is interested in medical physics, specifically imaging and signal processing. In her spare time Jade enjoys hiking, camping and playing field hockey."
+        },
+        {
           "name": "Karen Woodward",
           "img": "/static/img/projects/rrm/karen-woodward.jpg",
-          "position": "Project Lead",
+          "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
           "biomed": true,
           "desc": "I’m very excited to be joining BEST for another year and am looking forward to see what our dedicated team can accomplish! Previously, I have worked in the biomedical industry at LightIntegra Technology in Vancouver and am excited to use the skills I gained there for the development of BEST. In the future, I hope to get involved with injury biomechanics and rehabilitation, or aerospace design and development."
-        },
-        {
-          "name": "Lap-Tak Chu",
-          "img": "/static/img/projects/rrm/lap-tak-chu.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Engineering Physics",
-          "desc": "Lap-Tak is passionate about improving global health. He hopes to pursue a career in the medical and health industry. In his spare time he enjoys being in the outdoors."
-        },
-        {
-          "name": "Amira Balderin",
-          "img": "/static/img/projects/rrm/amira-balderin.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "Amira is passionate about the social impact of low resource health initiatives as well as the technology behind these devices. She has experience in software development, testing, and UX design. In NWHacks 2015, she placed in the Top 10, creating an alarm clock using pulse oximetry to wake the person in the optimal sleep cycle to ensure regular and deep sleep by using heart rate readings."
-        },
-        {
-          "name": "Mehar Gill",
-          "img": "/static/img/projects/rrm/mehar-gill.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Integrated Sciences",
-          "desc": "Mehar is studying neuropsychology, physiology, and nutrition. She has strong interests in medicine, public health, global health, and medical device development. Through her extensive volunteer and clinical research experience in healthcare settings, she has come to appreciate the need to further develop collaboration among healthcare and biomedical professionals to address a wide range of issues in public health. Mehar is excited to provide analytical research support to the team."
         },
         {
           "name": "Kayla Lee",
@@ -154,14 +138,6 @@
           "year": "3rd",
           "department": "Computer Science and Microbiology",
           "desc": "Kayla is passionate about healthcare technology. She joined BEST to learn about medical device development and how accessibility can be improved to 3rd world countries.  In her spare time, she enjoys dancing and posting of pictures of her homemade healthy snacks on Instagram."
-        },
-        {
-          "name": "Alis Xu",
-          "img": "/static/img/projects/rrm/alis-xu.png",
-          "position": "Member",
-          "year": "4th",
-          "department": "Honours Science",
-          "desc": "Alis is studying Cellular, Anatomical and Physiological Sciences. She is passionate about medical innovation and making a direct impact on patients the most in need. In joining the Respiratory Rate Monitor project, she hopes to accomplish problem-solving tasks using collaborative and creative efforts. She hopes to contribute to solve the problem of insufficient vital sign monitoring in low resource areas."
         },
         {
           "name": "Ed Mason",
@@ -198,12 +174,19 @@
           "desc": "I have experience working in a number of research and development environments over the past four years in Canada, Germany, Japan, and Sweden. After almost two years working on ex-vivo organ perfusion machines, I am eager to share my perspective on medical device development with UBC BEST. It is a pleasure to be involved in problem definition, prototyping, design, and testing with the RRM team."
         },
         {
-          "name": "Alessandro Narciso",
+          "name": "Ashley Lloyd",
           "img": "",
-          "position": "Member",
-          "year": "2nd",
-          "department": "Electrical Engineering",
-          "desc": "My passion lies in innovation and making a difference in the world. When I came to UBC and discovered BEST, I instantly fell in love with innovating impactful medical devices with the aim to improve global health, especially for those in low resource settings. I’m extremely passionate about software having previously worked on the IDEA EMR Project with BEST, as well as the world of business and entrepreneurship having worked for the Alberta Government, Department of Economic Development and Trade."
+          "position": "Member"
+        },
+        {
+          "name": "Brenda Nakandi",
+          "img": "",
+          "position": "Member - Makarere University"
+        },
+        {
+          "name": "Racheal Nassimbwa",
+          "img": "",
+          "position": "Member - Makarere University"
         }
       ]
     },
@@ -232,15 +215,6 @@
           "year": "5th",
           "department": "Integrated Sciences",
           "desc": "Marysia is studying Neuroscience through the integration of physiology and psychology. She was one of the members that traveled to Kenya and Uganda on a fact-finding mission in May 2015. She is passionate about global health and the integral role that technology has in medical advancement."
-        },
-        {
-          "name": "Jade Varelle",
-          "img": "",
-          "position": "Member",
-          "year": "2nd",
-          "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "Jade Varelle is excited to gain experience in tackling healthcare challenges through UBC BEST. Jade is interested in medical physics, specifically imaging and signal processing. In her spare time Jade enjoys hiking, camping and playing field hockey."
         },
         {
           "name": "Hamza Faran",
