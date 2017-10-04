@@ -271,6 +271,15 @@
           "desc": "I am a third year Mechanical Engineering student with an option in Biomedical Engineering. I was a member of the IMDI field team and was involved in the identification of the needs and challenges that have shaped four of BEST’s current projects. I saw first hand the burden of trauma in low income countries and the challenges with femur fracture treatment. This put into perspective the need for biomedical innovation in treatment and motivated me to development this project."
         },
         {
+          "name": "Jimmy Ntaawu",
+          "img": "",
+          "position": "Member",
+          "year": "4th",
+          "department": "Biomedical Engineering",
+          "biomed": false,
+          "desc": "Jimmy is a fourth year student of Biomedical Engineering, Makerere University Uganda. He has a fascination for innovation, research and development of biomedical engineering ideas especially if it favours low- and middle- income settings. Jimmy has a thing of exploring the various concepts and methods used to solve healthcare problems across the world. His desire is to explore scientific and engineering principles that can be used to develop technology that can solve their healthcare problems."
+        },
+        {
           "name": "Amara Kraft",
           "img": "/static/img/projects/femur/amara-kraft.jpg",
           "position": "Member",
