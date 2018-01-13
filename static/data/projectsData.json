@@ -11,38 +11,31 @@
       ],
       "members": [
         {
-          "name": "May Liang",
+          "name": "Justine Sultan",
           "position": "Project Lead",
-          "img": "/static/img/projects/m2m/may-liang.jpg",
+          "img": "",
           "year": "3rd",
-          "department": "Mechanical Engineering",
+          "department": "Electrical Engineering",
           "biomed": true,
-          "desc": "I am excited to be leading Music to Movement into the future and have had a delightful experience of driving development in rehabilitation technology for the past year, and in the mechanical design team since M2M’s beginnings. My work experiences range from PR2 software development and programming a Myo-Controlled Robot Arm demo at the UBC CARIS Lab, as well as production management and R&D at Arbutus Medical. My goal is to live my dream of making a positive difference in global health one small step at a time."
+          "desc": ""
         },
         {
-          "name": "Clinton Large",
+          "name": "Charu Bhargava",
           "position": "Member",
-          "img": "/static/img/projects/m2m/clinton-large.jpg",
-          "year": "4th",
-          "department": "Chemical & Biological Engineering",
-          "desc": "Clinton has completed two work terms in Michael Smith Labs working with statistical modelling, Monte Carlo simulations, mammalian tissue culturing, and DNA Sanger Sequencing, as well as his one work term in the Chemical & Biological Engineering department working with anaerobic waste water treatment.He is very excited to apply his 10 years of playing trumpet to the development of a musical therapy device."
-        },
-        {
-          "name": "Jose Martinez",
-          "position": "Member",
-          "img": "/static/img/projects/m2m/jose-martinez.jpg",
+          "img": "",
           "year": "3rd",
-          "department": "Mechanical Engineering",
-          "biomed": true,
-          "desc": "During the summer after Jose's first year, he worked as a research intern at the McCaig Institute of Bone and Joint Health in the University of Calgary. He is passionate about the application of emerging technologies to solve medical problems."
+          "department": "Computer Engineering",
+          "biomed": false,
+          "desc": ""
         },
         {
-          "name": "Joshua Jessup",
+          "name": "Angelica Liaw",
           "position": "Member",
-          "img": "/static/img/projects/m2m/joshua-jessup.jpg",
+          "img": "",
           "year": "2nd",
           "department": "Electrical Engineering",
-          "desc": "Josh has a deep passion for the Biomedical Engineering field and more specifically the field of assistive technologies. He hopes to one day pursue a Masters and potentially a Doctorate in Biomedical Engineering. In his spare time Josh works as a Venture Lead with Engineers without Borders UBC, plays Ice Hockey with a local recreation team and takes part in UBC Rec Leagues such as Bodin Ball Hockey. He reallllllllly hopes his team wins more than 2 games this year…"
+          "biomed": true,
+          "desc": ""
         },
         {
           "name": "Aria Rezapour",
@@ -53,12 +46,13 @@
           "desc": "The Music to Movement Project allows me to combine my passion and experience in music with a desire to design and develop solutions for the field of medicine. The Biomedical field provides a unique opportunity, as I continue to strive towards working for social change, and explore the contributions that the marriage of engineering and physiology can have to improving people’s lives and society at large. Developing different prototypes has taught me a number of mechanical, computer and electrical technical skills."
         },
         {
-          "name": "Cameron Herberts",
+          "name": "Sarah Mohn",
           "position": "Member",
-          "img": "/static/img/projects/m2m/cameron-herberts.jpg",
-          "year": "3rd",
-          "department": "Honours Biophysics",
-          "desc": "Having played piano for 15 years, Cameron is thrilled to be part of the Music to Movement project; this is a perfect opportunity for him to unite his love of music with his interests in addressing a relevant clinical challenge by means of student innovation and collaboration. Previous experience of his includes work at the Canadian Centre for Research on Ultra-cold Systems, where he conducted a spectroscopic investigation of cryogenic molecules in quantum degenerate phases. He will continue to pursue this interest of his in optical physics during an upcoming co-op work term at the Max Planck Institute for Solid State Physics in Stuttgart, Germany."
+          "img": "",
+          "year": "4th",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": ""
         },
         {
           "name": "James Zhou",
@@ -69,38 +63,56 @@
           "desc": "I joined UBC BEST because I want to learn more about biomedical devices as well as the role of computer systems in the field of biotechnology.  I have experience with embedded systems programming and database design, and am currently working on integrating a relational database to store patient records and sessional data for the M2M device. Aside from trying to debug my code and differentiating resistor band colours, I like to read science fiction novels and practice Taekwondo."
         },
         {
-          "name": "Tiffany Quon",
+          "name": "Ryan Easton",
           "position": "Member",
           "img": "",
-          "year": "2nd",
-          "department": "Engineering Physics",
-          "desc": "I love learning, and I'm really excited by the work M2M—and all of UBC BEST—is doing. I enjoy blogging and hand lettering, and have recently brought this love of writing into web development and coding questions. I also have professional graphic design experience with building brands and working within large, established ones. I hope to build upon my technical skills with M2M, bring my background as a content creator into my work, and contribute to something great."
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "desc": ""
         },
         {
-          "name": "Sydney Begin",
+          "name": "Justin Park",
           "position": "Member",
           "img": "",
           "year": "3rd",
           "department": "Mechanical Engineering",
-          "desc": "I have a passion for music and using my engineering knowledge to develop medical devices that can help make a difference, and am thrilled to contribute to such a great project and team. My experience includes working with interactive devices at SMART Technologies, on advanced control system technology projects at Spartan Controls, and designing and building a track inspection vehicle for the Canada Line at Protrans BC. I look forward to the continued development of the Music to Movement Project!"
+          "biomed": true,
+          "desc": ""
         },
         {
           "name": "Andrew Yan",
           "position": "Member",
           "img": "",
-          "year": "2nd",
+          "year": "3rd",
           "department": "Electrical Engineering",
           "biomed": true,
           "desc": "I was attracted to Biomedical engineering and UBC BEST because it combines my two passions, Medicine and Engineering.  Since joining BEST in my first year, I have been on multiple projects that have helped me develop valuable programming and electrical skills, as well as giving me a better idea of how engineering design works.  I hope to continue to work on and create medical devices that will improve healthcare worldwide."
         },
         {
-          "name": "Yuki Sekimori",
+          "name": "Samia Sama",
           "position": "Member",
           "img": "",
           "year": "2nd",
-          "department": "Integrated Engineering",
-          "desc": "I have worked on designing the casing and mechanical component, designing the hardware circuit as well as the software that operates the Tap peripheral. I have consulted with local musical therapists and industrial designers to receive their feedback and discuss further improvements of our prototypes. I am driven to make a difference in the world and serve to the community through pursuing the combination of medicine and innovation. It has been an exciting learning experience working with this team."
+          "department": "Engineering Physics",
+          "desc": ""
+        },
+        {
+          "name": "Jessi Knutson",
+          "position": "Member",
+          "img": "",
+          "year": "3",
+          "department": "",
+          "desc": ""
+        },
+        {
+          "name": "Morgan Kaye",
+          "position": "Member",
+          "img": "",
+          "year": "2",
+          "department": "Chemical and Biological Engineering",
+          "desc": ""
         }
+
       ]
     },
     {
