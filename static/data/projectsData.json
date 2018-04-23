@@ -91,7 +91,7 @@
         {
           "name": "Samia Sama",
           "position": "Member",
-          "img": "",
+          "img": "/static/img/projects/m2m/samia-sama.png",
           "year": "2nd",
           "department": "Engineering Physics",
           "desc": ""
@@ -153,6 +153,15 @@
           "desc": ""
         },
         {
+          "name": "Zachary Fu",
+          "img": "/static/img/projects/rrm/zachary-fu.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": ""
+        },
+        {
           "name": "Yamen Taha",
           "img": "",
           "position": "Member",
@@ -160,6 +169,15 @@
           "department": "Electrical Engineering",
           "biomed": true,
           "desc": "One of the main reasons I joined UBC was because of it's biomedical engineering program and UBC BEST was a great opportunity for me to gain more hands on practical experience in my intended field of study and pursue my interest. I joined UBC BEST in my second year and have enjoyed being part of the Respiratory Rate Monitor team since then."
+        },
+        {
+          "name": "Graham Whyte",
+          "img": "/static/img/projects/rrm/graham-whyte.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "biomed": false,
+          "desc": ""
         },
         {
           "name": "Shafkat Hussain Khondker",
@@ -313,7 +331,7 @@
         },
         {
           "name": "Jessica Bo",
-          "img": "",
+          "img": "/static/img/projects/femur/jessica-bo.png",
           "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -340,7 +358,7 @@
         },
         {
           "name": "Chris Bhatla",
-          "img": "",
+          "img": "/static/img/projects/femur/chris-bhatla.png",
           "position": "Member",
           "year": "3rd",
           "department": "Kinesiology and Health Sciences, Minor in Biology",
@@ -351,14 +369,14 @@
           "name": "Aidan Canil",
           "img": "/static/img/projects/femur/aidan-canil.png",
           "position": "Member",
-          "year": "",
-          "department": "",
+          "year": "3rd",
+          "department": "Science",
           "biomed": false,
           "desc": ""
         },
         {
           "name": "Julia Hudea",
-          "img": "",
+          "img": "/static/img/projects/femur/julia-hudea.png",
           "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -376,7 +394,7 @@
         },
         {
           "name": "Eric Pucci",
-          "img": "",
+          "img": "/static/img/projects/femur/eric-pucci.png",
           "position": "Member",
           "year": "3rd",
           "department": "Finance, Minor in Economics",
@@ -429,14 +447,14 @@
         {
           "name": "Giulio Sucar",
           "position": "Technical Lead",
-          "img": "",
+          "img": "/static/img/projects/ptm/giulio-sucar.png",
           "year": "4th",
           "department": "Engineering Physics",
           "desc": ""
         },
         {
           "name": "Kristyn Lee",
-          "img": "",
+          "img": "/static/img/projects/ptm/krysten-lee.png",
           "position": "Member",
           "year": "4th",
           "department": "Electrical Engineering, Minor in Commerce",
@@ -445,7 +463,7 @@
         },
         {
           "name": "Tavia Walsh",
-          "img": "",
+          "img": "/static/img/projects/ptm/tavia-walsh.png",
           "position": "Member",
           "year": "3rd",
           "department": "Electrical Engineering",
@@ -463,7 +481,7 @@
         },
         {
           "name": "Emily Weemees",
-          "img": "",
+          "img": "/static/img/projects/ptm/emily-weemees.jpg",
           "position": "Member",
           "year": "4th",
           "department": "Arts",
@@ -516,8 +534,8 @@
           "desc": ""
         },
         {
-          "name": "Ge (Jessica) Ma",
-          "img": "",
+          "name": "Jessica Ma",
+          "img": "/static/img/projects/ptm/jessica-ma.png",
           "position": "Member",
           "year": "2nd",
           "department": "Engineering Physics",
@@ -526,7 +544,7 @@
         },
         {
           "name": "Kevin Tang",
-          "img": "",
+          "img": "/static/img/projects/ptm/kevin-tang.png",
           "position": "Member",
           "year": "4th",
           "department": "Electrical Engineering",
@@ -535,7 +553,7 @@
         },
         {
           "name": "Emma Gray",
-          "img": "",
+          "img": "/static/img/projects/ptm/emma-gray.png",
           "position": "Member",
           "year": "2nd",
           "department": "Integrated Engineering",
@@ -562,7 +580,7 @@
         },
         {
           "name": "Michael Halim",
-          "img": "/static/img/projects/ptm/michael-halim.jpg",
+          "img": "/static/img/projects/ptm/michael-halim.png",
           "position": "Member",
           "year": "2nd",
           "department": "Chemical Engineering",
@@ -713,7 +731,7 @@
       "members": [
         {
           "name": "Melody Tsai",
-          "img": "",
+          "img": "/static/img/projects/en/melody-tsai.png",
           "position": "Project Lead",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -722,7 +740,7 @@
         },
         {
           "name": "Meagan Woolsey",
-          "img": "",
+          "img": "/static/img/projects/en/meagan-woolsey.png",
           "position": "Project Lead",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -731,7 +749,7 @@
         },
         {
           "name": "Kyle Como",
-          "img": "",
+          "img": "/static/img/projects/en/kyle-como.png",
           "position": "Project Manager",
           "year": "4th",
           "department": "Mechanical Engineering",
@@ -740,7 +758,7 @@
         },
         {
           "name": "Juan Bustamante",
-          "img": "",
+          "img": "/static/img/projects/en/juan-bustamante.png",
           "position": "Project Manager",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -758,7 +776,7 @@
         },
         {
           "name": "Joshua Jessup",
-          "img": "",
+          "img": "/static/img/projects/en/joshua-jessup.jpg",
           "position": "Member",
           "year": "3rd",
           "department": "Electrical Engineering",
@@ -767,7 +785,7 @@
         },
         {
           "name": "Erik Lamoureux",
-          "img": "",
+          "img": "/static/img/projects/en/erik-lamoureux.png",
           "position": "Member",
           "year": "3rd",
           "department": "Mechanical Engineering",
@@ -776,7 +794,7 @@
         },
         {
           "name": "Genevieve Goldstein",
-          "img": "",
+          "img": "/static/img/projects/en/genevieve-goldstein.png",
           "position": "Member",
           "year": "3rd",
           "department": "Kinesiology",
@@ -785,7 +803,7 @@
         },
         {
           "name": "Fabiola Martens",
-          "img": "",
+          "img": "/static/img/projects/en/fabiola-martens.png",
           "position": "Member",
           "year": "2nd",
           "department": "Integrated Engineering",
@@ -794,7 +812,7 @@
         },
         {
           "name": "Joshua French",
-          "img": "",
+          "img": "/static/img/projects/en/joshua-french.png",
           "position": "Member",
           "year": "2nd",
           "department": "Integrated Engineering",
@@ -812,7 +830,7 @@
         },
         {
           "name": "Angus Tang",
-          "img": "",
+          "img": "/static/img/projects/en/angus-tsang.png",
           "position": "Member",
           "year": "3rd",
           "department": "Electrical Engineering",
@@ -820,8 +838,8 @@
           "desc": ""
         },
         {
-          "name": "Nima Yazdia",
-          "img": "",
+          "name": "Nima Yazdi",
+          "img": "/static/img/projects/en/nima-yazdi.png",
           "position": "Member",
           "year": "2nd",
           "department": "Electrical Engineering",

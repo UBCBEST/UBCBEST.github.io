@@ -489,7 +489,7 @@
         {
           "name": "Maria Phelan",
           "position": "Mentee",
-          "img": "",
+          "img": "/static/img/teams/ment/maria-phelan.png",
           "desc": [
             ""
           ]
@@ -497,7 +497,7 @@
         {
           "name": "Sophie Varabioff",
           "position": "Mentee",
-          "img": "",
+          "img": "/static/img/teams/ment/sophie-varabioff.png",
           "desc": [
             ""
           ]
@@ -505,7 +505,7 @@
         {
           "name": "Allison Yao",
           "position": "Mentee",
-          "img": "",
+          "img": "/static/img/teams/ment/allison-yao.png",
           "desc": [
             ""
           ]
@@ -513,7 +513,7 @@
         {
           "name": "Kirsty Hawke",
           "position": "Mentee",
-          "img": "",
+          "img": "/static/img/teams/ment/kirsty-hawke.png",
           "desc": [
             ""
           ]
@@ -521,7 +521,7 @@
         {
           "name": "Darryl Greenough",
           "position": "Mentee",
-          "img": "",
+          "img": "/static/img/teams/ment/darryl-greenough.png",
           "desc": [
             ""
           ]
@@ -545,7 +545,15 @@
         {
           "name": "Emilie Boras",
           "position": "Mentee",
-          "img": "",
+          "img": "/static/img/teams/ment/emilie-boras.png",
+          "desc": [
+            ""
+          ]
+        },
+        {
+          "name": "Gabrielle Booth",
+          "position": "Mentee",
+          "img": "/static/img/teams/ment/gabrielle-booth.png",
           "desc": [
             ""
           ]
@@ -553,7 +561,7 @@
         {
           "name": "Allison Simpson",
           "position": "Mentee",
-          "img": "",
+          "img": "/static/img/teams/ment/allison-simpson.png",
           "desc": [
             ""
           ]
@@ -561,7 +569,7 @@
         {
           "name": "Rana Ahmed Barghout",
           "position": "Mentee",
-          "img": "",
+          "img": "/static/img/teams/ment/rana-barghout.png",
           "desc": [
             ""
           ]
