@@ -50,18 +50,17 @@
       "name": "Management Team",
       "members": [
         {
-          "name": "Marysia Grzybowski",
-          "title": "IDEA-EMR Project Lead & Donated Medical Equipment Advisor",
-          "img": "/static/img/teams/man/marysia-grzybowski.jpg",
-          "link": "https://www.linkedin.com/in/marysia-grzybowski-244838b9",
+          "name": "Bhaskar Yechuri",
+          "title": "Medical Innovation in NeuroTechnology Project Lead",
+          "img": "",
+          "link": "https://www.linkedin.com/in/bhaskar-y-808710100/",
           "desc": [
-            "I am in my 5th year in Integrated Sciences, studying physiology and behavioral neuroscience. UBC BEST has given me the opportunity to pursue my passion for using multidisciplinary and contextually appropriate approaches to improve the access and acceptability of patient care worldwide. Within BEST I am pursuing (should this be: I have experience facilitating..) our international partnership with the Makerere University Biomedical Engineering Program. I was one of four members who travelled to Uganda and Kenya to establish collaborations like this and research challenges healthcare workers experience in the delivery of patient care in low resource settings.",
-            "I was the project co-lead of the IDEA Electronic Medical Records (EMR) project which partnered with Innovative Canadians for Change (ICChange) to develop a trauma registry mobile application for Eastern African countries. This product is being further developed by ICChange, with the goal to improve patient care following traumatic injury. On the Ebola Aid Project team I collaborated with NGDI to design an EMR for rural Ebola Treatment Centers. I also have experience facilitating the collaboration between BEST and the UBC Faculty of Medicine, and was the co-lead of the Donated Medical Equipment Project which researched the sustainability of donating medical equipment to low-income countries."
+            ""
           ]
         },
         {
           "name": "Georgia Grzybowski",
-          "title": "Femur Fracture & Donated Medical Equipment Project Lead",
+          "title": "Femur Fracture Treatment Project & Donated Medical Equipment Project Lead",
           "img": "/static/img/teams/man/georgia-grzybowski.jpg",
           "link": "https://ca.linkedin.com/pub/georgia-grzybowski/85/b24/a8b",
           "desc": [
@@ -70,62 +69,71 @@
           ]
         },
         {
-          "name": "Karen Woodward",
+          "name": "Karla Rivera",
+          "title": "Femur Fracture Treatment Project Lead",
+          "img": "",
+          "link": "https://www.linkedin.com/in/karla-rivera-b1406710b/",
+          "desc": [
+            ""
+          ]
+        },
+        {
+          "name": "Jackson Robinson",
+          "title": "Femur Fracture Treatment Project Lead",
+          "img": "",
+          "link": "https://www.linkedin.com/in/jackson-robinson-096974129/",
+          "desc": [
+            ""
+          ]
+        },
+        {
+          "name": "Justine Sultan",
+          "title": "Music to Movement Project Lead",
+          "img": "",
+          "link": "https://www.linkedin.com/in/justine-sultan-931174119/",
+          "desc": [
+            "I am an electrical engineering student in the biomedical option at UBC, and am passionate about applying engineering to develop solutions for the biomedical industry! I originally joined M2M as a hardware developer working on electrical design, and am excited to continue progressing the M2M project as project lead." ,
+
+            "I have co-op experience in electrical, software, and mechanical development at Motion Metrics International, as well as in project management at the Vancouver Airport Authority."
+          ]
+        },
+        {
+          "name": "Jade Varelle",
           "title": "Respiratory Rate Monitor Project Lead",
-          "img": "/static/img/teams/man/karen-woodward.jpg",
-          "link": "https://www.linkedin.com/in/karen-woodward-0b9663108",
+          "img": "",
+          "link": "https://www.linkedin.com/in/jadevarelle/",
           "desc": [
-            "From the beginning of my time at UBC, I have been passionate about using engineering to improve human life, and have found no better application than the work done by UBC BEST. I am in my third year of Mechanical Engineering specializing in the Biomedical Option, and have thoroughly enjoyed my studies – especially when applying engineering to medical innovation. This past fall, I worked as an Engineering Assistant at LightIntegra Technology, a company that uses dynamic light scattering to determine particle size distributions in platelet samples for applications in blood research. I was involved in the verification and validation testing of their device, as well as conducting various R&D experiments. I am looking forward to transferring my knowledge and experiences from engineering and the biomedical industry to the team as I move into a leadership position.",
-            "I am very excited to co-lead the talented group of students working on the Respiratory Rate Monitor Project! This project has an outstanding team dedicated towards developing a device that has the chance to significantly improve quality of life. I am thrilled to have the opportunity to help bring this device to its full potential."
+            "I was drawn to study engineering because I want to understand how our world works, and make technology that can improve peoples' lives. So far, my work experience has ranged from instrumentation for nano-medicine development to designing hardware for large datacentres. Now in my fourth year at UBC, I've been privileged to work on UBC BEST with a diverse, passionate and talented team to tackle technical challenges in healthcare."
           ]
         },
         {
-          "name": "May Liang",
-          "title": "Music 2 Movement Project Lead",
-          "img": "/static/img/teams/man/may-liang.jpg",
-          "link": "https://www.linkedin.com/in/liangmay",
+          "name": "Brian Ho",
+          "title": "Respiratory Rate Monitor Project Lead",
+          "img": "",
+          "link": "https://www.linkedin.com/in/brian-ho-4ba064136/",
           "desc": [
-            "May is a third year mechanical engineering student in the biomedical option. She has been a driving force for the Music to Movement project in the previous year and looks forward to leading her team in further developing UBC BEST’s stroke rehabilitation device. In the past, May has worked as an undergraduate student volunteer doing PR2 software development and programming a Myo-Controlled Robot Arm demo.",
-            "She currently works for Arbutus Medical as a biomedical engineering co-op student and is living her dream of making a positive difference to the global health community one small step at a time."
+            "I have always had the passion and enthusiasm for using engineering to improve health care for those living in developing countries, and have discovered that UBC BEST is the perfect team for me. I am an Electrical Engineering Student specializing in the Biomedical Option. I am a passionate leader of the Respiratory Rate Monitor Project. I have experience at both software and hardware development through past work experience. I am looking forward to apply my knowledge and experiences from engineering to the team as I take on the leadership role.",
+            "I am excited to lead such a diverse group of students working on the RRM Project. This project has provided me the chance to make a significant impact on people’s quality of life. I am thrilled to have the opportunity to contribute to this field. "
           ]
         },
         {
-          "name": "Rahat Dhande",
-          "title": "Phototherapy Monitor Project Lead",
-          "img": "/static/img/teams/man/rahat-dhande.jpg",
-          "link": "https://www.linkedin.com/in/rahat-dhande-297122105",
-          "desc": [
-            "Biomedical engineering embodies my most quintessential passions: the study of life, the study of the universe, and the practice of benevolence. I am particularly attracted to the fact that all three major sciences interact and collaborate in this field. Whether it is prosthetic limbs controlled by one’s own thoughts, or electronic nodes that allow a collection of neurons in a Petri dish to effectively communicate with a computer, or CT scans that map the human brain, the field is laden with projects wherein physics and chemistry are applied to biology on the basis of mathematics.",
-            "In pursuit of my passions, I’m in my second year of study at UBC in the department of Engineering Physics.  Currently, I’m serving as the project lead for the phototherapy monitoring device, and working as a software developer for the BC Children’s Hospital."
-          ]
-        },
-        {
-          "name": "Ryan Wong",
-          "title": "IDEA-EMR Project Lead",
-          "img": "/static/img/teams/man/ryan-wong.jpg",
-          "link": "https://ca.linkedin.com/in/rmawong",
-          "desc": [
-            "Ryan is a 4th year Electrical (Biomedical) Engineering student. While working at Amazon, Avigilon, and Safe Software over the past few years, he has developed a passion for creating user-facing software technologies. He hopes that his addiction for coding will rub off on his teammates, as they work together to innovate the biomedical industry!"
-          ]
-        },
-        {
-          "name": "Henry (Harry) Pigot",
-          "title": "Executive Advisor",
+          "name": "Melody Tsai",
+          "title": "ENABLE Project Lead",
           "img": "",
           "link": "",
           "desc": [
-            "It has been rewarding to be part of the team's growth and adaption over the past 3 years. UBC BEST has provided myself and fellow team-members with the opportunity to learn first-hand about the medical device design process, and gain hands-on problem definition and prototyping experience.",
-            "I have had the pleasure of working in different R&D environments in Canada, Germany, Japan, and Sweden. It is this experience in medical device design and testing that I contribute to the UBC BEST management team. I am trained in the application of risk management to medical devices (ISO 14971) as well as quality management systems for the design and manufacture of medical devices (ISO 13485). After nearly two years working on ex-vivo organ perfusion machines, I am excited to share my industry experience with the rest of the team."
+            "My co-lead and I created this project because we want to have a positive impact on peoples' lives. I am interested in the integration of biotech with the human body. My work experience includes managing deadlines, keeping the team on track, and administrative tasks. My goal is bring affordable and accessible healthcare devices to everyone."
           ]
         },
         {
-          "name": "Eric Cho",
-          "title": "Business Team Lead",
+          "name": "Meagan Woolsey",
+          "title": "ENABLE Project Lead",
           "img": "",
           "link": "",
           "desc": [
-            "Recognizing the unique opportunity of bridging talent between faculties, I wanted to join UBC BEST to work with students of all faculties. I am a 4th year Sauder student specializing in Accounting and Operations & Logistics. As the Business Team Lead, my main duty is to ensure that the UBC BEST projects get a business perspective during the development phase.",
-            "Over the last 4 years, I have gained a diverse range of experiences in multiple industries. Everything from coaching students in competitive debate to Ivy League debate tournaments, to providing financial service at G&F Financial Group, and doing research assistant work at Sauder. This past summer I worked as a Summer Analyst at AIG, underwriting small to large cap firms. I love being able to apply my knowledge and skills to create real world impacts, and am always striving to see how I can make a difference. The biomedical industry is a rapidly growing and dynamic field to be in, and am truly excited to be a part of BEST."
+            "I am passionate about biomedical engineering because it creates an opportunity to directly improve the health of individuals and the quality of life for everyone – it is both personal and impactful. The industry is also very diverse as it includes everything from prosthetics to injury prevention to medical imaging.",
+            "While working at a wheelchair manufacturing company, PDG Mobility, I gained understanding about the user experience and assisted in quality inspections. Currently, I work for Evasc Medical Systems as a biomedical engineering coop and enjoy working on a device that saves lives.",
+            "In April 2017, Melody Tsai and I decided to create a team with the goal of designing an upper body exoskeleton to aid people with disabilities and soon after we joined BEST as a new project! I am proud to be leading an outstanding group of students and can't wait to build prototypes that improve people’s mobility."
           ]
         }
       ]
@@ -328,27 +336,31 @@
       "members": [
         {
           "name": "Nima Sarrafi",
-          "img": "/static/img/projects/rrm/nima-sarrafi.jpg"
+          "img": "/static/img/teams/alum/nima-sarrafi.jpg"
         },
         {
           "name": "Parynaz Adamy",
-          "img": "/static/img/projects/ptm/parynaz-adamy.jpg"
+          "img": "/static/img/teams/alum/parynaz-adamy.jpg"
+        },
+        {
+          "name": "Amara Kraft",
+          "img": "/static/img/teams/alum/amara-kraft.jpg"
         },
         {
           "name": "Blake Henderson",
-          "img": ""
+          "img": "/static/img/teams/alum/blake-henderson.jpg"
         },
         {
           "name": "May Liang",
-          "img": ""
+          "img": "/static/img/teams/alum/may-liang.jpg"
         },
         {
           "name": "Marysia Grzybowski",
-          "img": ""
+          "img": "/static/img/teams/alum/marysia-grzybowski.jpg"
         },
         {
           "name": "Julie Kerr",
-          "img": ""
+          "img": "/static/img/teams/alum/julie-kerr.jpg"
         },
         {
           "name": "Eric Cho",
@@ -359,16 +371,16 @@
           "img": ""
         },
         {
-          "name": "Hananeh Haghdadi",
-          "img": ""
+          "name": "Hannah Haghdadi",
+          "img": "/static/img/teams/alum/hannah-haghdadi.jpg"
         },
         {
           "name": "Andrea Marshall",
-          "img": ""
+          "img": "/static/img/teams/alum/andrea-marshall.jpg"
         },
         {
           "name": "Elizabeth Wicks",
-          "img": ""
+          "img": "/static/img/teams/alum/elizabeth-wicks.jpg"
         },
         {
           "name": "Emil Maric",
@@ -380,7 +392,7 @@
         },
         {
           "name": "Isabel Keng",
-          "img": ""
+          "img": "/static/img/teams/alum/isabel-keng.jpg"
         },
         {
           "name": "Kieran Wou",
@@ -400,7 +412,7 @@
         },
         {
           "name": "Ryan Wong",
-          "img": ""
+          "img": "/static/img/teams/alum/ryan-wong.jpg"
         },
         {
           "name": "Vivian Wong",
