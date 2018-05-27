@@ -46,38 +46,30 @@
         {
           "name": "Bhaskar Yechuri",
           "title": "Medical Innovation in NeuroTechnology Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/bhaskar-yechuri.png",
           "link": "https://www.linkedin.com/in/bhaskar-y-808710100/",
           "desc": [
-            ""
-          ]
-        },
-        {
-          "name": "Georgia Grzybowski",
-          "title": "Femur Fracture Treatment Project & Donated Medical Equipment Project Lead",
-          "img": "/static/img/teams/man/georgia-grzybowski.jpg",
-          "link": "https://ca.linkedin.com/pub/georgia-grzybowski/85/b24/a8b",
-          "desc": [
-            "I am a third year Mechanical Engineering student with an option in Biomedical Engineering. I am a passionate member of BEST and a dedicated leader of the Femur Fracture Treatment Project and the Donated Medical Equipment Project. I was a member of the IMDI field team and was involved in the identification of the needs and challenges that have shaped four of BEST’s current projects. I am thrilled to have been apart of the identification and starting development of both the projects I lead. The IMDI Initiative put into perspective the essential need for biomedical innovation and healthcare development in international settings.",
-            "I am excited to be apart of this new and growing field that has the potential to make an impact in a setting where improvement in health care is needed the most. The BEST team has not only given me the opportunity to follow and explore this passion of mine, but also to make a difference in this field."
+            "Ever since I was a child, I have been fascinated with living things, they way they function, and the way that learning more about them helps us improve lives and reduce suffering. This fascination slowly morphed into a concrete interest in the field biomedical engineering for both medical and veterinary settings, leading to me pursuing a degree in electrical/biomedical engineering at UBC.",
+            "I am now in my third year and am excited about the future of the field and of the Biomedical Engineering Student Team as we continue to use our ever-expanding set of technical knowledge and skills to grapple with today’s most pressing medical challenges."
           ]
         },
         {
           "name": "Karla Rivera",
           "title": "Femur Fracture Treatment Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/karla-rivera.png",
           "link": "https://www.linkedin.com/in/karla-rivera-b1406710b/",
           "desc": [
-            ""
+            "I am in my last year of Mechanical Engineering ( within the Biomedical Specialisation), and have been on BEST since my first year. I am strongly passionate about bringing innovation to the biomedical field, so as to raise the accessbility to a higher quality of life for all.",
+            "As a lead on FFTP, I have had the pleasure of collaborating with a wide range of individuals, with equally impressive skills and background. Although it isn't an easy field to pursue, I believe that the impact it can have makes it worthwhile."
           ]
         },
         {
           "name": "Jackson Robinson",
           "title": "Femur Fracture Treatment Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/jackson-robinson.png",
           "link": "https://www.linkedin.com/in/jackson-robinson-096974129/",
           "desc": [
-            ""
+            "I am a current Mechanical Engineering student with a Biomedical specialization. I have a strong passion for improving medical practice in developing countries, and am very excited to contribute to device development as a project lead of FFTP. My professional interests include biomechanics and numerical analysis, with previous experience working in the engineering consulting industry. When not at school, I spend time working as a skating instructor, hiking and playing guitar, and hope to successfully apply to a Canadian medical school upon graduation."
           ]
         },
         {
@@ -103,7 +95,7 @@
         {
           "name": "Brian Ho",
           "title": "Respiratory Rate Monitor Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/brian-ho.png",
           "link": "https://www.linkedin.com/in/brian-ho-4ba064136/",
           "desc": [
             "I have always had the passion and enthusiasm for using engineering to improve health care for those living in developing countries, and have discovered that UBC BEST is the perfect team for me. I am an Electrical Engineering Student specializing in the Biomedical Option. I am a passionate leader of the Respiratory Rate Monitor Project. I have experience at both software and hardware development through past work experience. I am looking forward to apply my knowledge and experiences from engineering to the team as I take on the leadership role.",
@@ -113,7 +105,7 @@
         {
           "name": "Melody Tsai",
           "title": "ENABLE Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/melody-tsai.png",
           "link": "",
           "desc": [
             "My co-lead and I created this project because we want to have a positive impact on peoples' lives. I am interested in the integration of biotech with the human body. My work experience includes managing deadlines, keeping the team on track, and administrative tasks. My goal is bring affordable and accessible healthcare devices to everyone."
@@ -122,7 +114,7 @@
         {
           "name": "Meagan Woolsey",
           "title": "ENABLE Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/meagan-woolsey.png",
           "link": "",
           "desc": [
             "I am passionate about biomedical engineering because it creates an opportunity to directly improve the health of individuals and the quality of life for everyone – it is both personal and impactful. The industry is also very diverse as it includes everything from prosthetics to injury prevention to medical imaging.",

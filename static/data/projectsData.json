@@ -298,15 +298,6 @@
       ],
       "members": [
         {
-          "name": "Georgia Grzybowski",
-          "img": "/static/img/projects/donated/georgia-grzybowski.jpg",
-          "position": "Project Lead",
-          "year": "3rd",
-          "department": "Mechanical Engineering, Minor in Science",
-          "biomed": true,
-          "desc": "I am a third year Mechanical Engineering student with an option in Biomedical Engineering. I was a member of the IMDI field team and was involved in the identification of the needs and challenges that have shaped four of BEST’s current projects. I saw first hand the burden of trauma in low income countries and the challenges with femur fracture treatment. This put into perspective the need for biomedical innovation in treatment and motivated me to development this project."
-        },
-        {
           "name": "Karla Rivera",
           "img": "/static/img/projects/femur/karla-rivera.jpg",
           "position": "Project Lead",
@@ -728,7 +719,7 @@
       "name": "ENABLE",
       "abbr": "ENABLE",
       "desc": [
-
+        "Enable is a team made up of dedicated students who are developing an upper body exoskeleton that provides assistance to users with reduced mobility. We aim to construct an exoskeleton that is affordable and can be utilized on a day-to-day basis or used as a rehabilitation tool. Our team has a diverse group of students (Mechanical Engineering, Electrical Engineering, Kinesiology, Integrated Engineering) who are eager to design assistive technologies and expand their knowledge of biomedical engineering."
       ],
 
       "members": [
