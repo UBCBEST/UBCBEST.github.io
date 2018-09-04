@@ -9,9 +9,12 @@
         {
           "name": "Emma Katchur-Marsh",
           "title": "Chief Executive Officer",
-          "img": "",
+          "img": "/static/img/teams/exec/emma-katchur-marsh.png",
           "link": "https://www.linkedin.com/in/emma-katchur-marsh-480707136/",
           "desc": [
+            "During my second year of engineering, I was introduced to biomedical engineering by BEST and I quickly discovered that biomedical engineering fulfills two of my primary interests: to work in the health care industry and to develop innovative technologies. I joined BEST in November 2016 and my experience on the Femur Fracture Treatment Project tackling a complex, international healthcare challenge further solidified my goal to pursue a career in biomedical engineering. As a member of BEST, I was amazed at the impact undergraduate students can have on the healthcare industry and I was excited to begin my role as CEO in January 2018.",
+            "I am currently in my third year of Mechanical Engineering at UBC with a specialization in biomedical engineering. I have 8 months of co-op experience in the biomedical industry at LightIntegra Technology Inc. and 4 months of mechatronics co-op work experience at Osensa Innovations Corp. Through my co-op work experience, I have developed an interest in mechatronics along side my interest in biomedical engineering and I strive to integrate these two fields in my future career.",
+            "I enjoyed my experience on the Femur Fracture Treatment Project and I look forward to working more with the BEST members and the BEST leadership team to contribute to the growth of the biomedical community and to develop innovative solutions to health care challenges."
           ]
         },
         {
@@ -32,7 +35,10 @@
           "img": "/static/img/teams/exec/andrew-yan.png",
           "link": "https://www.linkedin.com/in/andrew-yan-263b80102/",
           "desc": [
-            ""
+            "I was initially attracted to biomedical engineering and UBC BEST because it combines my two passions, Medicine and Engineering. I had the opportunity to join BEST in my first year at UBC (2015) within the first iteration of the Mentorship Program.  At this point in time, I have completed my third year of Electrical Engineering in the Biomedical Option.",
+            "When I joined BEST in 2015, my first 4 months with the team were spent doing the non-technical position of Events Coordinator.  In January 2016, the first iteration of the mentorship program began and I got to become a member of IDEA-EMR, a project that finished that May of that same year.  While on IDEA-EMR, I got the chance to apply some of my Java knowledge to help develop the user interface for the app.  Following the completion of IDEA-EMR, I worked with the Music to Movement project developing one of the first software interfaces, as well as designing some of the peripheral internal circuitry.",
+            "I have had two co-op experiences so far at UBC.  My first co-op was with the Department of Electrical and Computer Engineering for 4 months, where I got to develop skills with WordPress and Altium Designer.  My second co-op was 8 months with Intel Corporation, where I was a part of a team developing error correction code algorithms for an upcoming product.",
+            "I am excited to be CTO of BEST, not only because I get to lead such a diverse and talented group of students, but also because I hope to continue to develop and grow impactful and innovative projects, much like my predecessors in this role."
           ]
         }
       ]
@@ -45,7 +51,7 @@
       "members": [
         {
           "name": "Bhaskar Yechuri",
-          "title": "Medical Innovation in NeuroTechnology Project Lead",
+          "title": "Medical Innovation in NeuroTechnology Project Lead and ICC",
           "img": "/static/img/teams/man/bhaskar-yechuri.png",
           "link": "https://www.linkedin.com/in/bhaskar-y-808710100/",
           "desc": [
@@ -75,7 +81,7 @@
         {
           "name": "Justine Sultan",
           "title": "Music to Movement Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/justine-sultan.png",
           "link": "https://www.linkedin.com/in/justine-sultan-931174119/",
           "desc": [
             "I am an electrical engineering student in the biomedical option at UBC, and am passionate about applying engineering to develop solutions for the biomedical industry! I originally joined M2M as a hardware developer working on electrical design, and am excited to continue progressing the M2M project as project lead." ,
@@ -86,7 +92,7 @@
         {
           "name": "Jade Varelle",
           "title": "Respiratory Rate Monitor Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/jade-varelle.png",
           "link": "https://www.linkedin.com/in/jadevarelle/",
           "desc": [
             "I was drawn to study engineering because I want to understand how our world works, and make technology that can improve peoples' lives. So far, my work experience has ranged from instrumentation for nano-medicine development to designing hardware for large datacentres. Now in my fourth year at UBC, I've been privileged to work on UBC BEST with a diverse, passionate and talented team to tackle technical challenges in healthcare."
@@ -276,17 +282,15 @@
             "My experience with BEST has given me two and a half years of technical experience, and the past year and a half of being the COO. I am excited to continue my final year as COO to further the development of the projects and our members. BEST has enriched my degree, and given me the opportunity to develop my own skills and passions, and to be able to provide that same environment for other students at UBC, and beyond."
           ]
         },
-        {
-          "name": "Blake Henderson",
+         {
+          "name": "Emma Katchur-Marsh",
           "title": "Chief Executive Officer",
-          "occupation": "",
-          "img": "/static/img/teams/exec/blake-henderson.jpg",
-          "link": "https://www.linkedin.com/in/blakehenders",
+          "img": "/static/img/teams/exec/emma-katchur-marsh.png",
+          "link": "https://www.linkedin.com/in/emma-katchur-marsh-480707136/",
           "desc": [
-            "I sought out UBC BEST the moment I began my studies at UBC with a clear goal of becoming a biomedical engineer to develop innovative medical devices to address challenges in patient care. I am currently in my third year of Mechanical Engineering in the Biomedical Option with a Minor in Commerce, and am able to apply my education towards achieving these goals.",
-            "After developing early prototypes for the Music to Movement device, I began planning the International Medical Device Initiative (IMDI). In May 2015, I was one of the four field team members that travelled to Uganda and Kenya, embarking on my goal of developing devices for global health.",
-            "After returning from the IMDI trip, I began work at the Centre for Hip Health and Mobility (CHHM) as an Orthopaedic Research Assistance, investigating cartilage stress and deformation in the hip. I then continued to pursue my passion for biomedical innovation as a member of the Research Team at Kardium Inc., a biomedical company that is developing a sophisticated catheter for the treatment of atrial fibrillation, where I will be returning to work in the summer.",
-            "I have enjoyed being Project Lead of the Respiratory Rate Monitor Team, and am now excited about becoming an Executive Team Member to continue the incredible growth of this team. I envision this team continuing to tackle complex initiatives, while providing a resource for development for students at UBC, and in the greater community."
+            "During my second year of engineering, I was introduced to biomedical engineering by BEST and I quickly discovered that biomedical engineering fulfills two of my primary interests: to work in the health care industry and to develop innovative technologies. I joined BEST in November 2016 and my experience on the Femur Fracture Treatment Project tackling a complex, international healthcare challenge further solidified my goal to pursue a career in biomedical engineering. As a member of BEST, I was amazed at the impact undergraduate students can have on the healthcare industry and I was excited to begin my role as CEO in January 2018.",
+            "I am currently in my third year of Mechanical Engineering at UBC with a specialization in biomedical engineering. I have 8 months of co-op experience in the biomedical industry at LightIntegra Technology Inc. and 4 months of mechatronics co-op work experience at Osensa Innovations Corp. Through my co-op work experience, I have developed an interest in mechatronics along side my interest in biomedical engineering and I strive to integrate these two fields in my future career.",
+            "I enjoyed my experience on the Femur Fracture Treatment Project and I look forward to working more with the BEST members and the BEST leadership team to contribute to the growth of the biomedical community and to develop innovative solutions to health care challenges."
           ]
         },
         {
@@ -302,14 +306,15 @@
           ]
         },
         {
-          "name": "Amara Kraft",
+          "name": "Andrew Yan",
           "title": "Chief Technology Officer",
-          "img": "/static/img/teams/exec/amara-kraft.jpg",
-          "link": "https://ca.linkedin.com/in/amara-kraft-75803786",
-          "desc": ["The moment that I learned about BEST, I began the process of joining the team so I could surround myself with other like-minded students with a passion for biomedical engineering. I am currently finishing my 3rd year of Mechanical Engineering in the Biomedical Option, with a Minor in Commerce.",
-            "Since working on the early stages of the Music to Movement project, I have been a member of the Femur Fracture Treatment Project (FFTP). With this project I have been involved with the early research stages and have since been a key member in the prototype phase. I have now stepped up into the role of CTO for BEST and enjoy helping all the projects meet their deadlines and achieve their goals.",
-            "I have developed a range of skills gained from different co-op experiences with the Department of Fisheries and Oceans, Shell, and Skytrain.",
-            "Working with such a great group of students that are passionate about the biomedical field, has been the most rewarding part of being involved in UBC BEST. I believe in this team and what we can accomplish with the goal of helping people and having an impact on the medical world."
+          "img": "/static/img/teams/exec/andrew-yan.png",
+          "link": "https://www.linkedin.com/in/andrew-yan-263b80102/",
+          "desc": [
+            "I was initially attracted to biomedical engineering and UBC BEST because it combines my two passions, Medicine and Engineering. I had the opportunity to join BEST in my first year at UBC (2015) within the first iteration of the Mentorship Program.  At this point in time, I have completed my third year of Electrical Engineering in the Biomedical Option.",
+            "When I joined BEST in 2015, my first 4 months with the team were spent doing the non-technical position of Events Coordinator.  In January 2016, the first iteration of the mentorship program began and I got to become a member of IDEA-EMR, a project that finished that May of that same year.  While on IDEA-EMR, I got the chance to apply some of my Java knowledge to help develop the user interface for the app.  Following the completion of IDEA-EMR, I worked with the Music to Movement project developing one of the first software interfaces, as well as designing some of the peripheral internal circuitry.",
+            "I have had two co-op experiences so far at UBC.  My first co-op was with the Department of Electrical and Computer Engineering for 4 months, where I got to develop skills with WordPress and Altium Designer.  My second co-op was 8 months with Intel Corporation, where I was a part of a team developing error correction code algorithms for an upcoming product.",
+            "I am excited to be CTO of BEST, not only because I get to lead such a diverse and talented group of students, but also because I hope to continue to develop and grow impactful and innovative projects, much like my predecessors in this role."
           ]
         }
       ]
