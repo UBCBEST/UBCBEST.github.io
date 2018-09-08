@@ -11,38 +11,31 @@
       ],
       "members": [
         {
-          "name": "May Liang",
+          "name": "Justine Sultan",
           "position": "Project Lead",
-          "img": "/static/img/projects/m2m/may-liang.jpg",
+          "img": "/static/img/projects/m2m/justine-sultan.png",
           "year": "3rd",
-          "department": "Mechanical Engineering",
+          "department": "Electrical Engineering",
           "biomed": true,
-          "desc": "I am excited to be leading Music to Movement into the future and have had a delightful experience of driving development in rehabilitation technology for the past year, and in the mechanical design team since M2M’s beginnings. My work experiences range from PR2 software development and programming a Myo-Controlled Robot Arm demo at the UBC CARIS Lab, as well as production management and R&D at Arbutus Medical. My goal is to live my dream of making a positive difference in global health one small step at a time."
+          "desc": "I am an electrical engineering student in the biomedical option at UBC, and am passionate about applying engineering to develop solutions for the biomedical industry! I originally joined M2M as a hardware developer working on electrical design, and am excited to continue progressing the M2M project as project lead.I have co-op experience in electrical, software, and mechanical development at Motion Metrics International, as well as in project management at the Vancouver Airport Authority."
         },
         {
-          "name": "Clinton Large",
+          "name": "Charu Bhargava",
           "position": "Member",
-          "img": "/static/img/projects/m2m/clinton-large.jpg",
-          "year": "4th",
-          "department": "Chemical & Biological Engineering",
-          "desc": "Clinton has completed two work terms in Michael Smith Labs working with statistical modelling, Monte Carlo simulations, mammalian tissue culturing, and DNA Sanger Sequencing, as well as his one work term in the Chemical & Biological Engineering department working with anaerobic waste water treatment.He is very excited to apply his 10 years of playing trumpet to the development of a musical therapy device."
-        },
-        {
-          "name": "Jose Martinez",
-          "position": "Member",
-          "img": "/static/img/projects/m2m/jose-martinez.jpg",
+          "img": "/static/img/projects/m2m/charu-bhargava.png",
           "year": "3rd",
-          "department": "Mechanical Engineering",
-          "biomed": true,
-          "desc": "During the summer after Jose's first year, he worked as a research intern at the McCaig Institute of Bone and Joint Health in the University of Calgary. He is passionate about the application of emerging technologies to solve medical problems."
+          "department": "Computer Engineering",
+          "biomed": false,
+          "desc": "I think it's amazing what a few (hundred) lines of well written code can do. I love working on the music to movement project, because it has the potential to make recovery just a little bit better for stroke survivors, which could make all the difference in the world."
         },
         {
-          "name": "Joshua Jessup",
+          "name": "Angelica Liaw",
           "position": "Member",
-          "img": "/static/img/projects/m2m/joshua-jessup.jpg",
+          "img": "/static/img/projects/m2m/angelica-liaw.png",
           "year": "2nd",
           "department": "Electrical Engineering",
-          "desc": "Josh has a deep passion for the Biomedical Engineering field and more specifically the field of assistive technologies. He hopes to one day pursue a Masters and potentially a Doctorate in Biomedical Engineering. In his spare time Josh works as a Venture Lead with Engineers without Borders UBC, plays Ice Hockey with a local recreation team and takes part in UBC Rec Leagues such as Bodin Ball Hockey. He reallllllllly hopes his team wins more than 2 games this year…"
+          "biomed": true,
+          "desc": "I am passionate about the Biomedical Engineering field. My dream is to design affordable yet effective solutions that could target a larger audience. Messy indentation is one of my biggest pet peeves. they. must. align. please."
         },
         {
           "name": "Aria Rezapour",
@@ -53,12 +46,13 @@
           "desc": "The Music to Movement Project allows me to combine my passion and experience in music with a desire to design and develop solutions for the field of medicine. The Biomedical field provides a unique opportunity, as I continue to strive towards working for social change, and explore the contributions that the marriage of engineering and physiology can have to improving people’s lives and society at large. Developing different prototypes has taught me a number of mechanical, computer and electrical technical skills."
         },
         {
-          "name": "Cameron Herberts",
+          "name": "Sarah Mohn",
           "position": "Member",
-          "img": "/static/img/projects/m2m/cameron-herberts.jpg",
-          "year": "3rd",
-          "department": "Honours Biophysics",
-          "desc": "Having played piano for 15 years, Cameron is thrilled to be part of the Music to Movement project; this is a perfect opportunity for him to unite his love of music with his interests in addressing a relevant clinical challenge by means of student innovation and collaboration. Previous experience of his includes work at the Canadian Centre for Research on Ultra-cold Systems, where he conducted a spectroscopic investigation of cryogenic molecules in quantum degenerate phases. He will continue to pursue this interest of his in optical physics during an upcoming co-op work term at the Max Planck Institute for Solid State Physics in Stuttgart, Germany."
+          "img": "/static/img/projects/m2m/sarah-mohn.png",
+          "year": "4th",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": "I have greatly enjoyed developing M2M’s electrical circuitry and hardware design, as well as working on our clinical trial. I am also one of UBC BEST’s International Collaboration Coordinators, and have organized several collaborations between UBC BEST and Makerere University, in Uganda.  I have experience working in biomedical engineering and medical research laboratories, and in the future, I hope to continue to explore the medical field."
         },
         {
           "name": "James Zhou",
@@ -69,38 +63,65 @@
           "desc": "I joined UBC BEST because I want to learn more about biomedical devices as well as the role of computer systems in the field of biotechnology.  I have experience with embedded systems programming and database design, and am currently working on integrating a relational database to store patient records and sessional data for the M2M device. Aside from trying to debug my code and differentiating resistor band colours, I like to read science fiction novels and practice Taekwondo."
         },
         {
-          "name": "Tiffany Quon",
+          "name": "Ryan Easton",
           "position": "Member",
-          "img": "",
-          "year": "2nd",
-          "department": "Engineering Physics",
-          "desc": "I love learning, and I'm really excited by the work M2M—and all of UBC BEST—is doing. I enjoy blogging and hand lettering, and have recently brought this love of writing into web development and coding questions. I also have professional graphic design experience with building brands and working within large, established ones. I hope to build upon my technical skills with M2M, bring my background as a content creator into my work, and contribute to something great."
+          "img": "/static/img/projects/m2m/ryan-easton.png",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "desc": "My dream is to own my business one day and retire at the ripe old age of 25. A boy can dream."
         },
         {
-          "name": "Sydney Begin",
+          "name": "Justin Park",
           "position": "Member",
           "img": "",
           "year": "3rd",
           "department": "Mechanical Engineering",
-          "desc": "I have a passion for music and using my engineering knowledge to develop medical devices that can help make a difference, and am thrilled to contribute to such a great project and team. My experience includes working with interactive devices at SMART Technologies, on advanced control system technology projects at Spartan Controls, and designing and building a track inspection vehicle for the Canada Line at Protrans BC. I look forward to the continued development of the Music to Movement Project!"
+          "biomed": true,
+          "desc": ""
         },
         {
           "name": "Andrew Yan",
           "position": "Member",
           "img": "",
-          "year": "2nd",
+          "year": "3rd",
           "department": "Electrical Engineering",
           "biomed": true,
           "desc": "I was attracted to Biomedical engineering and UBC BEST because it combines my two passions, Medicine and Engineering.  Since joining BEST in my first year, I have been on multiple projects that have helped me develop valuable programming and electrical skills, as well as giving me a better idea of how engineering design works.  I hope to continue to work on and create medical devices that will improve healthcare worldwide."
         },
         {
-          "name": "Yuki Sekimori",
+          "name": "Samia Sama",
+          "position": "Member",
+          "img": "/static/img/projects/m2m/samia-sama.png",
+          "year": "2nd",
+          "department": "Engineering Physics",
+          "desc": ""
+        },
+        {
+          "name": "Jessi Knutson",
           "position": "Member",
           "img": "",
+          "year": "3rd",
+          "department": "",
+          "desc": ""
+        },
+        {
+          "name": "Morgan Kaye",
+          "position": "Member",
+          "img": "/static/img/projects/m2m/morgan-kaye.png",
           "year": "2nd",
-          "department": "Integrated Engineering",
-          "desc": "I have worked on designing the casing and mechanical component, designing the hardware circuit as well as the software that operates the Tap peripheral. I have consulted with local musical therapists and industrial designers to receive their feedback and discuss further improvements of our prototypes. I am driven to make a difference in the world and serve to the community through pursuing the combination of medicine and innovation. It has been an exciting learning experience working with this team."
+          "department": "Chemical and Biological Engineering",
+          "desc": "I have loved being a part of M2M for the past few years, working mostly on the research team developing our clinical study. Outside of BEST I love climbing, skiing, camping (really anything outdoors). In the future I hope to combine my passions of travelling and medicine by going to medical school abroad."
+        },
+        {
+          "name": "Minxing Wang",
+          "position": "Member",
+          "img": "/static/img/projects/m2m/minxing-wang.png",
+          "year": "3rd",
+          "department": "Computer Science",
+          "desc": "how many programmers does it take to change a light bulb? none, that's a hardware problem"
         }
+
+
       ]
     },
     {
@@ -123,29 +144,22 @@
           "desc": "Jade Varelle is excited to gain experience in tackling healthcare challenges through UBC BEST. Jade is interested in medical physics, specifically imaging and signal processing. In her spare time Jade enjoys hiking, camping and playing field hockey."
         },
         {
-          "name": "Karen Woodward",
-          "img": "/static/img/projects/rrm/karen-woodward.jpg",
-          "position": "Member",
+          "name": "Brian Ho",
+          "img": "/static/img/projects/rrm/brian-ho.png",
+          "position": "Project Lead",
           "year": "3rd",
-          "department": "Mechanical Engineering",
+          "department": "Electrical Engineering",
           "biomed": true,
-          "desc": "I’m very excited to be joining BEST for another year and am looking forward to see what our dedicated team can accomplish! Previously, I have worked in the biomedical industry at LightIntegra Technology in Vancouver and am excited to use the skills I gained there for the development of BEST. In the future, I hope to get involved with injury biomechanics and rehabilitation, or aerospace design and development."
+          "desc": "I am extremely excited to be leading RRM and working with such a passionate group of students. I have had a great experience of working on the software and hardware aspect of the project. Through my past working experiences and school projects I have gained ample software development as well as team working experience. I hope to make a positive impact in the health sector."
         },
         {
-          "name": "Kayla Lee",
-          "img": "/static/img/projects/rrm/kayla-lee.jpg",
+          "name": "Zachary Fu",
+          "img": "/static/img/projects/rrm/zachary-fu.png",
           "position": "Member",
           "year": "3rd",
-          "department": "Computer Science and Microbiology",
-          "desc": "Kayla is passionate about healthcare technology. She joined BEST to learn about medical device development and how accessibility can be improved to 3rd world countries.  In her spare time, she enjoys dancing and posting of pictures of her homemade healthy snacks on Instagram."
-        },
-        {
-          "name": "Ed Mason",
-          "img": "/static/img/projects/rrm/ed-mason.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Computer Science",
-          "desc": "Edward has a keen interest in science and technology’s role in improving the quality and accessibility of healthcare. He has enjoyed learning arduino and working with the rest of the RR team this year."
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": ""
         },
         {
           "name": "Yamen Taha",
@@ -157,31 +171,53 @@
           "desc": "One of the main reasons I joined UBC was because of it's biomedical engineering program and UBC BEST was a great opportunity for me to gain more hands on practical experience in my intended field of study and pursue my interest. I joined UBC BEST in my second year and have enjoyed being part of the Respiratory Rate Monitor team since then."
         },
         {
-          "name": "Reid Sutherland",
+          "name": "Graham Whyte",
+          "img": "/static/img/projects/rrm/graham-whyte.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Shafkat Hussain Khondker",
           "img": "",
           "position": "Member",
           "year": "2nd",
-          "department": "Chemical & Biological Engineering",
-          "desc": "Reid strives to make the world a better place, and hopes to do so throughout the course of his studies, and later his career.  He is interested in drug delivery systems, pharmaceuticals, enzyme engineering, and the production and design of synthetic organs."
+          "department": "Engineering Physics",
+          "biomed": false,
+          "desc": ""
         },
         {
-          "name": "Henry (Harry) Pigot",
-          "img": "",
+          "name": "Lap-Tak Chu",
+          "img": "/static/img/projects/rrm/lap-tak-chu.jpg",
           "position": "Member",
           "year": "4th",
           "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "I have experience working in a number of research and development environments over the past four years in Canada, Germany, Japan, and Sweden. After almost two years working on ex-vivo organ perfusion machines, I am eager to share my perspective on medical device development with UBC BEST. It is a pleasure to be involved in problem definition, prototyping, design, and testing with the RRM team."
+          "biomed": false,
+          "desc": ""
         },
         {
-          "name": "Ashley Lloyd",
+          "name": "Cheng (Kim) Li",
           "img": "",
-          "position": "Member"
+          "position": "Member",
+          "year": "2nd",
+          "department": "Medicine",
+          "biomed": true,
+          "desc": "One of the main reasons I joined UBC was because of it's biomedical engineering program and UBC BEST was a great opportunity for me to gain more hands on practical experience in my intended field of study and pursue my interest. I joined UBC BEST in my second year and have enjoyed being part of the Respiratory Rate Monitor team since then."
+        },
+        {
+          "name": "Sampah Satti",
+          "img": "",
+          "position": "Advisor"
         },
         {
           "name": "Brenda Nakandi",
           "img": "",
-          "position": "Member - Makarere University"
+          "year": "3rd",
+          "position": "Member - Makarere University",
+          "department": "Biomedical Engineering",
+          "desc": "I have experience in research and leadership from the different projects i have been involved in. I hope to continue working in the different projects I'm part of when I'm done with university."
         },
         {
           "name": "Racheal Nassimbwa",
@@ -262,13 +298,111 @@
       ],
       "members": [
         {
-          "name": "Georgia Grzybowski",
-          "img": "/static/img/projects/donated/georgia-grzybowski.jpg",
+          "name": "Karla Rivera",
+          "img": "/static/img/projects/femur/karla-rivera.jpg",
           "position": "Project Lead",
           "year": "3rd",
-          "department": "Mechanical Engineering, Minor in Science",
+          "department": "Mechanical Engineering",
           "biomed": true,
-          "desc": "I am a third year Mechanical Engineering student with an option in Biomedical Engineering. I was a member of the IMDI field team and was involved in the identification of the needs and challenges that have shaped four of BEST’s current projects. I saw first hand the burden of trauma in low income countries and the challenges with femur fracture treatment. This put into perspective the need for biomedical innovation in treatment and motivated me to development this project."
+          "desc": "Karla is very passionate about advancing biomedical technologies to improve individuals' quality of life. She is very excited to collaborate with medical professionals and apply her co-op experience to develop a low-cost and effective alternative to current traction practices. During her free time, Karla enjoys hiking, reading and practicing karate."
+        },
+        {
+          "name": "Jackson Robinson",
+          "img": "/static/img/projects/femur/jackson-robinson.png",
+          "position": "Project Lead",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "I am a current Mechanical Engineering student with a Biomedical specialization. I have a strong passion for improving medical practice in developing countries, and am very excited to contribute to device development as a project lead of FFTP. My professional interests include biomechanics and numerical analysis, with previous experience working in the engineering consulting industry. When not at school, I spend time working as a skating instructor, hiking and playing guitar, and hope to successfully apply to a Canadian medical school upon graduation."
+        },
+        {
+          "name": "Jessie Massong",
+          "img": "",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "desc": "I am a very details oriented critical thinker and love asking the question WHY. My background is in mechatronics engineering where I have been gaining programming and electronics expertise. I love working in the space between the dependability of science and the personal needs of medicine."
+        },
+        {
+          "name": "Jessica Bo",
+          "img": "/static/img/projects/femur/jessica-bo.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "Jessica is passionate about designing biomedical devices for the use of rehabilitation, particularly through innovative solutions that combine her backgrounds in mechanical engineering and computer science. Through co-op, she has worked at a Vancouver startup and has done research in the field of rehabilitation engineering at Lund University in Sweden. She looks forward to her second year as a member of the FFTP project!"
+        },
+        {
+          "name": "Elaine Lee",
+          "img": "",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": false,
+          "desc": "I am a third year mechanical engineering student who believes that having access to effective and affordable medical treatment can really improve one's quality of life.  I hope to apply the skills I have acquired through UBC Mech and Co-op to improve existing biomedical technologies. I am very excited to contribute to FFTP."
+        },
+        {
+          "name": "Isabelle Pasin",
+          "img": "",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Kinesiology and Health Sciences, Minor in Biology",
+          "biomed": false,
+          "desc": "I am in my third year at UBC studying Kinesiology and Health Science with a minor in Biology. I am passionate about health and fitness and I would love to work in the healthcare industry to share my knowledge to help others! The Femur Fracture Treatment Project interests me because I would be involved in new medical research that could benefit so many people and I believe that this project could significantly increase health care accessibility. I’m really excited to be working with UBC BEST!"
+        },
+        {
+          "name": "Chris Bhatla",
+          "img": "/static/img/projects/femur/chris-bhatla.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Kinesiology and Health Sciences, Minor in Biology",
+          "biomed": false,
+          "desc": "I am passionate about improving health outcomes in low-resource areas and am excited to work on a project aiming to make femur fracture treatment more affordable and accessible. I have previously worked on developing approaches to preventing disease at remote boarding schools in India and have helped design affordable orthopaedic surgical tools."
+        },
+        {
+          "name": "Aidan Canil",
+          "img": "/static/img/projects/femur/aidan-canil.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Science",
+          "biomed": false,
+          "desc": "I have a passion for orthopaedics and improving access to healthcare in underserved communities. I am excited to apply the knowledge I have gained volunteering with the Dr. Peter AIDS foundation, helping to provide HIV care to individuals with social barriers. In my free time, you can be sure to find me in the BirdCoop."
+        },
+        {
+          "name": "Julia Hudea",
+          "img": "/static/img/projects/femur/julia-hudea.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "Julia is in her 3rd year of Mechanical Engineering in the Biomedical Specialization. Her interest in Biomedical Engineering stemmed from a desire to reinvent the medical field in order to improve quality of life for all humans. She is looking forward to apply testing and manufacturing knowledge, gained from her co-op experience, to help FFTP achieve short term and long term goals."
+        },
+        {
+          "name": "Alexander Waslen",
+          "img": "/static/img/projects/femur/alexander-waslen.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Mechanical Engineering",
+          "biomed": false,
+          "desc": "Alexander is a second year student studying mechanical engineering. Alex’s interest in biomedical engineering stems from his interest in healthcare and his passion for engineering. He hopes to graduate with a degree in engineering then continue on to pursue medicine. In his free time, Alex enjoys playing tennis, golfing, reading and playing guitar."
+        },
+        {
+          "name": "Eric Pucci",
+          "img": "/static/img/projects/femur/eric-pucci.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Finance, Minor in Economics",
+          "biomed": false,
+          "desc": "Eric is a third-year Commerce student specializing in Finance and minoring in Economics. As part of the Business team in the Femur Fracture Treatment Project, he is excited to develop his entrepreneurial skills and help the team implement the device in low-income countries. In his spare time, he enjoys practicing sports such as tennis, soccer, and skiing."
+        },
+         {
+          "name": "Andrew Ladouceur",
+          "img": "",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Sauder School of Business",
+          "biomed": false,
+          "desc": ""
         },
         {
           "name": "Jimmy Ntaawu",
@@ -278,100 +412,6 @@
           "department": "Biomedical Engineering",
           "biomed": false,
           "desc": "Jimmy is a fourth year student of Biomedical Engineering, Makerere University Uganda. He has a fascination for innovation, research and development of biomedical engineering ideas especially if it favours low- and middle- income settings. Jimmy has a thing of exploring the various concepts and methods used to solve healthcare problems across the world. His desire is to explore scientific and engineering principles that can be used to develop technology that can solve their healthcare problems."
-        },
-        {
-          "name": "Amara Kraft",
-          "img": "/static/img/projects/femur/amara-kraft.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Mechanical Engineering, Minor in Commerce",
-          "biomed": true,
-          "desc": "Amara is excited to utilize the knowledge and skills she has gained from past work terms at The Department of Fisheries and Oceans and Shell to work towards a solution for the traction project. In her spare time, Amara enjoys playing a variety of sports and trying new things."
-        },
-        {
-          "name": "Hannah Haghdadi",
-          "img": "/static/img/projects/femur/hannah-haghdadi.jpg",
-          "position": "Advisor",
-          "year": "5th",
-          "department": "Mechanical Engineering",
-          "biomed": true,
-          "desc": "Hannah is passionate about biomedical research and development in both clinical and industrial setting. Hannah has worked at SFU NeuroSpine Lab as part of a research team and at Sorin Group Canada as product design engineer. She is looking forward to be part of this project team."
-        },
-        {
-          "name": "Paula Adruschak",
-          "img": "/static/img/projects/femur/paula-adruschak.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Materials Engineering, specializing in Biomaterials",
-          "desc": "Paula is passionate about biomedical innovation improving patient outcomes in low resource settings. She has previous experience in the biomedical industry having worked at the Centre for Blood Research and the Centre for Hip,Health and Mobility and is looking forward to using the knowledge from these experiences on the project."
-        },
-        {
-          "name": "Karla Rivera",
-          "img": "/static/img/projects/femur/karla-rivera.jpg",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Mechanical Engineering",
-          "biomed": true,
-          "desc": "Karla is very passionate about advancing biomedical technologies to improve individuals' quality of life. She is very excited to collaborate with medical professionals and apply her co-op experience to develop a low-cost and effective alternative to current traction practices. During her free time, Karla enjoys hiking, reading and practicing karate."
-        },
-        {
-          "name": "Himani Kukreja",
-          "img": "/static/img/projects/femur/himani-kukreja.jpg",
-          "position": "Member",
-          "year": "",
-          "department": "",
-          "desc": ""
-        },
-        {
-          "name": "Amanda Tuey",
-          "img": "",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Mechanical Engineering",
-          "desc": "I am a passionate student with high interest in new technologies and innovations that contribute to improving daily life in low-income countries, especially within the health care system.  I have experience building guitars and other wood-working projects, and I also have technical experience working at General Fusion and General Electric. I’m not quite sure where ultimate passions lie, but I plan to gain more experience through UBC BEST, international exchange, minors in Commerce and Computer Science, and co-op to find out!"
-        },
-        {
-          "name": "Cyrus Thomas",
-          "img": "",
-          "position": "Member",
-          "year": "2nd",
-          "department": "Medicine",
-          "desc": "Interest in orthopaedic medicine along with a previous degree in Kinesiology from McMaster make the Femur Fracture Treatment Project (FFTP) a perfect outlet to build upon my driving passion. My developing medical background allows me to participate as part of the research team alongside other members with varying interests and unique skill sets. When I have some free time, you can find me doing all things outdoors or enjoying the latest creations at Rain or Shine!"
-        },
-        {
-          "name": "Tyler Lee-Jarvis",
-          "img": "",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Mechanical Engineering",
-          "biomed": true,
-          "desc": "I have a passion for developing clinical and assistive medical devices for people that do not have access to adequate funding or facilities to receive the care they need. I am a Camosun College transfer student now enrolled in my 3rd year of mechanical engineering (biomedical option) at UBC. As a new member of BEST I look forward to the development of real-world solutions to medical issues worldwide."
-        },
-        {
-          "name": "Jessie Massong",
-          "img": "",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Mechanical Engineering",
-          "desc": "Jessie believes that technology is highly valuable to advancing medicine. She wants to help make the adoption of medical technologies more widespread in both developed and developing countries. She is excited to apply her hands-on mechanical design experience to developing devices that target specific needs in the clinic. Jessie loves collaborating with the amazing community of intelligent, creative and caring people created by BEST."
-        },
-        {
-          "name": "Eric Allum",
-          "img": "",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Mechanical Engineering",
-          "biomed": true,
-          "desc": "Engineering for healthcare is an exciting new opportunity for me with a lot of potential for innovation.  I am looking forward to utilizing the experience I’ve gained as a C.E.T. in the oil & gas industry to design and prototype creative solutions to challenging global health problems.  In whatever spare time I can make I like to do cool stuff on mountains, fish, and hike."
-        },
-        {
-          "name": "Jessica Bo",
-          "img": "",
-          "position": "Member",
-          "year": "3rd",
-          "department": "Mechanical Engineering",
-          "biomed": true,
-          "desc": "My inspiration to pursue my passion for promoting innovative medical technologies came as a result of volunteering as a pediatrics research adviser and advocate. I gained valuable mechanical design experience during my co-op terms at Mazdis, which I hope to bring to the Femur Fracture Treatment Project team. I also love travelling the world and exploring new places!"
         }
       ]
     },
@@ -390,69 +430,45 @@
       ],
       "members": [
         {
-          "name": "Kristyn Lee",
-          "img": "/static/img/projects/ptm/kristyn-lee.jpg",
+          "name": "Bhaskar Yechuri",
+          "img": "/static/img/projects/ptm/bhaskar-yechuri.png",
           "position": "Project Lead",
           "year": "3rd",
-          "department": "Electrical Engineering, Minor in Commerce",
+          "department": "Electrical Engineering",
           "biomed": true,
-          "desc": "I am so excited to be working with a diverse group of students that share a passion for NeuroTech innovation. Through UBC BEST, I aim to make a difference in the lives of others by positively impacting the health sector. I am also pursuing a minor in Commerce since the combination of a business and engineering degree will help me understand the commercialization potential of new biomedical products. For co-op, I previously worked as a Junior Software Developer at Paragon Testing Enterprises."
+          "desc": ""
         },
         {
           "name": "Giulio Sucar",
           "position": "Technical Lead",
-          "img": "/static/img/projects/ptm/giulio-sucar.jpg",
+          "img": "/static/img/projects/ptm/giulio-sucar.png",
           "year": "4th",
           "department": "Engineering Physics",
-          "desc": "Dreamer at BEST. I like technology that is made with awareness of its users and economic context, aiming for high impact. In many ways, these are the trademarks of clinical tech, which is what has guides me here. I started MINT, a neurotech initiative, because it is simply absurd that we have affordable cloud computing but no established objective method to measure someone’s level of depression. The messy innards of consciousness are our original frontier, and one I want to poke at. ...Don’t you?"
+          "desc": "Dreamer at BEST. I like to make technology with awareness of users and context, aiming for high impact. I do so with a varied skill-set and precise communication, so my team can always bring our A+ game. I started MINT because it is simply absurd that we have affordable cloud computing but no established objective measurement of psychological states. The innards of consciousness are a strange frontier, and one I want to poke at. ...Don’t you?"
         },
         {
-          "name": "Rahat Dande",
-          "position": "Technical Advisor",
-          "img": "/static/img/projects/ptm/rahat-dhande.jpg",
-          "year": "3rd",
-          "department": "Engineering Physics",
-          "desc": "Rahat Dhande is passionate about science and technology, and their application in Biomedical Engineering.  In his spare time, Rahat likes to wonder what he could do if he had spare time."
+          "name": "Kristyn Lee",
+          "img": "/static/img/projects/ptm/krysten-lee.png",
+          "position": "Member",
+          "year": "4th",
+          "department": "Electrical Engineering, Minor in Commerce",
+          "biomed": true,
+          "desc": "Through BEST, I’ve been able to pursue my passions and innovate with a driven group of students. I have served as Project Lead on MINT and as an Electrical/Software member on both MINT and the Phototherapy Project.  My roles in BEST have allowed me to impact the biomedical community and further develop leadership and technical skills that will empower me to make a meaningful difference in the medical device industry. I’ve previously worked as an Electrical-Controls Co-op at Dynamic Structures and a Software Developer at Paragon Testing Enterprises."
         },
         {
           "name": "Tavia Walsh",
-          "img": "/static/img/projects/ptm/tavia-walsh.jpg",
+          "img": "/static/img/projects/ptm/tavia-walsh.png",
           "position": "Member",
           "year": "3rd",
           "department": "Electrical Engineering",
           "biomed": true,
-          "desc": "As a team, we share a passion for helping people and advancing the medical field - getting a chance to do just that, as a part of BEST is incredibly rewarding. Having access to information about device needs and challenges in real medical applications was especially important in setting me on my goal towards becoming a biomedical engineer. I’m so excited to see what new innovations we will create in the field of NeuroTech!"
-        },
-        {
-          "name": "Nabil Ali-Mohamad",
-          "img": "/static/img/projects/ptm/nabil-ali-mohamad.jpg",
-          "position": "Member",
-          "year": "2nd",
-          "department": "Chemical & Biological Engineering",
-          "desc": "I am excited to be working with UBC BEST for another year filled with thrilling new possibilities.  I strive to blend my studies in Chemical & Biological Engineering, my interest to learn about the biomedical design process and the opportunity to help solve real world medical problems with an engineering lens to feed a passion which I developed in high school. I am eager to see how this new project unfolds and I look forward to what is to come."
-        },
-        {
-          "name": "Adriano Sela Aviles",
-          "img": "/static/img/projects/ptm/adriano-sela-aviles.jpg",
-          "position": "Member",
-          "year": "2nd",
-          "department": "Computer Engineering",
-          "desc": "Everything can be made faster, more compact, energy efficient, and more sustainable. Innovating medical devices with these factors in mind drives my motivation. I am a Computer Engineering student who joined BEST/MINT as a way of incorporating medical physics and technology into my career path."
-        },
-        {
-          "name": "Bhaskar Yechuri",
-          "img": "/static/img/projects/ptm/bhaskar-yechuri.jpg",
-          "position": "Member",
-          "year": "2nd",
-          "department": "Electrical Engineering",
-          "biomed": true,
-          "desc": "As an aspiring biomedical engineer,  I have a deep interest in the applications of electrical engineering to the fields of global healthcare and veterinary medicine. I hope to someday use the skills and network I gain through UBC Engineering and BEST to bring about positive global change."
+          "desc": "With the incredible MINT team, I have gained experience in electrical and mechanical R&D for our open-source EEG system. As a team, we share a passion for helping people and advancing the medical field - getting a chance to do just that, as a part of BEST and MINT is incredibly rewarding. Having access to information about device needs and challenges in real medical applications has been especially important in setting me on my goal towards becoming a biomedical engineer."
         },
         {
           "name": "Rashmi Prakash",
           "img": "/static/img/projects/ptm/rashmi-prakash.jpg",
           "position": "Technical Advisor",
-          "year": "4th",
+          "year": "5th",
           "department": "Electrical Engineering",
           "biomed": true,
           "desc": "Rashmi has a strong interest in the development of diagnostic devices (specifically lab-on-a-chip) and also is passionate about the integration of biology and technology to develop prosthetics that are able receive and send cognitive messages. In her spare time she enjoys playing the guitar, hiking/camping, reading books, playing badminton and watching movies."
@@ -461,37 +477,118 @@
           "name": "Emily Weemees",
           "img": "/static/img/projects/ptm/emily-weemees.jpg",
           "position": "Member",
-          "year": "3rd",
+          "year": "4th",
           "department": "Arts",
           "biomed": false,
           "desc": ""
         },
         {
-          "name": "Yana Pertels",
-          "img": "/static/img/projects/ptm/yana-pertels.jpg",
+          "name": "Amanda Tuey",
+          "img": "",
           "position": "Member",
           "year": "3rd",
-          "department": "Science",
+          "department": "Mechanical Engineering",
           "biomed": false,
           "desc": ""
         },
         {
-          "name": "Michael Halim",
-          "img": "/static/img/projects/ptm/michael-halim.jpg",
+          "name": "Anica Villamayor",
+          "img": "",
+          "position": "Member",
+          "year": "1st",
+          "department": "Master of Occupational Therapy",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Carol Fu",
+          "img": "/static/img/projects/ptm/carol-fu.png",
+          "position": "Member",
+          "year": "4th",
+          "department": "Computer Engineering",
+          "biomed": false,
+          "desc": "I love working on creative projects that provide novel solutions to problems in our daily life. I met many people who hold the same passion as me when I joined BEST in second year. BEST provides great opportunities to collaborate with people from different disciplines, together we created many cool projects to help people around us. In my free time I enjoy learning languages, and reading Garfield."
+        },
+        {
+          "name": "Patrick Coleman",
+          "img": "",
+          "position": "Member",
+          "year": "5th",
+          "department": "COGS",
+          "biomed": false,
+          "desc": "Having worked as a programmer for a number of years, I eventually realized that brains are a lot more interesting that computers...So while studying the theory is useful, BEST is a great way to apply coding skills to real-world, useful projects while also learning about the hardware side."
+        },
+        {
+          "name": "Anthea Wong",
+          "img": "",
+          "position": "Member",
+          "year": "4th",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": "I'm excited to be working with an incredible team of people to innovate in neurotech. I'm looking forward to using my skills in hardware design to develop solutions to problems in healthcare. I can't wait to see what we do in the field of neurotech!"
+        },
+        {
+          "name": "Jessica Ma",
+          "img": "/static/img/projects/ptm/jessica-ma.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Engineering Physics",
+          "biomed": false,
+          "desc": "I’m very inspired by nature documentaries, especially ones on insects and the deep sea. The diversity of life on Earth is incredibly fascinating. I would like to work on something like inventing new methods in healthcare by using principles of math and physics and analysing existing organisms."
+        },
+        {
+          "name": "Kevin Tang",
+          "img": "/static/img/projects/ptm/kevin-tang.png",
+          "position": "Member",
+          "year": "4th",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": "Being particularly interested in the area of control in prosthetic through processing of EMG and EEG signals, I aim to pursue a career in rehabilitative and assistive technologies in hopes of providing an alternative for individuals to improve their motor functionalities.  For Co-op, I have previously worked as a Junior Software Developer at Deloitte."
+        },
+        {
+          "name": "Emma Gray",
+          "img": "/static/img/projects/ptm/emma-gray.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Integrated Engineering",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Chaitanya Upmanu",
+          "img": "",
           "position": "Member",
           "year": "1st",
           "department": "Engineering",
           "biomed": false,
-          "desc": "Coming from Indonesia, I have always valued the importance of medical advancements and its impact towards our society. I aspire to pursue graduate school and establish a biotechnology startup in order to make greater progress in improving global health and change the community for the better. I am excited to learn from and work with talented peers at UBC BEST to alleviate some of the world’s most pressing health challenges."
+          "desc": "I have a B.Sc.(Honors) in Biology and Psychology from Queen’s University, with a strong background in research methods and data analysis. My special interests are signal processing and analysis of the nervous system. I am working to increase the spatial resolution of EEG devices and integrate machine learning to create a seamless Brain Computer Interface for phones, computers, and other applications (e.g. smart homes, assistive devices). I am focused on developing external and internal electrophysiological technologies to achieve these goals."
+        },
+        {
+          "name": "Michelle Mak",
+          "img": "",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": ""
+        },
+        {
+          "name": "Michael Halim",
+          "img": "/static/img/projects/ptm/michael-halim.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Chemical Engineering",
+          "biomed": false,
+          "desc": "I am an enthusiastic learner and problem solver; eager to make advancements in science and improve quality of life in all scales. In the future, I aspire to design processes that bring biomedical innovation into the hands of everyone and deliver healthcare as a human right."
         },
         {
           "name": "Michael Ko",
           "img": "/static/img/projects/ptm/michael-ko.jpg",
           "position": "Member",
-          "year": "1st",
-          "department": "Engineering",
+          "year": "2nd",
+          "department": "Engineering Physics",
           "biomed": false,
-          "desc": "I'm very passionate about helping others with disabilities, and interested in the field of medicine regarding DNA and genetics. Inspired by growing up with a physically disabled brother, I hope to be admitted into Mechanical Engineering under the Biomedical option next year, and pursue my goal of creating a more advanced and comfortable wheelchair for those who have physical limitations."
+          "desc": ""
         }
       ]
     },
@@ -613,6 +710,146 @@
           "year": "5th",
           "department": "Integrated Sciences"
         }
+      ]
+    },
+    {
+      "id": "en",
+      "icon": "fa-hand-paper-o",
+      "tab": "ENABLE",
+      "name": "ENABLE",
+      "abbr": "ENABLE",
+      "desc": [
+        "Enable is a team made up of dedicated students who are developing an upper body exoskeleton that provides assistance to users with reduced mobility. We aim to construct an exoskeleton that is affordable and can be utilized on a day-to-day basis or used as a rehabilitation tool. Our team has a diverse group of students (Mechanical Engineering, Electrical Engineering, Kinesiology, Integrated Engineering) who are eager to design assistive technologies and expand their knowledge of biomedical engineering."
+      ],
+
+      "members": [
+        {
+          "name": "Melody Tsai",
+          "img": "/static/img/projects/en/melody-tsai.png",
+          "position": "Project Lead",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "As a lead on a newly established project, I am involved in defining the scope and identifying needs of our project. I have experience working directly with a client to best fit the device to their needs. Interacting with a person who could potentially use our device motivates me to put out my best work."
+        },
+        {
+          "name": "Meagan Woolsey",
+          "img": "/static/img/projects/en/meagan-woolsey.png",
+          "position": "Project Lead",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "I’m passionate about biomedical research and development for assistive technologies and for surgical tools. I have previous experience in the biomedical industry working for PDG Mobility and Evasc Medical Systems. From these positions I have gained experience conducting experiments and prototyping. In my free time I enjoy reading science fiction, sketching, and swimming."
+        },
+        {
+          "name": "Kyle Como",
+          "img": "/static/img/projects/en/kyle-como.png",
+          "position": "Project Manager",
+          "year": "4th",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": ""
+        },
+        {
+          "name": "Juan Bustamante",
+          "img": "/static/img/projects/en/juan-bustamante.png",
+          "position": "Project Manager",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "MECH at UBC showed me that one must take every action with passion, for the betterment of society. My three years with Formula UBC developed my technical skills, and taught me the basics of design. I helped create ENABLE to use those technical skills to help individuals with mobility issues."
+        },
+        {
+          "name": "Gunes Jeffrey Degirmenci",
+          "img": "",
+          "position": "Member",
+          "year": "4th",
+          "department": "Mechanical Engineering",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Joshua Jessup",
+          "img": "/static/img/projects/en/joshua-jessup.jpg",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "biomed": false,
+          "desc": ""
+        },
+        {
+          "name": "Erik Lamoureux",
+          "img": "/static/img/projects/en/erik-lamoureux.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Mechanical Engineering",
+          "biomed": false,
+          "desc": "I have experience on the research sub-team of the ENABLE exoskeleton. My experience in medical research and surgical shadowing give me a practical basis for this research."
+        },
+        {
+          "name": "Genevieve Goldstein",
+          "img": "/static/img/projects/en/genevieve-goldstein.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Kinesiology",
+          "biomed": false,
+          "desc": "I am a 3rd year Kinesiology student with interests in biomechanics and movement. Through BEST, I am able to integrate science with design, learning many new skills along the way. I have experience working with pediatric concussion research and sleep monitoring technology as well as involvement with UBC Varsity Athletics as a student athletic trainer for the Women's Volleyball team. I'm excited to be working on the ENABLE project on the research team!"
+        },
+        {
+          "name": "Fabiola Martens",
+          "img": "/static/img/projects/en/fabiola-martens.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Integrated Engineering",
+          "biomed": false,
+          "desc": "After a year in Chemical Engineering, and 12 months of mechanical co-op experience, I realized my aptitude and love for all things mech and decided to transfer departments. Perpetual student is my calling. I have always had my sights set on biomedical engineering and have a particular fascination with biomechanics, making Enable's work developing an elbow exoskeleton especially exciting. In my free time, I play soccer and ultimate, read novels, learn to code, and spend time with cool people."
+        },
+        {
+          "name": "Joshua French",
+          "img": "/static/img/projects/en/joshua-french.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Integrated Engineering",
+          "biomed": false,
+          "desc": "I believe the intersection of medicine, engineering, and innovation has the enormous potential to better lives. This belief is the primary driver behind my academic and extracurricular pursuits.  I have experience as a Research Assistant at the Centre for Hip Health and Mobility, located at VGH. Additionally, I am pursuing a Minor in Entrepreneurship and placed third in the Innovation OnBoard Competition with the UBC Biomod team; our project being a system for the early detection of lung cancer.  www.linkedin.com/in/joshfrenchubc"
+        },
+        {
+          "name": "Arito Wada",
+          "img": "",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Integrated Engineering",
+          "biomed": false,
+          "desc": "I am passionate about developing medical devices to give people equal opportunity, regardless of their background.  With experiences in digital fabrication and systems building, I am excited to see what this team can accomplish in our first year of development!"
+        },
+        {
+          "name": "Angus Tang",
+          "img": "/static/img/projects/en/angus-tsang.png",
+          "position": "Member",
+          "year": "3rd",
+          "department": "Electrical Engineering",
+          "biomed": true,
+          "desc": ""
+        },
+        {
+          "name": "Nima Yazdi",
+          "img": "/static/img/projects/en/nima-yazdi.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Electrical Engineering",
+          "biomed": false,
+          "desc": "Nima Yazdi is a second year Electrical Engineering student in the Biomedical Option. Nima has a strong interest in the applications of electronics in medical use such as medical devices and assistive technology. His passion has lead him to pursue work and hands on experience in the field and has had the opportunity to work at a medical device company in Vancouver. Nima also enjoys playing Badminton and skiing, as well as spending time with friends and family."
+        },
+        {
+          "name": "Gabrielle Boutros",
+          "img": "/static/img/projects/en/gabrielle-boutros.png",
+          "position": "Member",
+          "year": "2nd",
+          "department": "Mechanical Engineering",
+          "biomed": true,
+          "desc": "I am excited to apply my engineering skills to an exoskeleton project like ENABLE, as I am interested in spinal cord injury rehabilitation and assistive devices. Additionally, my interests include tissue engineering and its applications in organ 3D printing, as well as surgical devices. I have always been passionate about medicine and new technology, and biomedical engineering is the perfect opportunity to pursue that interest and make a positive impact on the quality of life of people around the world."
+        }
+
       ]
     }
   ]
