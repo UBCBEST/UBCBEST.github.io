@@ -7,26 +7,28 @@
       "name": "Executive Team",
       "members": [
         {
-          "name": "Emma Katchur-Marsh",
+          "name": "Alessandro Narciso",
           "title": "Chief Executive Officer",
-          "img": "/static/img/teams/exec/emma-katchur-marsh.png",
-          "link": "https://www.linkedin.com/in/emma-katchur-marsh-480707136/",
+          "img": "/static/img/teams/exec/alessandro-narciso.png",
+          "link": "https://www.linkedin.com/in/alessandronarciso/",
           "desc": [
-            "During my second year of engineering, I was introduced to biomedical engineering by BEST and I quickly discovered that biomedical engineering fulfills two of my primary interests: to work in the health care industry and to develop innovative technologies. I joined BEST in November 2016 and my experience on the Femur Fracture Treatment Project tackling a complex, international healthcare challenge further solidified my goal to pursue a career in biomedical engineering. As a member of BEST, I was amazed at the impact undergraduate students can have on the healthcare industry and I was excited to begin my role as CEO in January 2018.",
-            "I am currently in my third year of Mechanical Engineering at UBC with a specialization in biomedical engineering. I have 8 months of co-op experience in the biomedical industry at LightIntegra Technology Inc. and 4 months of mechatronics co-op work experience at Osensa Innovations Corp. Through my co-op work experience, I have developed an interest in mechatronics along side my interest in biomedical engineering and I strive to integrate these two fields in my future career.",
-            "I enjoyed my experience on the Femur Fracture Treatment Project and I look forward to working more with the BEST members and the BEST leadership team to contribute to the growth of the biomedical community and to develop innovative solutions to health care challenges."
+            "Ever since I first became interested in engineering, the innovations that astounded me the most were the biomedical ones. The concept of being able to save someone’s life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my fourth year of Electrical Engineering.",
+            "When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA – EMR) where I worked on designing and testing the user interface. After the project was completed, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code. I later then transitioned to the Chief Operations Officer role, and am now serving as BEST’s Chief Executive Officer.",
+            "My work experience consists of 3 work terms, one with the Government of Alberta, Department of Economic Development and Trade, where I aided my team in marketing Albertan corporations to attract foreign investment. I also worked with Dynamic Attractions where I worked with robotics to develop ride vehicle systems for the entertainment industry. I also worked as an ICT Engineering Intern with Huawei Technologies, working with mobile/computer networking technologies, artificial intelligence, cloud computing, and 5G.",
+            "Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 4 years and I hope to keep contributing to the club’s success by taking on the role of CEO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
           ]
         },
         {
-          "name": "Alessandro Narciso",
+          "name": "Emma Gray",
           "title": "Chief Operations Officer",
-          "img": "/static/img/teams/exec/alessandro-narciso.jpg",
-          "link": "https://www.linkedin.com/in/alessandronarciso",
+          "img": "/static/img/teams/exec/emma-gray.jpg",
+          "link": "",
           "desc": [
-            "Ever since I first became interested in engineering, the innovations that astounded me most were the biomedical ones. The concept of being able to save someone’s life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my second year of Electrical Engineering.",
-            "When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA – EMR). There, I worked on creating mockups and prototypes to demonstrate the workflow to doctors and receive feedback from them. I also helped in designing and testing the user interface of the EMR. After the project was completed and handed off to ICChange for implementation, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code.",
-            "My work experience consists of 4 months with the Government of Alberta, Department of Economic Development and Trade, where I enriched my business and entrepreneurial skills by aiding my team in marketing Albertan corporations to attract foreign investment and trade opportunities in energy, health, and technology sectors.",
-            "Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 2 years and I hope to keep contributing to the club’s success by taking on the role of COO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
+            "After two years with our Medical Innovation in Neurotechnology (MINT) team, I’m thrilled to be joining the BEST executives this year as COO.",
+            "I’ve always known that I wanted to pursue a creative, challenging and rewarding career that allowed me to help people. However, joining BEST allowed me to realize those goals much earlier than expected.",
+            "This team has offered me the opportunity to tackle real-world problems from an engineering perspective, and to witness student projects grow from ideas to fully-fledged devices that help people every day. That’s one of the many reasons that it’s a privilege to help represent the curious, passionate and talented students that make up this team.",
+            "I’m currently in my third year of school, studying Engineering Physics. My biomedical work experience consists of 8 months across two labs in the biomedical research field, with the first focusing on functional neuroimaging and the second on biomechanics and measurements from topographical indices.",
+            "This Spring, I’m working as a Product Design Engineering Co-op at MistyWest, a Vancouver-based engineering consultancy that has developed numerous medical devices."
           ]
         },
         {
