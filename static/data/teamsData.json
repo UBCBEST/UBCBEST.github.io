@@ -9,7 +9,7 @@
         {
           "name": "Alessandro Narciso",
           "title": "Chief Executive Officer",
-          "img": "/static/img/teams/exec/alessandro-narciso.png",
+          "img": "/static/img/teams/exec/alessandro-narciso.jpg",
           "link": "https://www.linkedin.com/in/alessandronarciso/",
           "desc": [
             "Ever since I first became interested in engineering, the innovations that astounded me the most were the biomedical ones. The concept of being able to save someone’s life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my fourth year of Electrical Engineering.",
@@ -21,7 +21,7 @@
         {
           "name": "Emma Gray",
           "title": "Chief Operations Officer",
-          "img": "/static/img/teams/exec/emma-gray.jpg",
+          "img": "/static/img/teams/exec/emma-gray.png",
           "link": "",
           "desc": [
             "After two years with our Medical Innovation in Neurotechnology (MINT) team, I’m thrilled to be joining the BEST executives this year as COO.",
@@ -52,14 +52,20 @@
       "name": "Management Team",
       "members": [
         {
-          "name": "Bhaskar Yechuri",
-          "title": "Medical Innovation in NeuroTechnology Project Lead and ICC",
-          "img": "/static/img/teams/man/bhaskar-yechuri.png",
-          "link": "https://www.linkedin.com/in/bhaskar-y-808710100/",
+          "name": "Han Nguyen",
+          "title": "Medical Innovation in NeuroTechnology Project Lead",
+          "img": "",
+          "link": "",
           "desc": [
-            "Ever since I was a child, I have been fascinated with living things, they way they function, and the way that learning more about them helps us improve lives and reduce suffering. This fascination slowly morphed into a concrete interest in the field biomedical engineering for both medical and veterinary settings, leading to me pursuing a degree in electrical/biomedical engineering at UBC.",
-            "I am now in my third year and am excited about the future of the field and of the Biomedical Engineering Student Team as we continue to use our ever-expanding set of technical knowledge and skills to grapple with today’s most pressing medical challenges."
-          ]
+           ]
+        },
+        {
+          "name": "Kalen Forester",
+          "title": "Medical Innovation in NeuroTechnology Project Lead",
+          "img": "",
+          "link": "",
+          "desc": [
+           ]
         },
         {
           "name": "Karla Rivera",
@@ -81,23 +87,20 @@
           ]
         },
         {
-          "name": "Justine Sultan",
+          "name": "Kirsty Hawke",
           "title": "Music to Movement Project Lead",
-          "img": "/static/img/teams/man/justine-sultan.png",
-          "link": "https://www.linkedin.com/in/justine-sultan-931174119/",
+          "img": "",
+          "link": "",
           "desc": [
-            "I am an electrical engineering student in the biomedical option at UBC, and am passionate about applying engineering to develop solutions for the biomedical industry! I originally joined M2M as a hardware developer working on electrical design, and am excited to continue progressing the M2M project as project lead." ,
-
-            "I have co-op experience in electrical, software, and mechanical development at Motion Metrics International, as well as in project management at the Vancouver Airport Authority."
           ]
         },
         {
-          "name": "Jade Varelle",
-          "title": "Respiratory Rate Monitor Project Lead",
-          "img": "/static/img/teams/man/jade-varelle.png",
-          "link": "https://www.linkedin.com/in/jadevarelle/",
+          "name": "Angelica Liaw",
+          "title": "Music to Movement Project Lead",
+          "img": "",
+          "link": "",
           "desc": [
-            "I was drawn to study engineering because I want to understand how our world works, and make technology that can improve peoples' lives. So far, my work experience has ranged from instrumentation for nano-medicine development to designing hardware for large datacentres. Now in my fourth year at UBC, I've been privileged to work on UBC BEST with a diverse, passionate and talented team to tackle technical challenges in healthcare."
+            "I am an Electrical Engineering student with Biomedical specialization who is passionate about learning how things work, and applying engineering knowledge towards creating innovative and practical designs in the biomedical sector. I am excited to lead this diverse group of students to continue progressing the M2M project and see it move closer to helping people with their rehabilitation process. When I am not submerged in work, I enjoy watching movies, going to the beach or sewing."
           ]
         },
         {
@@ -111,12 +114,11 @@
           ]
         },
         {
-          "name": "Melody Tsai",
+          "name": "Joshua Jessup",
           "title": "ENABLE Project Lead",
-          "img": "/static/img/teams/man/melody-tsai.png",
+          "img": "",
           "link": "",
           "desc": [
-            "My co-lead and I created this project because we want to have a positive impact on peoples' lives. I am interested in the integration of biotech with the human body. My work experience includes managing deadlines, keeping the team on track, and administrative tasks. My goal is bring affordable and accessible healthcare devices to everyone."
           ]
         },
         {
@@ -125,207 +127,39 @@
           "img": "/static/img/projects/m2m/sarah-mohn.png",
           "link": "",
           "desc": [
-            "My co-lead and I created this project because we want to have a positive impact on peoples' lives. I am interested in the integration of biotech with the human body. My work experience includes managing deadlines, keeping the team on track, and administrative tasks. My goal is bring affordable and accessible healthcare devices to everyone."
           ]
         },
         {
-          "name": "Meagan Woolsey",
+          "name": "Morgan Kaye",
+          "title": "International Collaborations Coordinator",
+          "img": "",
+          "link": "",
+          "desc": [
+          ]
+        },
+        {
+          "name": "Joshua French",
           "title": "ENABLE Project Lead",
-          "img": "/static/img/teams/man/meagan-woolsey.png",
-          "link": "",
-          "desc": [
-            "I am passionate about biomedical engineering because it creates an opportunity to directly improve the health of individuals and the quality of life for everyone – it is both personal and impactful. The industry is also very diverse as it includes everything from prosthetics to injury prevention to medical imaging.",
-            "While working at a wheelchair manufacturing company, PDG Mobility, I gained understanding about the user experience and assisted in quality inspections. Currently, I work for Evasc Medical Systems as a biomedical engineering coop and enjoy working on a device that saves lives.",
-            "In April 2017, Melody Tsai and I decided to create a team with the goal of designing an upper body exoskeleton to aid people with disabilities and soon after we joined BEST as a new project! I am proud to be leading an outstanding group of students and can't wait to build prototypes that improve people’s mobility."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bus",
-      "icon": "fa-briefcase",
-      "tab": "Business",
-      "name": "Business Team",
-      "members": [
-        {
-          "name": "Eric Cho",
-          "title": "Business Team Lead",
           "img": "",
           "link": "",
           "desc": [
-            "I am a 4th year Sauder student specializing in Accounting and Operations & Logistics. As the Business Team Lead, my main duty is to ensure that the UBC BEST projects get a business perspective during the development phase.",
-            "Over the last 4 years, I have gained a diverse range of experiences in multiple industries including competitive debate, financial services, academic research, and commercial insurance."
           ]
         },
         {
-          "name": "Andrew Ladouceur",
-          "title": "Member",
+          "name": "Glen Aggiss",
+          "title": "Biochemical Innovation Team Project Lead",
           "img": "",
           "link": "",
           "desc": [
-            "I believe in innovative ideas, backed with technical analysis to produce disruptive, data-driven solutions. As an entrepreneur and case study enthusiast, consulting has always been a career of interest of mine, and I am excited to positively impact people across the world with UBC BEST.",
-            "I have experience working as a special projects intern where I assisted with a $22 million acquisition, as well leading a 50-person group to launch an app for a startup I am working with."
+            "As a co-team leader for the Biochemical Innovation Team (BIT), I am thrilled to have the opportunity to work with a group of talented and driven individuals focused on researching and developing solutions to challenges in the medical field from a unique angle.\nBeing a chemical engineering student, there is nothing more rewarding than seeing a novel process or product becoming realized through diligent practice of engineering design. I believe extending these tenants to projects that can help optimize the way we tackle healthcare will offer out-of-the box solutions to issues that may otherwise be overlooked and could offer far-reaching improvements in the field of biomedical engineering."
           ]
         },
         {
-          "name": "Herman Chiu",
-          "title": "Member",
+          "name": "Nabil Ali-Mohamad",
+          "title": "Biochemical Innovation Team Project Lead",
           "img": "",
           "link": "",
           "desc": [
-            "Herman is an amicable, inspired listener whose role in every job seems inveterately to gravitate towards operational strategy – it may even seem that he doesn’t otherwise think at work. Of course, his passion for tech, start-ups, and venture capital comes from an unwavering, unabashed; undiminished; nigh upon naïve hope for the world, with balanced roots in both the humanities and social sciences.",
-            "Besides theoretically rigorous (sometimes interminably arid) conversation, he enjoys exercises in running, skiing, golfing, hiking, verbosity and gastronomy."
-          ]
-        },
-        {
-          "name": "Vania Hung",
-          "title": "Member",
-          "img": "",
-          "link": "",
-          "desc": [
-            "My goal is to work in the healthcare industry and I am excited to combine my business knowledge and passion to give back to the community as a business consultant.",
-            "I have gained analytical, research, and communication skills through various extracurricular activities and work experience. I look forward to working with the rest of the team to further develop my skills with these projects!"
-          ]
-        },
-        {
-          "name": "Linda Dai",
-          "title": "Member",
-          "img": "",
-          "link": "",
-          "desc": [
-            "I'm a self-motivated and interpersonal worker, with experience in team management, SEO, and market analytics",
-            " My aspirations in life include obtaining a career in strategy consulting, travelling the world, and hopefully doing my part in the world someday. I enjoy reading about the latest news in space exploration and spending too much time organizing my to do list."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bod",
-      "icon": "fa-building",
-      "tab": "Board of Directors",
-      "name": "Board of Directors",
-      "members": [
-        {
-          "name": "Andrea Marshall",
-          "title": "Chair",
-          "occupation": "Electrical Engineer, Haemonetics",
-          "img": "/static/img/teams/bod/andrea-marshall.jpg",
-          "link": "https://www.linkedin.com/in/andreammarshall",
-          "desc": [
-            "Andrea Marshall is a recent graduate of UBC Electrical Engineering specializing in Biomedical Engineering. She joined UBC BEST in the first year of formation and has contributed to the growth and development of the team over the past 2 years as CEO. In those two years the team has expanded from 7 members to over 70 members spanning over 6 faculties. She has initiated some ambitious changes to the team, including the formation of our Ebola Aid/EMR Team, the first year mentorship program, the addition of Research and Business Teams, and also our International Medical Device Initiative (IMDI). In May 2015 she was one of four UBC BEST representatives that traveled to Kenya and Uganda for a three week fact-finding mission through our IMDI. She initiated and managed the development of this successful fact-finding mission, which resulted in an additional 4 projects for UBC BEST.",
-            "In addition to her experience with managing UBC BEST, she brings 23 months of work experience as a co-op student in the medical device industry. She worked with LightIntegra Technology for a 12 month co-op on their novel platelet quality testing device, and for 8 months with Kardium Inc. working on their ground breaking ablation catheter for the treatment and diagnosis of atrial fibrillation. She spent the summer of 2015 in Boston Massachusetts as an intern at Haemonetics Corporation working of their portfolio of blood management products. She returned as a full time Electrical Engineer at Haemonetics in January 2016.",
-            "Andrea looks forward to serving as a Director and the Chair of the UBC BEST Board of Directors by contributing her experience with UBC BEST and within the medical device industry to assist in the continual growth and success of the team."
-          ]
-        },
-        {
-          "name": "Paul Geyer",
-          "occupation": "CEO, LightIntegra Technology",
-          "img": "/static/img/teams/bod/paul-geyer.jpg",
-          "link": "https://www.linkedin.com/in/paul-geyer-497a347",
-          "desc": [
-            "Paul Geyer, a successful Medtech Entrepreneur and experienced Board member. Over the past 20 years Paul founded and led two companies through their growth phase, in one case to a successful private exit and in the other case through growth as a public company with numerous acquisitions. Both companies have grown to be anchor medical device companies in the Vancouver area, employing more than 350 people.",
-            "In 1991 he founded Mitroflow International Inc., a tissue heart valve company. Paul grew the company from 9 employees to more than 125 employees in 1999. In 1999 Paul sold Mitroflow to Sulzer Medica, for more than $50 mil. Paul’s leadership resulted in Mitroflow growing to more than 200 employees, making it one of the largest medical devices companies in the Vancouver area.",
-            "In 2001 Paul started Medical Ventures, a new specialty vascular device company where he is currently Chairman of the Board. From its inception to June 2008, Mr. Geyer held the position of CEO at Medical Ventures (now Neovasc) and was responsible for raising over $40 million in Equity financing and growing the company’s product portfolio through internal development and the acquisition of 3 other companies. Neovasc is a public company on the TSX and Nasdaq with a market cap of more than $700mil and continues to grow with operations in both Vancouver and Minneapolis, employing approximately 200 people.",
-            "In 2008 Paul began focusing on sharing his expertise to assist other Entrepreneurs to build successful businesses, through his involvement as a mentor or Board member. Mr. Geyer is an active Angel investor in technology and life science companies. In 2010 Paul was awarded the British Columbia Angel Investor of the year, and over the years has invested over $5mil in start-up businesses. He is an active supporter of the local Angel investment community, donating his time to assist local companies and investors through education programs and direct one-on-one mentoring. He is an active alumnus of the Kappa Sigma Fraternity. In 2011 Paul received the BC Life Sciences Leadership Award.",
-            "He is also focused on building the local community through his involvement as a Board member of both the Life Sciences and Technology associations, along with a number of non-profit community based organizations. Paul is actively engaged as a Philanthropist as the Chair of the Board of Social Venture Partners Vancouver. He is also involved in a number of other non-profit organizations including Science World Chairs Council, Entrepreneurship at UBC Board member, Project Somos Children’s Village and other local and International organizations.",
-            "Paul graduated with a BASc. in Electrical Engineering from the University of British Columbia in 1988 and gained his Professional Engineer status in 1990. He has taken numerous postgraduate courses in Bio-medical Engineering and medical technology and has completed the Canadian Securities Course."
-          ]
-        },
-        {
-          "name": "Dr. James McEwen",
-          "occupation": "President, Western Clinical Engineering Ltd.",
-          "img": "/static/img/teams/bod/james-mcewen.jpg",
-          "link": "https://en.wikipedia.org/wiki/James_McEwen_(engineer)",
-          "desc": [
-            "James A. (Jim) McEwen received the B.A.Sc. and Ph.D. degrees in electrical engineering (biomedical) from the University of British Columbia in 1971 and 1975 respectively. He served as a Certified Clinical Engineer (CCE) until 2010, and is currently a member of the Institute of Electrical and Electronic Engineers (IEEE) and a Registered Professional Engineer (P.Eng.).",
-            "Dr. McEwen invented the automatic tourniquet system for surgery. He and his colleagues have been awarded over 160 patents in the United States and other countries for tourniquet-related technologies, and has numerous tourniquet-related patent applications pending in the U.S. and elsewhere. He is the author or co-author of a number of papers on the subject of surgical tourniquets. Almost all modern tourniquet systems that are now used in western countries are based on the tourniquet-related inventions and subsequent developments made by Dr. McEwen and his R&D team. For example, the A.T.S. series of automated surgical tourniquet systems and related products manufactured and sold by Zimmer worldwide are based on that research and development. Also, he created Delfi Medical Innovations Inc., a Vancouver-based company, to supply specialty tourniquet-related products invented and developed by the same group. One of those products, Delfi’s military tourniquet, is now being used by military US army forces in Iraq and Afghanistan, helping to save both life and limb.",
-            "Globally, it is estimated that the automatic surgical tourniquets which Dr. McEwen and his team have invented and developed are now used in more than 17,000 surgeries daily in over 40 countries and in many different types of surgical procedures. Worldwide, it is estimated that more than 72 million surgical procedures have been performed using Dr. McEwen’s automatic tourniquet technologies and innovations. Their widespread adoption and use has resulted in significantly improved safety, quality and economy. As a result of the success and widespread impact on the public of his surgical tourniquet-related inventions, in 1997 he received the $100,000 Principal Award for Innovation in Canada from the Ernest C. Manning Awards Foundation."
-          ]
-        },
-        {
-          "name": "Dr. Marc Parlange",
-          "occupation": "Dean, UBC Faculty of Applied Science",
-          "img": "/static/img/teams/bod/marc-parlange.jpg",
-          "link": "https://www.linkedin.com/in/marc-parlange-61741545",
-          "desc": [
-            "Dr. Marc Parlange is the Dean of the Faculty of Applied Science at the University of British Columbia, and is a Professor in the Department of Civil Engineering. Prior to assuming his position at UBC in 2013, he served as Dean of the School of Architecture, Civil and Environmental Engineering at the École Polytechnique Fédérale de Lausanne, and held faculty appointments at Johns Hopkins University and the University of California at Davis.",
-            "His research in the broad area of environmental fluid mechanics primarily relates to the measurement and simulation of air and water flows over complex terrain, with a focus on how air turbulence and atmospheric dynamics (atmospheric boundary layer flow) influence water evaporation and transpiration in plants and soil. He is also active in addressing water resources challenges in remote communities through his research on hydrology and climate change.",
-            "He has received numerous awards for his academic achievements, including the Macelwane Medal of the American Geophysical Union in 1997 and the Dalton Medal of the European Geosciences Union in 2007."
-          ]
-        },
-        {
-          "name": "Dr. Richard Lester",
-          "occupation": "Director, Neglected Global Disease Initiative & Executive Director, WelTel",
-          "img": "/static/img/teams/bod/richard-lester.jpg",
-          "link": "https://www.linkedin.com/in/richard-lester-2a017129",
-          "desc": [
-            "Dr. Richard Lester is the Director of the Neglected Global Diseases Initiative (NGDI.ubc.ca) and an Assistant Professor in Global Health in the Division of Infectious Diseases, Department of Medicine, at the University of British Columbia (UBC). He completed his research fellowship in HIV in Kenya at the University of Manitoba and University of Nairobi collaborative, where he initiated development of an innovative mobile phone health (mHealth) service that was demonstrated in a landmark trial, WelTel Kenya1 (Lancet 2010), to improve HIV outcomes.",
-            "He is co-founder of the WelTel International mHealth Society, a non-profit organization and Grand Challenges Canada $1M award winner for transitioning the mHealth service to scale in remote Kenya, and a Canadian software company. In a form of reverse innovation, Dr. Lester has introduced the WelTel service and model into the Canadian and other healthcare systems. His program’s ‘research to action’ and patient-self management approach has been published in top-tier medical journals, including the Lancet, the New England Journal of Medicine, and Nature, and has been featured in non-academic international and local media, such as CBC’s The National and The Economist.",
-            "Dr. Lester continues to conduct studies internationally, in Kenya, Canada, and the United States, has consulted on mHealth innovations with the World Health Organization, and is a CIHR Foundation Scheme recipient and Michael Smith Foundation Scholar."
-          ]
-        },
-        {
-          "name": "Sagar Mahli",
-          "occupation": "CTO, Switchboard Logistics",
-          "img": "/static/img/teams/bod/sagar-mahli.jpg",
-          "link": "https://www.linkedin.com/in/sagarmalhi",
-          "desc": [
-            ""
-          ]
-        },
-        {
-          "name": "Elizabeth Wicks",
-          "occupation": "Clinical Development Engineer, Intuitive Surgical",
-          "img": "/static/img/teams/exec/elizabeth-wicks.jpg",
-          "link": "https://ca.linkedin.com/in/wickselizabeth",
-          "desc": [
-            ""
-          ]
-        },
-        {
-          "name": "Julie Kerr",
-          "img": "/static/img/teams/exec/julie-kerr.jpg",
-          "link": "https://ca.linkedin.com/pub/julie-kerr/8b/254/164",
-          "desc": [
-            "I have been an active member of UBC BEST since my first year at UBC, when the team was first created. Joining a team focused on developing innovative medical devices has greatly influenced my studies and passion for the field, and has helped me prepare as I plan to launch myself into the biomedical industry. I am currently in my fifth and final year of Mechanical Engineering, in the Biomedical Option.",
-            "As an original member of BEST, I have had the unique experience to watch and learn how the team has progressed, both from the perspective as a technical member as well as a leader of the team. I have worked on the early prototypes of the peripheral neuropathy foot sensor and musical therapy projects before moving to captain the team.",
-            "I have 12 months of co-op experience in the biomedical device field. At Strait Access Technologies in Cape Town, South Africa, I worked with the R&D team to develop a novel device to repair mitral regurgitation. At Clarius Mobile Health, I worked with the mechanical team to finalize the design of a hand-held, wireless ultrasound device, which is due to be released by the end of 2016.",
-            "My experience with BEST has given me two and a half years of technical experience, and the past year and a half of being the COO. I am excited to continue my final year as COO to further the development of the projects and our members. BEST has enriched my degree, and given me the opportunity to develop my own skills and passions, and to be able to provide that same environment for other students at UBC, and beyond."
-          ]
-        },
-         {
-          "name": "Emma Katchur-Marsh",
-          "title": "Chief Executive Officer",
-          "img": "/static/img/teams/exec/emma-katchur-marsh.png",
-          "link": "https://www.linkedin.com/in/emma-katchur-marsh-480707136/",
-          "desc": [
-            "During my second year of engineering, I was introduced to biomedical engineering by BEST and I quickly discovered that biomedical engineering fulfills two of my primary interests: to work in the health care industry and to develop innovative technologies. I joined BEST in November 2016 and my experience on the Femur Fracture Treatment Project tackling a complex, international healthcare challenge further solidified my goal to pursue a career in biomedical engineering. As a member of BEST, I was amazed at the impact undergraduate students can have on the healthcare industry and I was excited to begin my role as CEO in January 2018.",
-            "I am currently in my third year of Mechanical Engineering at UBC with a specialization in biomedical engineering. I have 8 months of co-op experience in the biomedical industry at LightIntegra Technology Inc. and 4 months of mechatronics co-op work experience at Osensa Innovations Corp. Through my co-op work experience, I have developed an interest in mechatronics along side my interest in biomedical engineering and I strive to integrate these two fields in my future career.",
-            "I enjoyed my experience on the Femur Fracture Treatment Project and I look forward to working more with the BEST members and the BEST leadership team to contribute to the growth of the biomedical community and to develop innovative solutions to health care challenges."
-          ]
-        },
-        {
-          "name": "Alessandro Narciso",
-          "title": "Chief Operations Officer",
-          "img": "/static/img/teams/exec/alessandro-narciso.jpg",
-          "link": "https://www.linkedin.com/in/alessandronarciso",
-          "desc": [
-            "Ever since I first became interested in engineering, the innovations that astounded me most were the biomedical ones. The concept of being able to save someone’s life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my second year of Electrical Engineering.",
-            "When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA – EMR). There, I worked on creating mockups and prototypes to demonstrate the workflow to doctors and receive feedback from them. I also helped in designing and testing the user interface of the EMR. After the project was completed and handed off to ICChange for implementation, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code.",
-            "My work experience consists of 4 months with the Government of Alberta, Department of Economic Development and Trade, where I enriched my business and entrepreneurial skills by aiding my team in marketing Albertan corporations to attract foreign investment and trade opportunities in energy, health, and technology sectors.",
-            "Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 2 years and I hope to keep contributing to the club’s success by taking on the role of COO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
-          ]
-        },
-        {
-          "name": "Andrew Yan",
-          "title": "Chief Technology Officer",
-          "img": "/static/img/teams/exec/andrew-yan.png",
-          "link": "https://www.linkedin.com/in/andrew-yan-263b80102/",
-          "desc": [
-            "I was initially attracted to biomedical engineering and UBC BEST because it combines my two passions, Medicine and Engineering. I had the opportunity to join BEST in my first year at UBC (2015) within the first iteration of the Mentorship Program.  At this point in time, I have completed my third year of Electrical Engineering in the Biomedical Option.",
-            "When I joined BEST in 2015, my first 4 months with the team were spent doing the non-technical position of Events Coordinator.  In January 2016, the first iteration of the mentorship program began and I got to become a member of IDEA-EMR, a project that finished that May of that same year.  While on IDEA-EMR, I got the chance to apply some of my Java knowledge to help develop the user interface for the app.  Following the completion of IDEA-EMR, I worked with the Music to Movement project developing one of the first software interfaces, as well as designing some of the peripheral internal circuitry.",
-            "I have had two co-op experiences so far at UBC.  My first co-op was with the Department of Electrical and Computer Engineering for 4 months, where I got to develop skills with WordPress and Altium Designer.  My second co-op was 8 months with Intel Corporation, where I was a part of a team developing error correction code algorithms for an upcoming product.",
-            "I am excited to be CTO of BEST, not only because I get to lead such a diverse and talented group of students, but also because I hope to continue to develop and grow impactful and innovative projects, much like my predecessors in this role."
           ]
         }
       ]
@@ -493,97 +327,81 @@
           ]
         },
         {
-          "name": "Alexander Waslen",
+          "name": "Justin Park",
           "position": "Head of Mentorship",
-          "img": "/static/img/projects/femur/alexander-waslen.png",
+          "img": "",
           "desc": [
             ""
           ]
         },
         {
-          "name": "Maria Phelan",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/maria-phelan.png",
-          "desc": [
-            "Maria is excited to be able to work with BEST during her first year of engineering; she is currently helping the Respiratory Rate Monitor Team develop a monitor on the Arduino platform."
-          ]
-        },
-        {
-          "name": "Sophie Varabioff",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/sophie-varabioff.png",
-          "desc": [
-            "As an engineering student with a kinesiology background, I hope to learn how to use the scientific knowledge I have to help solve real world problems. Working with such a great group of students that are passionate about the biomedical field is teaching me valuable skills that will help me on this road."
-          ]
-        },
-        {
-          "name": "Allison Yao",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/allison-yao.png",
-          "desc": [
-            ""
-          ]
-        },
-        {
-          "name": "Kirsty Hawke",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/kirsty-hawke.png",
-          "desc": [
-            "Growing up in Zambia, I have developed a passion for helping people, particularly when it comes to health care. I joined UBC BEST to improve my technical skills and to meet a group of like-minded people."
-          ]
-        },
-        {
-          "name": "Darryl Greenough",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/darryl-greenough.png",
-          "desc": [
-            ""
-          ]
-        },
-        {
-          "name": "Parmis Mohaghegh",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/parmis-mohaghegh.png",
-          "desc": [
-            "Having the experience of volunteering at a pediatric hospital for children with cancer and observing how the technology produced by biomedical engineers can help save lives, I set my goal to become a biomedical engineer and came to UBC to start my post-secondary education. My hope is to advance my knowledge in this field by continuing my education and pursuing M.S. and Ph.D. Joining BEST has been an amazing experience and helped me develop great teamwork and innovative thinking skills."
-          ]
-        },
-        {
-          "name": "Carson Hopkins",
+          "name": "Coralie Tcheune",
           "position": "Mentee",
           "img": "",
           "desc": [
-            "I am passionate about biomedical engineering, specifically assistive technology. I spent my first year with BEST on the Enable mechanical team, working to build an upper-body exoskeleton. I am excited to gain work experience and dedicate my career to the improvement of health care. Outside of school, I love to play tennis, golf and hockey."
+            ""
           ]
         },
         {
-          "name": "Emilie Boras",
+          "name": "Hamza Peracha",
           "position": "Mentee",
-          "img": "/static/img/teams/ment/emilie-boras.png",
+          "img": "/static/img/teams/ment/hamza-peracha.png",
           "desc": [
-            "My introduction to BEST has allowed me to partake in an environment of creative, knowledgeable, and supportive individuals. I hope to expand upon my academic studies and pharmaceutical experience to become a valuable creator of biomedical solutions. I am most passionate about regenerative and augmentative medicines, especially the use of bio-printing and the creation of prosthetics. The incorporation of technology in medicine has invaluable potential for good and I want to help make it a reality."
+            "BEST is a great opportunity for me to learn more about biomedical engineering in a more hands on manner."
           ]
         },
         {
-          "name": "Gabrielle Booth",
+          "name": "Laia Shpeller",
           "position": "Mentee",
-          "img": "/static/img/teams/ment/gabrielle-booth.png",
+          "img": "/static/img/teams/ment/laia-shpeller.png",
           "desc": [
-            "I was drawn into biomedical engineering after conducting research on various axonal proteins at a University of Vermont laboratory. I started to yearn to use this knowledge to work on developing systems to help combat some of the neurodegenerative diseases, such as Alzheimer’s which occur when these proteins degrade. Working with MINT has allowed me to better understand the engineers perspective and process of developing solutions to not only these same problems, but a vast field of neurotech challenges."
+            "I am in the first year pre-BME program and hope to become a Biomedical Engineer. In the future I hope to work on improving healthcare accessibility in less developed areas, which is why I chose to work with RRM this year."
           ]
         },
         {
-          "name": "Allison Simpson",
+          "name": "Rebecca Lim",
           "position": "Mentee",
-          "img": "/static/img/teams/ment/allison-simpson.png",
+          "img": "/static/img/teams/ment/rebecca-lim.png",
           "desc": [
             ""
           ]
         },
         {
-          "name": "Rana Ahmed Barghout",
+          "name": "Jessica Yamamoto",
           "position": "Mentee",
-          "img": "/static/img/teams/ment/rana-barghout.png",
+          "img": "/static/img/teams/ment/jessica-yamamoto.png",
+          "desc": [
+            "As a Chemical Engineering student, I always aim to be multidisciplinary and learn as much as I can! The Biomedical field always astounds me with its new innovations and ways to help people globally and I am excited to be a part of it. I aim to learn new software skills on BEST, like MATLAB, to allow me to analyze data and arrive at the best solution for our client’s needs."
+          ]
+        },
+        {
+          "name": "Dannon Sturn",
+          "position": "Mentee",
+          "img": "/static/img/teams/ment/dannon-sturn.png",
+          "desc": [
+            ""
+          ]
+        },
+        {
+          "name": "Nozomi Asaoka",
+          "position": "Mentee",
+          "img": "/static/img/teams/ment/nozomi-asaoka.png",
+          "desc": [
+            "I am thrilled to join UBC BEST and make new friends.  In the summer after high school, I job-shadowed a cardiac surgeon at St. Michael’s Hospital in Toronto.  This experience reaffirmed my passion for medicine, medical technology and my desire to study biomedical engineering.  I look forward to participating in ENABLE’s work and taking my learning beyond the classroom!"
+          ]
+        },
+        {
+          "name": "Chaehyeon Lee",
+          "position": "Mentee",
+          "img": "/static/img/teams/ment/chaehyeon-lee.png",
+          "desc": [
+            ""
+          ]
+        },
+        {
+          "name": "Su Thida Htun",
+          "position": "Mentee",
+          "img": "",
           "desc": [
             ""
           ]
