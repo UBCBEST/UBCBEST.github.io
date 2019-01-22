@@ -39,7 +39,7 @@
           "desc": [
             "I was initially attracted to biomedical engineering and UBC BEST because it combines my two passions, Medicine and Engineering. I had the opportunity to join BEST in my first year at UBC (2015) within the first iteration of the Mentorship Program.  At this point in time, I have completed my third year of Electrical Engineering in the Biomedical Option.",
             "When I joined BEST in 2015, my first 4 months with the team were spent doing the non-technical position of Events Coordinator.  In January 2016, the first iteration of the mentorship program began and I got to become a member of IDEA-EMR, a project that finished that May of that same year.  While on IDEA-EMR, I got the chance to apply some of my Java knowledge to help develop the user interface for the app.  Following the completion of IDEA-EMR, I worked with the Music to Movement project developing one of the first software interfaces, as well as designing some of the peripheral internal circuitry.",
-            "I have had two co-op experiences so far at UBC.  My first co-op was with the Department of Electrical and Computer Engineering for 4 months, where I got to develop skills with WordPress and Altium Designer.  My second co-op was 8 months with Intel Corporation, where I was a part of a team developing error correction code algorithms for an upcoming product.",
+            "I have had two co-op experiences so far at UBC, and am currently on my third.  My first co-op was with the Department of Electrical and Computer Engineering for 4 months, where I got to develop skills with WordPress and Altium Designer.  My second co-op was 8 months with Intel Corporation, where I was a part of a team developing error correction code algorithms for an upcoming product.  I am currently working my third co-op at Kardium Inc., a local biotechnology company.",
             "I am excited to be CTO of BEST, not only because I get to lead such a diverse and talented group of students, but also because I hope to continue to develop and grow impactful and innovative projects, much like my predecessors in this role."
           ]
         }
@@ -140,9 +140,10 @@
         {
           "name": "Joshua French",
           "title": "ENABLE Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/joshua-french.png",
           "link": "",
           "desc": [
+            "Aspiring Biomedical Engineer and Social Entrepreneur passionate about innovation at the intersection of medicine and technology in order to improve lives."
           ]
         },
         {
