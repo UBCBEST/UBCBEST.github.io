@@ -82,7 +82,7 @@
             "name": "Biochemical Innovation Team",
             "abbr": "BIT",
             "desc": [
-                ""
+                "BIT aims to explore and innovate medical solutions in the biochemical area of biomedical engineering. This includes stem cell technology, tissue printing, drug and gene delivery, genetic and protein engineering, and nanosystems."
             ],
             "members": [
                 {
@@ -361,69 +361,6 @@
                 "Each year, over one million children under the age of 5 die due to acute respiratory infections. The majority of these deaths occur in low resource countries, where hospitals often do not have the necessary personnel or equipment to constantly monitor the respiratory rate of paediatric patients. Measuring a patient’s respiratory rate is vital in the clinical assessment for disease diagnosis, prognosis, and treatment. The team aims to develop a low cost, context appropriate monitoring device that continuously reads a patient's respiratory rate and alerts a medical professional when the patient is in distress. Currently developing their second iteration prototype, the team is exploring accelerometer technology to use in their designs."
             ],
             "members": [
-                {
-                    "name": "Brian Ho",
-                    "position": "Project Lead",
-                    "img": "static/img/projects/rrm/brian-ho.png",
-                    "year": "3rd",
-                    "department": "Electrical Engineering",
-                    "biomed": true,
-                    "desc": "I am extremely excited to be leading RRM and working with such a passionate group of students. I have had a great experience of working on the software and hardware aspect of the project. Through my past working experiences and school projects I have gained ample software development as well as team working experience. I hope to make a positive impact in the health sector."
-                },
-                {
-                    "name": "Maria Phelan",
-                    "position": "Member",
-                    "img": "static/img/projects/rrm/maria-phelan.png",
-                    "year": "1st",
-                    "department": "First Year",
-                    "biomed": false,
-                    "desc": ""
-                },
-                {
-                    "name": "Brenda Nakandi",
-                    "position": "Member - Makarere University",
-                    "img": "",
-                    "year": "3rd",
-                    "department": "Biomedical Engineering",
-                    "biomed": false,
-                    "desc": "I have experience in research and leadership from the different projects i have been involved in. I hope to continue working in the different projects I'm part of when I'm done with university."
-                },
-                {
-                    "name": "Lisa Kirby",
-                    "position": "Member",
-                    "img": "",
-                    "year": "4th",
-                    "department": "Computer Engineering",
-                    "biomed": false,
-                    "desc": "It is a life-long goal to eventually end up working in Global Health, so I am extremely excited to have the opportunity to work on the Respiratory Rate Monitor project with such bright teammates. I have experience working as a web applications developer for the Canadian Federal Government and enjoy developing everything from low-level FPGA hardware to high-level software for web and mobile applications. In my spare time, I love studying the brain, reading biographies, and eating good food. "
-                },
-                {
-                    "name": "Racheal Chris Nassimbwa",
-                    "position": "Member",
-                    "img": "",
-                    "year": "3rd",
-                    "department": "Biomedical Engineering",
-                    "biomed": false,
-                    "desc": ""
-                },
-                {
-                    "name": "Renhao Wang",
-                    "position": "Member",
-                    "img": "",
-                    "year": "2nd",
-                    "department": "Computer Science and Statistics",
-                    "biomed": false,
-                    "desc": ""
-                },
-                {
-                    "name": "Zachary Fu",
-                    "position": "Member",
-                    "img": "static/img/projects/rrm/zachary-fu.png",
-                    "year": "3rd",
-                    "department": "Electrical Engineering",
-                    "biomed": true,
-                    "desc": ""
-                }
             ]
         },
         {
@@ -717,6 +654,102 @@
                     "department": "First Year",
                     "biomed": false,
                     "desc": "Hello! I joined the BEST Mentee program in my first year at UBC to gain experience in the Biomed. field, and contribute to developing accessible medical devices. Currently, I am a full member of M2M and my role on the team involves integrating mechanical and electrical components into our prototypes. I am excited for our meetings each week, knowing that I can develop my skills as an engineering student to improve overall health and treatment outcomes for stroke survivors!"
+                }
+            ]
+        },
+        {
+            "id": "mast",
+            "icon": "fa-code",
+            "tab": "MAST",
+            "name": "Medical Applications and Software Team",
+            "abbr": "MAST",
+            "desc": [
+                "The Medical Applications and Software Team (MAST), is a new project starting under BEST this year in 2019. UBC BEST was very recently approached by Vancouver General Hospital’s Emergency and Trauma Radiology Department to develop a mobile application for both patient and radiologist use in acute settings."
+            ],
+            "members": [
+                {
+                    "name": "Brian Ho",
+                    "position": "Project Lead",
+                    "img": "static/img/projects/mast/brian-ho.png",
+                    "year": "3rd",
+                    "department": "Electrical Engineering",
+                    "biomed": true,
+                    "desc": "I am extremely excited to be leading MAST and working with such a passionate group of students. I have had a great experience of working on the software and hardware aspect of the project. Through my past working experiences and school projects I have gained ample software development as well as team working experience. I hope to make a positive impact in the health sector."
+                },
+                {
+                    "name": "Maria Phelan",
+                    "position": "Member",
+                    "img": "static/img/projects/mast/maria-phelan.png",
+                    "year": "1st",
+                    "department": "First Year",
+                    "biomed": false,
+                    "desc": ""
+                },
+                {
+                    "name": "Brenda Nakandi",
+                    "position": "Member - Makarere University",
+                    "img": "",
+                    "year": "3rd",
+                    "department": "Biomedical Engineering",
+                    "biomed": false,
+                    "desc": "I have experience in research and leadership from the different projects i have been involved in. I hope to continue working in the different projects I'm part of when I'm done with university."
+                },
+                {
+                    "name": "Lisa Kirby",
+                    "position": "Member",
+                    "img": "",
+                    "year": "4th",
+                    "department": "Computer Engineering",
+                    "biomed": false,
+                    "desc": "It is a life-long goal to eventually end up working in Global Health, so I am extremely excited to have the opportunity to work on the Respiratory Rate Monitor project with such bright teammates. I have experience working as a web applications developer for the Canadian Federal Government and enjoy developing everything from low-level FPGA hardware to high-level software for web and mobile applications. In my spare time, I love studying the brain, reading biographies, and eating good food. "
+                },
+                {
+                    "name": "Racheal Chris Nassimbwa",
+                    "position": "Member",
+                    "img": "",
+                    "year": "3rd",
+                    "department": "Biomedical Engineering",
+                    "biomed": false,
+                    "desc": ""
+                },
+                {
+                    "name": "Renhao Wang",
+                    "position": "Member",
+                    "img": "",
+                    "year": "2nd",
+                    "department": "Computer Science and Statistics",
+                    "biomed": false,
+                    "desc": ""
+                },
+                {
+                    "name": "Zachary Fu",
+                    "position": "Member",
+                    "img": "static/img/projects/mast/zachary-fu.png",
+                    "year": "3rd",
+                    "department": "Electrical Engineering",
+                    "biomed": true,
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": "w4d",
+            "icon": "fa-wheelchair",
+            "tab": "W4D",
+            "name": "Wheelchairs for Disabled Rescue Dogs",
+            "abbr": "W4D",
+            "desc": [
+                "BEST is undertaking a project this semester in partnership with Loved at Last Dog Rescue to design and build wheelchairs for disabled rescue dogs. Loved at Last Dog Rescue is a non-profit volunteer organization that rescues dogs from kill shelters and coordinates foster homes and adoptions for the dogs in Canada. This year, Loved at Lost Dog Rescue has had a large influx of disabled rescue dogs and has been overwhelmed with the cost of healthcare for the dogs. The largest expense for the organization has been wheelchairs at approximately ~$500 per dog which leaves little for the organization to spend on medication and travel expenses.  Currently, Loved at Last Dog Rescue has 9 disabled foster dogs in the Middle East with full or partial rear leg paralysis that are sharing one wheelchair. As a result, we are designing and building low-cost wheelchairs to donate to Loved at Last Dog Rescue to offset their expenses. We are currently in the prototyping phase of the first design iteration and we are seeking more members to help with the second iteration of the design, prototyping, testing, and building of the wheelchairs."
+            ],
+            "members": [
+                {
+                    "name": "Emma Katchur-Marsh",
+                    "position": "Project Lead",
+                    "img": "",
+                    "year": "4th",
+                    "department": "Mechanical Engineering",
+                    "biomed": false,
+                    "desc": ""
                 }
             ]
         }

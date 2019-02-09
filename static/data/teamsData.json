@@ -52,22 +52,6 @@
       "name": "Management Team",
       "members": [
         {
-          "name": "Han Nguyen",
-          "title": "Medical Innovation in NeuroTechnology Project Lead",
-          "img": "",
-          "link": "",
-          "desc": [
-           ]
-        },
-        {
-          "name": "Kalen Forester",
-          "title": "Medical Innovation in NeuroTechnology Project Lead",
-          "img": "",
-          "link": "",
-          "desc": [
-           ]
-        },
-        {
           "name": "Karla Rivera",
           "title": "Femur Fracture Treatment Project Lead",
           "img": "/static/img/teams/man/karla-rivera.png",
@@ -89,15 +73,16 @@
         {
           "name": "Kirsty Hawke",
           "title": "Music to Movement Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/kirsty-hawke.png",
           "link": "",
           "desc": [
+            "I have always been interested in the intersection of medicine and engineering and so joining the BEST team was the perfect way to combine these passions. The resources and guidance I received during my year in the mentorship program provided me with the skills to not only succeed within M2M but also in my project courses. With Angelica, the M2M co-lead, I hope to bring the hard work and contributions from all the M2M team members over the years to fruition and start clinical trials this year! BEST has helped me better my engineering and personal skills and I hope to provide the leadership needed to do the same for incoming and current members."
           ]
         },
         {
           "name": "Angelica Liaw",
           "title": "Music to Movement Project Lead",
-          "img": "",
+          "img": "/static/img/teams/man/angelica-liaw.png",
           "link": "",
           "desc": [
             "I am an Electrical Engineering student with Biomedical specialization who is passionate about learning how things work, and applying engineering knowledge towards creating innovative and practical designs in the biomedical sector. I am excited to lead this diverse group of students to continue progressing the M2M project and see it move closer to helping people with their rehabilitation process. When I am not submerged in work, I enjoy watching movies, going to the beach or sewing."
@@ -105,7 +90,7 @@
         },
         {
           "name": "Brian Ho",
-          "title": "Respiratory Rate Monitor Project Lead",
+          "title": "Respiratory Rate Monitor Project Lead and Medical Applications and Software Team Project Lead",
           "img": "/static/img/teams/man/brian-ho.png",
           "link": "https://www.linkedin.com/in/brian-ho-4ba064136/",
           "desc": [
@@ -122,28 +107,21 @@
           ]
         },
         {
-          "name": "Sarah Mohn",
-          "title": "International Collaborations Coordinator",
-          "img": "/static/img/projects/m2m/sarah-mohn.png",
-          "link": "",
-          "desc": [
-          ]
-        },
-        {
-          "name": "Morgan Kaye",
-          "title": "International Collaborations Coordinator",
-          "img": "",
-          "link": "",
-          "desc": [
-          ]
-        },
-        {
           "name": "Joshua French",
           "title": "ENABLE Project Lead",
           "img": "/static/img/teams/man/joshua-french.png",
           "link": "",
           "desc": [
             "Aspiring Biomedical Engineer and Social Entrepreneur passionate about innovation at the intersection of medicine and technology in order to improve lives."
+          ]
+        },
+        {
+          "name": "Emma Katchur-Marsh",
+          "title": "Wheelchairs for Disabled Rescue Dogs Project Lead",
+          "img": "/static/img/teams/exec/emma-katchur-marsh.png",
+          "link": "",
+          "desc": [
+            "During my second year of engineering, I was introduced to biomedical engineering by BEST and I quickly discovered that biomedical engineering fulfills two of my primary interests: to work in the health care industry and to develop innovative technologies. I joined BEST in November 2016 and my experience on the Femur Fracture Treatment Project tackling a complex, international healthcare challenge further solidified my goal to pursue a career in biomedical engineering. As a member of BEST, I was amazed at the impact undergraduate students can have on the healthcare industry and I was excited to begin my role as CEO in January 2018.\n\nI am currently in my third year of Mechanical Engineering at UBC with a specialization in biomedical engineering. I have 8 months of co-op experience in the biomedical industry at LightIntegra Technology Inc. and 4 months of mechatronics co-op work experience at Osensa Innovations Corp. Through my co-op work experience, I have developed an interest in mechatronics along side my interest in biomedical engineering and I strive to integrate these two fields in my future career.\n\nI enjoyed my experience on the Femur Fracture Treatment Project and I look forward to working more with the BEST members and the BEST leadership team to contribute to the growth of the biomedical community and to develop innovative solutions to health care challenges."
           ]
         },
         {
@@ -158,6 +136,40 @@
         {
           "name": "Nabil Ali-Mohamad",
           "title": "Biochemical Innovation Team Project Lead",
+          "img": "",
+          "link": "",
+          "desc": [
+            "I am excited to be completing my final year of Chemical and Biological Engineering by co-leading a new team on UBC BEST geared towards the biochemical aspects of biomedical engineering so highly relevant in the field today.\nMy time with UBC BEST began in 2015 in my first year at UBC and continued to the end of second year where I spent time on the initial stages of both the Femur Fracture Treatment Project and the Medical Innovation in Neurotechnology Team. In third year, I focused my attention on other opportunities working to develop a sprayable powder to halt hemorrhage using surgical medical conduits. I return to BEST to help build its biochemical technology branch in which research and innovation is ever-advancing.\nMy goals for the Biochemical Innovation Team this year is to bring together a creative group of individuals who are eager to contribute to the biomedical field and to help set the foundations and long-term goals for this team."
+          ]
+        },
+        {
+          "name": "Han Nguyen",
+          "title": "Medical Innovation in NeuroTechnology Project Lead",
+          "img": "",
+          "link": "",
+          "desc": [
+            "Do you want to mind-control a device and feel excited when seeing your brainwaves? Do you want to learn new things and chat with awesome people every week? I do and that's why joining MINT is the best decision of my life. I spend my free time like a \"nerd\", and my favorite pet is rabbit since it eats its own poop."
+           ]
+        },
+        {
+          "name": "Kalen Forester",
+          "title": "Medical Innovation in NeuroTechnology Project Lead",
+          "img": "",
+          "link": "",
+          "desc": [
+           ]
+        },
+        {
+          "name": "Sarah Mohn",
+          "title": "International Collaborations Coordinator",
+          "img": "/static/img/projects/m2m/sarah-mohn.png",
+          "link": "",
+          "desc": [
+          ]
+        },
+        {
+          "name": "Morgan Kaye",
+          "title": "International Collaborations Coordinator",
           "img": "",
           "link": "",
           "desc": [
@@ -308,6 +320,22 @@
           "desc": [
             "My passion for biotechnology and innovation stems from a project I was involved in at the start of 2016, in which myself and a small, interdisciplinary team of UBC students underwent the initial stages of building a health-and-wellness start-up.",
             "We focused more on the business side of things, including customer discovery, financial planning, networking, and investment pitching; however, I am a scientist at heart, and I have lots of experience in publishing, experimental design, IP searches, and data processing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spon",
+      "icon": "fa-donate",
+      "tab": "Supporters",
+      "name": "Sponsors and Donors",
+      "members": [
+        {
+          "name": "School of Biomedical Engineering",
+          "position": "Sponsor",
+          "img": "/static/img/teams/spon/school_of_bmeg.png",
+          "desc": [
+            ""
           ]
         }
       ]
