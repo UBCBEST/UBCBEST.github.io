@@ -1,17 +1,17 @@
 {
   "status": {
-    "active": false,
+    "active": true,
     "activeMessage": "UBC BEST is currently seeking undergraduate students who share a passion for biomedical engineering to join our team. To see current opportunities please refer to our Recruitment Package. If you are less experienced in your degree, we are currently looking for students to join our Mentorship Program. Please find our contact info below.",
     "inactiveMessage": "UBC BEST is not currently seeking new members. If you are interested in getting involved or hearing more about the team, however, please contact us below!"
   },
   "links": [
     {
-      "name": "September 2018 Technical Recruitment Package",
-      "href": "https://docs.google.com/document/d/1wy-DJi0scnmFbh0Fw25XUzxw3VBBbX8tlRC-cnpQp5o/edit?usp=sharing"
+      "name": "September 2019 Technical Recruitment Package",
+      "href": "https://docs.google.com/document/d/1RDYbn7yw282EdLjLgHeeKenM1jJlux3kkyjrfpR-TTc/edit?usp=sharing"
     },
     {
-      "name": "September 2018 Technical Recruitment Package",
-      "href": "https://docs.google.com/document/d/1ZsKnI7-cYcdo6abq48XAGEPT7L24oPddt48gTE2sjY8/edit?usp=sharing"
+      "name": "September 2019 Mentorship Recruitment Package",
+      "href": "https://docs.google.com/document/d/1XQP_yn32ilUideFbt0M3JPcjU0iJGUnYKjnLiFWDJFo/edit?usp=sharing"
     }
   ]
 }
