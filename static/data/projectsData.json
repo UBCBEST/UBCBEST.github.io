@@ -331,7 +331,7 @@
             "name": "Respiratory Rate Monitor",
             "abbr": "RRM",
             "desc": [
-                "Each year, over one million children under the age of 5 die due to acute respiratory infections. The majority of these deaths occur in low resource countries, where hospitals often do not have the necessary personnel or equipment to constantly monitor the respiratory rate of paediatric patients. Measuring a patient’s respiratory rate is vital in the clinical assessment for disease diagnosis, prognosis, and treatment. The team aims to develop a low cost, context appropriate monitoring device that continuously reads a patient's respiratory rate and alerts a medical professional when the patient is in distress. Currently developing their second iteration prototype, the team is exploring accelerometer technology to use in their designs."
+                "Each year, over one million children under the age of 5 die due to acute respiratory infections. The majority of these deaths occur in low resource countries, where hospitals often do not have the necessary personnel or equipment to constantly monitor the respiratory rate of paediatric patients. Measuring a patient’s respiratory rate is vital in the clinical assessment for disease diagnosis, prognosis, and treatment. The team aims to develop a low cost, context appropriate monitoring device that continuously reads a patient's respiratory rate and alerts a medical professional when the patient is in distress. Currently developing their second iteration prototype, the team is exploring accelerometer technology to use in their designs.  This project closed in 2019 and the work has been open sourced here: https://github.com/UBCBEST/resp-rate."
             ],
             "members": [
             ]
@@ -752,7 +752,7 @@
         },
         {
             "id": "uplift",
-            "icon": "",
+            "icon": "fa-walking",
             "tab": "UPLIFT",
             "name": "UPLIFT",
             "abbr": "UPLIFT",
