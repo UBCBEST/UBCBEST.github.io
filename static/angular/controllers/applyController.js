@@ -1,7 +1,7 @@
 (function () {
     angular.module('app')
         .controller('applyController', function (DataFactory, $scope) {
-            $scope.activeRecruitment = false;
+            $scope.activeRecruitment;
             $scope.recruitmentMessage = null;
             $scope.events = null;
 
