@@ -115,11 +115,20 @@
                 {
                     "name": "Sean McGrath",
                     "position": "Member",
-                    "img": "static/img/projects/bit/sean-mcgrath.png",
+                    "img": "",
                     "year": "4th",
                     "department": "Chemical and Biological Engineering",
                     "biomed": false,
                     "desc": ""
+                },
+                {
+                    "name": "Jessica Yamamoto",
+                    "position": "Member",
+                    "img": "",
+                    "year": "2nd",
+                    "department": "Chemical and Biological Engineering",
+                    "biomed": false,
+                    "desc": "As a Chemical Engineering student, I always aim to be multidisciplinary and learn as much as I can! The Biomedical field always astounds me with its new innovations and ways to help people globally and I am excited to be a part of it. I aim to learn new software skills on BEST, like MATLAB, to allow me to analyze data and arrive at the best solution for our client's needs."
                 }
             ]
         },
@@ -394,20 +403,11 @@
                 {
                     "name": "Emily Weemees",
                     "position": "Member",
-                    "img": "static/img/projects/ptm/emily-weemees.jpg",
+                    "img": "",
                     "year": "4th",
                     "department": "Arts",
                     "biomed": false,
                     "desc": ""
-                },
-                {
-                    "name": "Giulio Sucar Pregnolato",
-                    "position": "Member",
-                    "img": "static/img/projects/ptm/giulio-sucar-pregnolato.png",
-                    "year": "6th",
-                    "department": "Engineering Physics",
-                    "biomed": false,
-                    "desc": "Dreamer at BEST. I like to make technology with awareness of users and context, aiming for high impact. I do so with a varied skill-set and precise communication, so my team can always bring our A+ game. I started MINT because it is simply absurd that we have affordable cloud computing but no established objective measurement of psychological states. The innards of consciousness are a strange frontier, and one I want to poke at. ...Don't you?"
                 },
                 {
                     "name": "Michael Halim",
@@ -439,7 +439,7 @@
                 {
                     "name": "Anthea Wong",
                     "position": "Member",
-                    "img": "static/img/projects/ptm/anthea-wong.png",
+                    "img": "",
                     "year": "5th",
                     "department": "Electrical Engineering",
                     "biomed": true,
@@ -459,15 +459,6 @@
                     "position": "Member",
                     "img": "",
                     "year": "5th",
-                    "department": "Electrical Engineering",
-                    "biomed": true,
-                    "desc": ""
-                },
-                {
-                    "name": "Shawdi Safari",
-                    "position": "Member",
-                    "img": "",
-                    "year": "3rd",
                     "department": "Electrical Engineering",
                     "biomed": true,
                     "desc": ""
@@ -584,15 +575,6 @@
                     "desc": "I think it's amazing what a few (hundred) lines of well written code can do. I love working on the music to movement project, because it has the potential to make recovery just a little bit better for stroke survivors, which could make all the difference in the world."
                 },
                 {
-                    "name": "Justine Sultan",
-                    "position": "Member",
-                    "img": "static/img/projects/m2m/justine-sultan.png",
-                    "year": "4th",
-                    "department": "Electrical Engineering",
-                    "biomed": false,
-                    "desc": "I am an electrical engineering student in the biomedical option at UBC, and am passionate about applying engineering to develop solutions for the biomedical industry! I originally joined M2M as a hardware developer working on electrical design, and am excited to continue progressing the M2M project as project lead.I have co-op experience in electrical, software, and mechanical development at Motion Metrics International, as well as in project management at the Vancouver Airport Authority."
-                },
-                {
                     "name": "Ryan Easton",
                     "position": "Member",
                     "img": "static/img/projects/m2m/ryan-easton.png",
@@ -626,7 +608,7 @@
                     "year": "2nd",
                     "department": "Chemical and Biological Engineering",
                     "biomed": false,
-                    "desc": "Hi! My name is Rana and I love engineering. I joined BEST because I was always found biomedical engineering really interesting. I have experience at research companies, process engineering, and SolidWorks, and I love applied all that to M2M."
+                    "desc": "My name is Rana and I'm a third year CHBE student. This is my 3rd year in BEST but I just started out with BIT this summer, as I was very interested in pursuing a CHBE focused project! I'm very interested in the biotech, pharma, and biomedical industries."
                 },
                 {
                     "name": "Allison Simpson",
@@ -677,13 +659,13 @@
             ],
             "members": [
                 {
-                    "name": "Brian Ho",
+                    "name": "Alessandro Narciso",
                     "position": "Project Lead",
-                    "img": "static/img/projects/mast/brian-ho.png",
-                    "year": "3rd",
+                    "img": "",
+                    "year": "4th",
                     "department": "Electrical Engineering",
-                    "biomed": true,
-                    "desc": "I am extremely excited to be leading MAST and working with such a passionate group of students. I have had a great experience of working on the software and hardware aspect of the project. Through my past working experiences and school projects I have gained ample software development as well as team working experience. I hope to make a positive impact in the health sector."
+                    "biomed": false,
+                    "desc": "Ever since I first became interested in engineering, the innovations that astounded me the most were the biomedical ones. The concept of being able to save someone's life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my fourth year of Electrical Engineering.  When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA – EMR) where I worked on designing and testing the user interface. After the project was completed, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code. I later then transitioned to the Chief Operations Officer role, and am now serving as BEST’s Chief Executive Officer.  My work experience consists of 3 work terms, one with the Government of Alberta, Department of Economic Development and Trade, where I aided my team in marketing Albertan corporations to attract foreign investment. I also worked with Dynamic Attractions where I worked with robotics to develop ride vehicle systems for the entertainment industry. I also worked as an ICT Engineering Intern with Huawei Technologies, working with mobile/computer networking technologies, artificial intelligence, cloud computing, and 5G.  Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 4 years and I hope to keep contributing to the club’s success by taking on the role of CEO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
                 },
                 {
                     "name": "Maria Phelan",
@@ -731,6 +713,15 @@
                     "desc": ""
                 },
                 {
+                    "name": "Brian Ho",
+                    "position": "Member",
+                    "img": "static/img/projects/mast/brian-ho.png",
+                    "year": "3rd",
+                    "department": "Electrical Engineering",
+                    "biomed": true,
+                    "desc": "I am extremely excited to be leading MAST and working with such a passionate group of students. I have had a great experience of working on the software and hardware aspect of the project. Through my past working experiences and school projects I have gained ample software development as well as team working experience. I hope to make a positive impact in the health sector."
+                },
+                {
                     "name": "Zachary Fu",
                     "position": "Member",
                     "img": "static/img/projects/mast/zachary-fu.png",
@@ -773,8 +764,8 @@
                     "name": "Danika Unger",
                     "position": "Project Lead",
                     "img": "",
-                    "year": "th",
-                    "department": "",
+                    "year": "2nd",
+                    "department": "Integrated Engineering",
                     "biomed": false,
                     "desc": ""
                 }

@@ -1,500 +1,763 @@
 {
-  "data": [
-    {
-      "id": "exec",
-      "icon": "fa-black-tie",
-      "tab": "Executive",
-      "name": "Executive Team",
-      "members": [
+    "data": [
         {
-          "name": "Alessandro Narciso",
-          "title": "Chief Executive Officer",
-          "img": "/static/img/teams/exec/alessandro-narciso.jpg",
-          "link": "https://www.linkedin.com/in/alessandronarciso/",
-          "desc": [
-            "Ever since I first became interested in engineering, the innovations that astounded me the most were the biomedical ones. The concept of being able to save someoneâ€™s life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my fourth year of Electrical Engineering.",
-            "When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA â€“ EMR) where I worked on designing and testing the user interface. After the project was completed, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code. I later then transitioned to the Chief Operations Officer role, and am now serving as BESTâ€™s Chief Executive Officer.",
-            "My work experience consists of 3 work terms, one with the Government of Alberta, Department of Economic Development and Trade, where I aided my team in marketing Albertan corporations to attract foreign investment. I also worked with Dynamic Attractions where I worked with robotics to develop ride vehicle systems for the entertainment industry. I also worked as an ICT Engineering Intern with Huawei Technologies, working with mobile/computer networking technologies, artificial intelligence, cloud computing, and 5G.",
-            "Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 4 years and I hope to keep contributing to the clubâ€™s success by taking on the role of CEO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
-          ]
+            "id": "exec",
+            "icon": "fa-black-tie",
+            "tab": "Executive",
+            "name": "Executive Team",
+            "members": [
+                {
+                    "name": "Alessandro Narciso",
+                    "title": "Chief Executive Officer",
+                    "img": "static/img/teams/exec/alessandro-narciso.jpg",
+                    "link": "",
+                    "desc": [
+                       "Ever since I first became interested in engineering, the innovations that astounded me the most were the biomedical ones. The concept of being able to save someone's life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my fourth year of Electrical Engineering.  When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA – EMR) where I worked on designing and testing the user interface. After the project was completed, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code. I later then transitioned to the Chief Operations Officer role, and am now serving as BEST’s Chief Executive Officer.  My work experience consists of 3 work terms, one with the Government of Alberta, Department of Economic Development and Trade, where I aided my team in marketing Albertan corporations to attract foreign investment. I also worked with Dynamic Attractions where I worked with robotics to develop ride vehicle systems for the entertainment industry. I also worked as an ICT Engineering Intern with Huawei Technologies, working with mobile/computer networking technologies, artificial intelligence, cloud computing, and 5G.  Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 4 years and I hope to keep contributing to the club’s success by taking on the role of CEO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
+                    ]
+                },
+                {
+                    "name": "Andrew Yan",
+                    "title": "Chief Technology Officer",
+                    "img": "static/img/teams/exec/andrew-yan.png",
+                    "link": "",
+                    "desc": [
+                       "I was initially attracted to biomedical engineering and UBC BEST because it combines my two passions, Medicine and Engineering. I had the opportunity to join BEST in my first year at UBC (2015) within the first iteration of the Mentorship Program. At this point in time, I have completed my third year of Electrical Engineering in the Biomedical Option.  When I joined BEST in 2015, my first 4 months with the team were spent doing the non-technical position of Events Coordinator. In January 2016, the first iteration of the mentorship program began and I got to become a member of IDEA-EMR, a project that finished that May of that same year. While on IDEA-EMR, I got the chance to apply some of my Java knowledge to help develop the user interface for the app. Following the completion of IDEA-EMR, I worked with the Music to Movement project developing one of the first software interfaces, as well as designing some of the peripheral internal circuitry.  I have had two co-op experiences so far at UBC, and am currently on my third. My first co-op was with the Department of Electrical and Computer Engineering for 4 months, where I got to develop skills with WordPress and Altium Designer. My second co-op was 8 months with Intel Corporation, where I was a part of a team developing error correction code algorithms for an upcoming product. I am currently working my third co-op at Kardium Inc., a local biotechnology company.  I am excited to be CTO of BEST, not only because I get to lead such a diverse and talented group of students, but also because I hope to continue to develop and grow impactful and innovative projects, much like my predecessors in this role."
+                    ]
+                },
+                {
+                    "name": "Emma Gray",
+                    "title": "Chief Operating Officer",
+                    "img": "static/img/teams/exec/emma-gray.png",
+                    "link": "",
+                    "desc": [
+                       "After two years with our Medical Innovation in Neurotechnology (MINT) team, I’m thrilled to be joining the BEST executives this year as COO.  I’ve always known that I wanted to pursue a creative, challenging and rewarding career that allowed me to help people. However, joining BEST allowed me to realize those goals much earlier than expected.  This team has offered me the opportunity to tackle real-world problems from an engineering perspective, and to witness student projects grow from ideas to fully-fledged devices that help people every day. That’s one of the many reasons that it’s a privilege to help represent the curious, passionate and talented students that make up this team.  I’m currently in my third year of school, studying Engineering Physics. My biomedical work experience consists of 8 months across two labs in the biomedical research field, with the first focusing on functional neuroimaging and the second on biomechanics and measurements from topographical indices.  This Spring, I’m working as a Product Design Engineering Co-op at MistyWest, a Vancouver-based engineering consultancy that has developed numerous medical devices."
+                    ]
+                }
+            ]
         },
         {
-          "name": "Emma Gray",
-          "title": "Chief Operations Officer",
-          "img": "/static/img/teams/exec/emma-gray.png",
-          "link": "",
-          "desc": [
-            "After two years with our Medical Innovation in Neurotechnology (MINT) team, Iâ€™m thrilled to be joining the BEST executives this year as COO.",
-            "Iâ€™ve always known that I wanted to pursue a creative, challenging and rewarding career that allowed me to help people. However, joining BEST allowed me to realize those goals much earlier than expected.",
-            "This team has offered me the opportunity to tackle real-world problems from an engineering perspective, and to witness student projects grow from ideas to fully-fledged devices that help people every day. Thatâ€™s one of the many reasons that itâ€™s a privilege to help represent the curious, passionate and talented students that make up this team.",
-            "Iâ€™m currently in my third year of school, studying Engineering Physics. My biomedical work experience consists of 8 months across two labs in the biomedical research field, with the first focusing on functional neuroimaging and the second on biomechanics and measurements from topographical indices.",
-            "This Spring, Iâ€™m working as a Product Design Engineering Co-op at MistyWest, a Vancouver-based engineering consultancy that has developed numerous medical devices."
-          ]
+            "id": "man",
+            "icon": "fa-balance-scale",
+            "tab": "Management",
+            "name": "Management Team",
+            "members": [
+                {
+                    "name": "Alessandro Narciso",
+                    "title": "MAST Project Lead",
+                    "img": "static/img/teams/man/alessandro-narciso.jpg",
+                    "link": "",
+                    "desc": [
+                       "Ever since I first became interested in engineering, the innovations that astounded me the most were the biomedical ones. The concept of being able to save someone's life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my fourth year of Electrical Engineering.  When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA – EMR) where I worked on designing and testing the user interface. After the project was completed, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code. I later then transitioned to the Chief Operations Officer role, and am now serving as BEST’s Chief Executive Officer.  My work experience consists of 3 work terms, one with the Government of Alberta, Department of Economic Development and Trade, where I aided my team in marketing Albertan corporations to attract foreign investment. I also worked with Dynamic Attractions where I worked with robotics to develop ride vehicle systems for the entertainment industry. I also worked as an ICT Engineering Intern with Huawei Technologies, working with mobile/computer networking technologies, artificial intelligence, cloud computing, and 5G.  Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 4 years and I hope to keep contributing to the club’s success by taking on the role of CEO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
+                    ]
+                },
+                {
+                    "name": "Andrea Olaizola",
+                    "title": "BIT Project Lead",
+                    "img": "static/img/teams/man/andrea-olaizola.png",
+                    "link": "",
+                    "desc": [
+                       "I'm currently majoring in chemistry and biology at UBC. I've always been passionate about design, technology and medicine. What motivates me the most is being able to contribute in the development of innovative and more efficient technologies to improve healthcare and quality of life. I'm excited to work with BEST and learn more about the biomedical industry. "
+                    ]
+                },
+                {
+                    "name": "Joshua French",
+                    "title": "ENABLE Project Lead",
+                    "img": "static/img/teams/man/joshua-french.png",
+                    "link": "",
+                    "desc": [
+                       "I believe the intersection of medicine, engineering, and innovation has the enormous potential to better lives. This belief is the primary driver behind my academic and extracurricular pursuits.  I have experience as a Research Assistant at the Centre for Hip Health and Mobility, located at VGH. Additionally, I am pursuing a Minor in Entrepreneurship and placed third in the Innovation OnBoard Competition with the UBC Biomod team; our project being a system for the early detection of lung cancer.  www.linkedin.com/in/joshfrenchubc"
+                    ]
+                },
+                {
+                    "name": "Joshua Jessup",
+                    "title": "ENABLE Project Lead",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Jackson Robinson",
+                    "title": "FFTP Project Lead",
+                    "img": "static/img/teams/man/jackson-robinson.png",
+                    "link": "",
+                    "desc": [
+                       "I am a current Mechanical Engineering student with a Biomedical specialization. I have a strong passion for improving medical practice in developing countries, and am very excited to contribute to device development as a project lead of FFTP. My professional interests include biomechanics and numerical analysis, with previous experience working in the engineering consulting industry. When not at school, I spend time working as a skating instructor, hiking and playing guitar, and hope to successfully apply to a Canadian medical school upon graduation."
+                    ]
+                },
+                {
+                    "name": "Angelica Liaw",
+                    "title": "M2M Project Lead",
+                    "img": "static/img/teams/man/angelica-liaw.png",
+                    "link": "",
+                    "desc": [
+                       "I am an Electrical Engineering student with Biomedical specialization who is passionate about learning how things work, and applying engineering knowledge towards creating innovative and practical designs in the biomedical sector. I am excited to lead this diverse group of students to continue progressing the M2M project and see it move closer to helping people with their rehabilitation process. When I am not submerged in work, I enjoy watching movies, going to the beach or sewing. "
+                    ]
+                },
+                {
+                    "name": "Kirsty Hawke",
+                    "title": "M2M Project Lead",
+                    "img": "static/img/teams/man/kirsty-hawke.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Kalen Forester",
+                    "title": "MINT Project Lead",
+                    "img": "static/img/teams/man/kalen-forester.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Han Nguyen",
+                    "title": "MINT Project Lead",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       "My passion is brain-computer interface. I want to help humans brain-control all kinds of machines."
+                    ]
+                },
+                {
+                    "name": "Rebecca Lim",
+                    "title": "UPLIFT Project Lead",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       "As a third-generation UBC student, I am excited to be studying at UBC while gaining an enriched learning experience through my involvement with BEST. My passion for biomedical engineering was sparked by an interest in anatomical systems and an affinity for problem-solving and design. My work ethic and curiosity drive my enthusiasm for developing my technical skills and learning about engineering processes through practical applications. Beyond my studies and BEST, I enjoy playing hockey and spending time with my dog."
+                    ]
+                },
+                {
+                    "name": "Laveniya Kugathasan",
+                    "title": "BIT Project Lead",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Danika Unger",
+                    "title": "UPLIFT Project Lead",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                }
+            ]
         },
         {
-          "name": "Andrew Yan",
-          "title": "Chief Technology Officer",
-          "img": "/static/img/teams/exec/andrew-yan.png",
-          "link": "https://www.linkedin.com/in/andrew-yan-263b80102/",
-          "desc": [
-            "I was initially attracted to biomedical engineering and UBC BEST because it combines my two passions, Medicine and Engineering. I had the opportunity to join BEST in my first year at UBC (2015) within the first iteration of the Mentorship Program.  At this point in time, I have completed my third year of Electrical Engineering in the Biomedical Option.",
-            "When I joined BEST in 2015, my first 4 months with the team were spent doing the non-technical position of Events Coordinator.  In January 2016, the first iteration of the mentorship program began and I got to become a member of IDEA-EMR, a project that finished that May of that same year.  While on IDEA-EMR, I got the chance to apply some of my Java knowledge to help develop the user interface for the app.  Following the completion of IDEA-EMR, I worked with the Music to Movement project developing one of the first software interfaces, as well as designing some of the peripheral internal circuitry.",
-            "I have had two co-op experiences so far at UBC, and am currently on my third.  My first co-op was with the Department of Electrical and Computer Engineering for 4 months, where I got to develop skills with WordPress and Altium Designer.  My second co-op was 8 months with Intel Corporation, where I was a part of a team developing error correction code algorithms for an upcoming product.  I am currently working my third co-op at Kardium Inc., a local biotechnology company.",
-            "I am excited to be CTO of BEST, not only because I get to lead such a diverse and talented group of students, but also because I hope to continue to develop and grow impactful and innovative projects, much like my predecessors in this role."
-          ]
+            "id": "alum",
+            "icon": "fa-star",
+            "tab": "Alumni",
+            "name": "Alumni",
+            "members": [
+                {
+                    "name": "Aidan Canil",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/aidan-canil.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Amara Kraft",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/amara-kraft.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Andrea Marshall",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/andrea-marshall.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Anthea Wong",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/anthea-wong.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Aria Rezapour",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/aria-rezapour.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Bhavsagar Malhi",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Blake Henderson",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/blake-henderson.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Brianna Snell",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Carol Fu",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Clinton Large",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/clinton-large.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Elizabeth Wicks",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/elizabeth-wicks.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Emil Maric",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Emily Weemees",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/emily-weemees.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Eric Cho",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Georgia Grzybowski",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/georgia-grzybowski.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Giulio Sucar Pregnolato",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/giulio-sucar-pregnolato.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Glen Aggiss",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/glen-aggiss.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Hamza Faran",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Hannah Haghdadi",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/hannah-haghdadi.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Himani Kukreja",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/himani-kukreja.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Isabel Keng",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/isabel-keng.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "James Zhou",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/james-zhou.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Juan Pablo Gomez",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Julie Kerr",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/julie-kerr.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Justine Sultan",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/justine-sultan.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Karla Rivera",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/karla-rivera.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Kevin Tang",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/kevin-tang.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Kieran Wou",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Koushik Peri",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Kristyn Lee",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Kyle Como",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/kyle-como.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Marcus Cheung",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Marysia Grzybowski",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/marysia-grzybowski.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "May Liang",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/may-liang.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Meagan Woolsey",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Michelle Mak",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Muieen Cader",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Nabil Ali-Mohamad",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Nima Sarrafi",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/nima-sarrafi.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Parynaz Adamy",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/parynaz-adamy.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Patrick Coleman",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Ryan Wong",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/ryan-wong.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Sagar Patel",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Sarah Mohn",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/sarah-mohn.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Sean McGrath",
+                    "title": "Alumni",
+                    "img": "static/img/teams/alum/sean-mcgrath.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Tina Saad",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Tricia Jose",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Vivian Wong",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Yin Yu Eunice Kwok",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Zachary Moshansky",
+                    "title": "Alumni",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "adv",
+            "icon": "fa-commenting",
+            "tab": "Advisor",
+            "name": "Advisor Team",
+            "members": [
+                {
+                    "name": "Rohit Singla",
+                    "title": "Advisor",
+                    "img": "static/img/teams/adv/rohit-singla.jpg",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Leo Stocco",
+                    "title": "Advisor",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Joseph Yan",
+                    "title": "Advisor",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "spon",
+            "icon": "fa-donate",
+            "tab": "Supporters",
+            "name": "Sponsors and Donors",
+            "members": [
+                {
+                    "name": "School of Biomedical Engineering",
+                    "title": "Sponsor",
+                    "img": "static/img/teams/spon/school-of-biomedical-engineering.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ment",
+            "icon": "fa-user",
+            "tab": "Mentorship",
+            "name": "Mentorship Program",
+            "members": [
+                {
+                    "name": "Justin Park",
+                    "title": "Head of Mentorship",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Coralie Tcheune",
+                    "title": "Mentee",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Hamza Peracha",
+                    "title": "Mentee",
+                    "img": "static/img/teams/ment/hamza-peracha.png",
+                    "link": "",
+                    "desc": [
+                       "BEST is a great opportunity for me to learn more about biomedical engineering in a more hands on manner."
+                    ]
+                },
+                {
+                    "name": "Laia Shpeller",
+                    "title": "Mentee",
+                    "img": "static/img/teams/ment/laia-shpeller.png",
+                    "link": "",
+                    "desc": [
+                       "I am in the first year pre-BME program and hope to become a Biomedical Engineer. In the future I hope to work on improving healthcare accessibility in less developed areas, which is why I chose to work with MAST this year."
+                    ]
+                },
+                {
+                    "name": "Jessica Yamamoto",
+                    "title": "Head of Mentorship",
+                    "img": "static/img/teams/ment/jessica-yamamoto.png",
+                    "link": "",
+                    "desc": [
+                       "As a Chemical Engineering student, I always aim to be multidisciplinary and learn as much as I can! The Biomedical field always astounds me with its new innovations and ways to help people globally and I am excited to be a part of it. I aim to learn new software skills on BEST, like MATLAB, to allow me to analyze data and arrive at the best solution for our client's needs."
+                    ]
+                },
+                {
+                    "name": "Dannon Sturn",
+                    "title": "Mentee",
+                    "img": "static/img/teams/ment/dannon-sturn.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Nozomi Asaoka",
+                    "title": "Mentee",
+                    "img": "static/img/teams/ment/nozomi-asaoka.png",
+                    "link": "",
+                    "desc": [
+                       "After two years with our Medical Innovation in Neurotechnology (MINT) team, I'm thrilled to be joining the BEST executives this year as COO.  I've always known that I wanted to pursue a creative, challenging and rewarding career that allowed me to help people. However, joining BEST allowed me to realize those goals much earlier than expected.  This team has offered me the opportunity to tackle real-world problems from an engineering perspective, and to witness student projects grow from ideas to fully-fledged devices that help people every day. That's one of the many reasons that it's a privilege to help represent the curious, passionate and talented students that make up this team.  I'm currently in my third year of school, studying Engineering Physics. My biomedical work experience consists of 8 months across two labs in the biomedical research field, with the first focusing on functional neuroimaging and the second on biomechanics and measurements from topographical indices.  This Spring, I'm working as a Product Design Engineering Co-op at MistyWest, a Vancouver-based engineering consultancy that has developed numerous medical devices."
+                    ]
+                },
+                {
+                    "name": "Chaehyeon Lee",
+                    "title": "Mentee",
+                    "img": "static/img/teams/ment/chaehyeon-lee.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Su Thida Htun",
+                    "title": "Mentee",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Bianca Kirsh",
+                    "title": "Head of Mentorship",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": "man",
-      "icon": "fa-balance-scale",
-      "tab": "Management",
-      "name": "Management Team",
-      "members": [
-        {
-          "name": "Jackson Robinson",
-          "title": "Femur Fracture Treatment Project Lead",
-          "img": "/static/img/teams/man/jackson-robinson.png",
-          "link": "https://www.linkedin.com/in/jackson-robinson-096974129/",
-          "desc": [
-            "I am a current Mechanical Engineering student with a Biomedical specialization. I have a strong passion for improving medical practice in developing countries, and am very excited to contribute to device development as a project lead of FFTP. My professional interests include biomechanics and numerical analysis, with previous experience working in the engineering consulting industry. When not at school, I spend time working as a skating instructor, hiking and playing guitar, and hope to successfully apply to a Canadian medical school upon graduation."
-          ]
-        },
-        {
-          "name": "Kirsty Hawke",
-          "title": "Music to Movement Project Lead",
-          "img": "/static/img/teams/man/kirsty-hawke.png",
-          "link": "",
-          "desc": [
-            "I have always been interested in the intersection of medicine and engineering and so joining the BEST team was the perfect way to combine these passions. The resources and guidance I received during my year in the mentorship program provided me with the skills to not only succeed within M2M but also in my project courses. With Angelica, the M2M co-lead, I hope to bring the hard work and contributions from all the M2M team members over the years to fruition and start clinical trials this year! BEST has helped me better my engineering and personal skills and I hope to provide the leadership needed to do the same for incoming and current members."
-          ]
-        },
-        {
-          "name": "Angelica Liaw",
-          "title": "Music to Movement Project Lead",
-          "img": "/static/img/teams/man/angelica-liaw.png",
-          "link": "",
-          "desc": [
-            "I am an Electrical Engineering student with Biomedical specialization who is passionate about learning how things work, and applying engineering knowledge towards creating innovative and practical designs in the biomedical sector. I am excited to lead this diverse group of students to continue progressing the M2M project and see it move closer to helping people with their rehabilitation process. When I am not submerged in work, I enjoy watching movies, going to the beach or sewing."
-          ]
-        },
-        {
-          "name": "Brian Ho",
-          "title": "Respiratory Rate Monitor Project Lead and Medical Applications and Software Team Project Lead",
-          "img": "/static/img/teams/man/brian-ho.png",
-          "link": "https://www.linkedin.com/in/brian-ho-4ba064136/",
-          "desc": [
-            "I have always had the passion and enthusiasm for using engineering to improve health care for those living in developing countries, and have discovered that UBC BEST is the perfect team for me. I am an Electrical Engineering Student specializing in the Biomedical Option. I am a passionate leader of the Respiratory Rate Monitor Project. I have experience at both software and hardware development through past work experience. I am looking forward to apply my knowledge and experiences from engineering to the team as I take on the leadership role.",
-            "I am excited to lead such a diverse group of students working on the RRM Project. This project has provided me the chance to make a significant impact on peopleâ€™s quality of life. I am thrilled to have the opportunity to contribute to this field. "
-          ]
-        },
-        {
-          "name": "Joshua Jessup",
-          "title": "ENABLE Project Lead",
-          "img": "",
-          "link": "",
-          "desc": [
-          ]
-        },
-        {
-          "name": "Joshua French",
-          "title": "ENABLE Project Lead",
-          "img": "/static/img/teams/man/joshua-french.png",
-          "link": "",
-          "desc": [
-            "Aspiring Biomedical Engineer and Social Entrepreneur passionate about innovation at the intersection of medicine and technology in order to improve lives."
-          ]
-        },
-        {
-          "name": "Han Nguyen",
-          "title": "Medical Innovation in NeuroTechnology Project Lead",
-          "img": "",
-          "link": "",
-          "desc": [
-            "Do you want to mind-control a device and feel excited when seeing your brainwaves? Do you want to learn new things and chat with awesome people every week? I do and that's why joining MINT is the best decision of my life. I spend my free time like a \"nerd\", and my favorite pet is rabbit since it eats its own poop."
-           ]
-        },
-        {
-          "name": "Kalen Forester",
-          "title": "Medical Innovation in NeuroTechnology Project Lead",
-          "img": "/static/img/teams/man/kalen-forester.png",
-          "link": "",
-          "desc": [
-           ]
-        },
-        {
-          "name": "Danika Unger",
-          "title": "Uplift Project Lead",
-          "img": "",
-          "link": "",
-          "desc": [
-          ]
-        },
-        {
-          "name": "Rebecca Lim",
-          "title": "Uplift Project Lead",
-          "img": "",
-          "link": "",
-          "desc": [
-          ]
-        },
-        {
-          "name": "Andrea Olaizola",
-          "title": "Biochemical Innovation Team Project Lead",
-          "img": "",
-          "link": "",
-          "desc": [
-          ]
-        },
-        {
-          "name": "Laveniya Kugathasan",
-          "title": "Biochemical Innovation Team Project Lead",
-          "img": "",
-          "link": "",
-          "desc": [
-          ]
-        },
-        {
-          "name": "Morgan Kaye",
-          "title": "International Collaborations Coordinator",
-          "img": "",
-          "link": "",
-          "desc": [
-          ]
-        }
-      ]
-    },
-    {
-      "id": "alum",
-      "icon": "fa-star",
-      "tab": "Alumni",
-      "name": "Alumni",
-      "members": [
-        {
-          "name": "Patrick Coleman",
-          "img": ""
-        },
-        {
-          "name": "Michelle Mak",
-          "img": ""
-        },
-        {
-          "name": "Carol Fu",
-          "img": ""
-        },
-        {
-          "name": "Emily Weemees",
-          "img": ""
-        },
-        {
-          "name": "Anthea Wong",
-          "img": ""
-        },
-        {
-          "name": "Sarah Mohn",
-          "img": ""
-        },
-        {
-          "name": "James Zhou",
-          "img": ""
-        },
-        {
-          "name": "Kyle Como",
-          "img": ""
-        },
-        {
-          "name": "Aidan Canil",
-          "img": ""
-        },
-        {
-          "name": "Clinton Large",
-          "img": ""
-        },
-        {
-          "name": "Georgia Grzybowski",
-          "img": ""
-        },
-        {
-          "name": "Brianna Snell",
-          "img": ""
-        },
-        {
-          "name": "Sean McGrath",
-          "img": ""
-        },
-        {
-          "name": "Karla Rivera",
-          "img": ""
-        },
-        {
-          "name": "Nabil Ali-Mohamad",
-          "img": ""
-        },
-        {
-          "name": "Glen Aggiss",
-          "img": ""
-        },
-        {
-          "name": "Meagan Woolsey",
-          "img": ""
-        },
-        {
-          "name": "Justine Sultan",
-          "img": ""
-        },
-        {
-          "name": "Giulio Pregnolato",
-          "img": ""
-        },
-        {
-          "name": "Kristyn Lee",
-          "img": ""
-        },
-        {
-          "name": "Nima Sarrafi",
-          "img": "/static/img/teams/alum/nima-sarrafi.jpg"
-        },
-        {
-          "name": "Parynaz Adamy",
-          "img": "/static/img/teams/alum/parynaz-adamy.jpg"
-        },
-        {
-          "name": "Amara Kraft",
-          "img": "/static/img/teams/alum/amara-kraft.jpg"
-        },
-        {
-          "name": "Blake Henderson",
-          "img": "/static/img/teams/alum/blake-henderson.jpg"
-        },
-        {
-          "name": "May Liang",
-          "img": "/static/img/teams/alum/may-liang.jpg"
-        },
-        {
-          "name": "Marysia Grzybowski",
-          "img": "/static/img/teams/alum/marysia-grzybowski.jpg"
-        },
-        {
-          "name": "Julie Kerr",
-          "img": "/static/img/teams/alum/julie-kerr.jpg"
-        },
-        {
-          "name": "Eric Cho",
-          "img": ""
-        },
-        {
-          "name": "Himani Kukreja",
-          "img": ""
-        },
-        {
-          "name": "Hannah Haghdadi",
-          "img": "/static/img/teams/alum/hannah-haghdadi.jpg"
-        },
-        {
-          "name": "Andrea Marshall",
-          "img": "/static/img/teams/alum/andrea-marshall.jpg"
-        },
-        {
-          "name": "Elizabeth Wicks",
-          "img": "/static/img/teams/alum/elizabeth-wicks.jpg"
-        },
-        {
-          "name": "Emil Maric",
-          "img": ""
-        },
-        {
-          "name": "Hamza Faran",
-          "img": ""
-        },
-        {
-          "name": "Isabel Keng",
-          "img": "/static/img/teams/alum/isabel-keng.jpg"
-        },
-        {
-          "name": "Kieran Wou",
-          "img": ""
-        },
-        {
-          "name": "Koushik Peri",
-          "img": ""
-        },
-        {
-          "name": "Marcus Cheung",
-          "img": ""
-        },
-        {
-          "name": "Muieen Cader",
-          "img": ""
-        },
-        {
-          "name": "Ryan Wong",
-          "img": "/static/img/teams/alum/ryan-wong.jpg"
-        },
-        {
-          "name": "Vivian Wong",
-          "img": ""
-        },
-        {
-          "name": "Sagar Patel",
-          "img": ""
-        },
-        {
-          "name": "Tina Saad",
-          "img": ""
-        },
-        {
-          "name": "Yin Yu Eunice Kwok",
-          "img": ""
-        },
-        {
-          "name": "Zachary Moshansky",
-          "img": ""
-        },
-        {
-          "name": "Juan Pablo Gomez",
-          "img": ""
-        },
-        {
-          "name": "Bhavsagar Malhi",
-          "img": ""
-        },
-        {
-          "name": "Tricia Jose",
-          "img": ""
-        }
-      ]
-    },
-    {
-      "id": "adv",
-      "icon": "fa-commenting",
-      "tab": "Advisor",
-      "name": "Advisor Team",
-      "members": [
-        {
-          "name": "Rohit Singla",
-          "title": "Advisor",
-          "img": "/static/img/teams/adv/rohit-singla.jpg",
-          "link": "",
-          "desc": [
-            "Rohit is an MASc candidate in Biomedical Engineering. His research is innovating surgical techniques for kidney cancer. "
-          ]
-        },
-        {
-          "name": "David Weekes",
-          "title": "Advisor",
-          "img": "",
-          "link": "",
-          "desc": [
-            "My passion for biotechnology and innovation stems from a project I was involved in at the start of 2016, in which myself and a small, interdisciplinary team of UBC students underwent the initial stages of building a health-and-wellness start-up.",
-            "We focused more on the business side of things, including customer discovery, financial planning, networking, and investment pitching; however, I am a scientist at heart, and I have lots of experience in publishing, experimental design, IP searches, and data processing."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "spon",
-      "icon": "fa-donate",
-      "tab": "Supporters",
-      "name": "Sponsors and Donors",
-      "members": [
-        {
-          "name": "School of Biomedical Engineering",
-          "position": "Sponsor",
-          "img": "/static/img/teams/spon/school_of_bmeg.png",
-          "desc": [
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ment",
-      "icon": "fa-user",
-      "tab": "Mentorship",
-      "name": "Mentorship Program",
-      "members": [
-        {
-          "name": "Justin Park",
-          "position": "Head of Mentorship",
-          "img": "",
-          "desc": [
-            ""
-          ]
-        },
-        {
-          "name": "Bianca Kirsh",
-          "position": "Head of Mentorship",
-          "img": "",
-          "desc": [
-            ""
-          ]
-        },
-          {
-          "name": "Jessica Yamamoto",
-          "position": "Head of Mentorship",
-          "img": "/static/img/teams/ment/jessica-yamamoto.png",
-          "desc": [
-            "As a Chemical Engineering student, I always aim to be multidisciplinary and learn as much as I can! The Biomedical field always astounds me with its new innovations and ways to help people globally and I am excited to be a part of it. I aim to learn new software skills on BEST, like MATLAB, to allow me to analyze data and arrive at the best solution for our clientâ€™s needs."
-          ]
-        },
-        {
-          "name": "Coralie Tcheune",
-          "position": "Mentee",
-          "img": "",
-          "desc": [
-            ""
-          ]
-        },
-        {
-          "name": "Hamza Peracha",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/hamza-peracha.png",
-          "desc": [
-            "BEST is a great opportunity for me to learn more about biomedical engineering in a more hands on manner."
-          ]
-        },
-        {
-          "name": "Laia Shpeller",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/laia-shpeller.png",
-          "desc": [
-            "I am in the first year pre-BME program and hope to become a Biomedical Engineer. In the future I hope to work on improving healthcare accessibility in less developed areas, which is why I chose to work with RRM this year."
-          ]
-        },
-        {
-          "name": "Dannon Sturn",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/dannon-sturn.png",
-          "desc": [
-            ""
-          ]
-        },
-        {
-          "name": "Nozomi Asaoka",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/nozomi-asaoka.png",
-          "desc": [
-            "I am thrilled to join UBC BEST and make new friends.  In the summer after high school, I job-shadowed a cardiac surgeon at St. Michaelâ€™s Hospital in Toronto.  This experience reaffirmed my passion for medicine, medical technology and my desire to study biomedical engineering.  I look forward to participating in ENABLEâ€™s work and taking my learning beyond the classroom!"
-          ]
-        },
-        {
-          "name": "Chaehyeon Lee",
-          "position": "Mentee",
-          "img": "/static/img/teams/ment/chaehyeon-lee.png",
-          "desc": [
-            ""
-          ]
-        },
-        {
-          "name": "Su Thida Htun",
-          "position": "Mentee",
-          "img": "",
-          "desc": [
-            ""
-          ]
-        }
-
-      ]
-    }
-  ]
+    ]
 }
