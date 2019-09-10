@@ -225,6 +225,7 @@ for projInfo in projectID:
     projComma = 1
         
     memberIndex = 0
+    #Puts project leads first for each project
     for memberCycle in name:
         if(((proj[memberIndex] == projectAbbr[projIndex]) & (role[memberIndex] == "Project Lead")) | ((role2[memberIndex] == "Project Lead") & (proj2[memberIndex] == projectAbbr[projIndex]))):
             if(memberComma == 1):
@@ -324,33 +325,66 @@ for teamInfo in teamID:
     memberIndex = 0
     memberComma = 0
     for memberCycle in name:
-        if ((proj[memberIndex] == str.upper(teamID[teamIndex])) | (proj2[memberIndex] == str.upper(teamID[teamIndex]))):
-            if(memberComma == 1):
-                teamsData.write(",\n")
-                memberComma = 0
-            teamsData.write("                {\n")
-            teamsData.write("                    \"name\": \"%s\",\n" % (name[memberIndex]))
-            if (proj[memberIndex] == str.upper(teamID[teamIndex])):
-                teamsData.write("                    \"title\": \"%s\",\n" % (role[memberIndex]))
-            else:
-                teamsData.write("                    \"title\": \"%s\",\n" % (role2[memberIndex]))
-            relativeImagePath1 = "../img/teams/" + teamID[teamIndex] + "/" + imageName[memberIndex] + ".jpg"
-            relativeImagePath2 = "../img/teams/" + teamID[teamIndex] + "/" + imageName[memberIndex] + ".png"
-            imagePath1 = os.path.join(currentPath, relativeImagePath1)
-            imagePath2 = os.path.join(currentPath, relativeImagePath2)
-            if os.path.exists(imagePath1):
-                teamsData.write("                    \"img\": \"static/img/teams/%s/%s.jpg\",\n" % (teamID[teamIndex], imageName[memberIndex]))
-            elif os.path.exists(imagePath2):
-                teamsData.write("                    \"img\": \"static/img/teams/%s/%s.png\",\n" % (teamID[teamIndex], imageName[memberIndex]))
-            else:
-                teamsData.write("                    \"img\": \"\",\n")
-            teamsData.write("                    \"link\": \"\",\n")
-            teamsData.write("                    \"desc\": [\n")
-            teamsData.write("                       \"%s\"\n" % (bio[memberIndex]))   
-            teamsData.write("                    ]\n")   
-            teamsData.write("                }")
-            memberComma = 1
+        #Puts HoM first for Mentorship Tab
+        if ((role[memberIndex] == "Head of Mentorship") | (role2[memberIndex] == "Head of Mentorship")):
+            if ((proj[memberIndex] == str.upper(teamID[teamIndex])) | (proj2[memberIndex] == str.upper(teamID[teamIndex]))):
+                if(memberComma == 1):
+                    teamsData.write(",\n")
+                    memberComma = 0
+                teamsData.write("                {\n")
+                teamsData.write("                    \"name\": \"%s\",\n" % (name[memberIndex]))
+                if (proj[memberIndex] == str.upper(teamID[teamIndex])):
+                    teamsData.write("                    \"title\": \"%s\",\n" % (role[memberIndex]))
+                else:
+                    teamsData.write("                    \"title\": \"%s\",\n" % (role2[memberIndex]))
+                relativeImagePath1 = "../img/teams/" + teamID[teamIndex] + "/" + imageName[memberIndex] + ".jpg"
+                relativeImagePath2 = "../img/teams/" + teamID[teamIndex] + "/" + imageName[memberIndex] + ".png"
+                imagePath1 = os.path.join(currentPath, relativeImagePath1)
+                imagePath2 = os.path.join(currentPath, relativeImagePath2)
+                if os.path.exists(imagePath1):
+                    teamsData.write("                    \"img\": \"static/img/teams/%s/%s.jpg\",\n" % (teamID[teamIndex], imageName[memberIndex]))
+                elif os.path.exists(imagePath2):
+                    teamsData.write("                    \"img\": \"static/img/teams/%s/%s.png\",\n" % (teamID[teamIndex], imageName[memberIndex]))
+                else:
+                    teamsData.write("                    \"img\": \"\",\n")
+                teamsData.write("                    \"link\": \"\",\n")
+                teamsData.write("                    \"desc\": [\n")
+                teamsData.write("                       \"%s\"\n" % (bio[memberIndex]))   
+                teamsData.write("                    ]\n")   
+                teamsData.write("                }")
+                memberComma = 1
         memberIndex = memberIndex + 1
+        
+    memberIndex = 0
+    for memberCycle in name:
+        if ((role[memberIndex] != "Head of Mentorship") & (role2[memberIndex] != "Head of Mentorship")):
+            if ((proj[memberIndex] == str.upper(teamID[teamIndex])) | (proj2[memberIndex] == str.upper(teamID[teamIndex]))):
+                if(memberComma == 1):
+                    teamsData.write(",\n")
+                    memberComma = 0
+                teamsData.write("                {\n")
+                teamsData.write("                    \"name\": \"%s\",\n" % (name[memberIndex]))
+                if (proj[memberIndex] == str.upper(teamID[teamIndex])):
+                    teamsData.write("                    \"title\": \"%s\",\n" % (role[memberIndex]))
+                else:
+                    teamsData.write("                    \"title\": \"%s\",\n" % (role2[memberIndex]))
+                relativeImagePath1 = "../img/teams/" + teamID[teamIndex] + "/" + imageName[memberIndex] + ".jpg"
+                relativeImagePath2 = "../img/teams/" + teamID[teamIndex] + "/" + imageName[memberIndex] + ".png"
+                imagePath1 = os.path.join(currentPath, relativeImagePath1)
+                imagePath2 = os.path.join(currentPath, relativeImagePath2)
+                if os.path.exists(imagePath1):
+                    teamsData.write("                    \"img\": \"static/img/teams/%s/%s.jpg\",\n" % (teamID[teamIndex], imageName[memberIndex]))
+                elif os.path.exists(imagePath2):
+                    teamsData.write("                    \"img\": \"static/img/teams/%s/%s.png\",\n" % (teamID[teamIndex], imageName[memberIndex]))
+                else:
+                    teamsData.write("                    \"img\": \"\",\n")
+                teamsData.write("                    \"link\": \"\",\n")
+                teamsData.write("                    \"desc\": [\n")
+                teamsData.write("                       \"%s\"\n" % (bio[memberIndex]))   
+                teamsData.write("                    ]\n")   
+                teamsData.write("                }")
+                memberComma = 1
+        memberIndex = memberIndex + 1   
         
     teamsData.write("\n")
     teamsData.write("            ]\n")
