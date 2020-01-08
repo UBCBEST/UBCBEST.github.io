@@ -42,21 +42,21 @@
             "name": "Management Team",
             "members": [
                 {
-                    "name": "Alessandro Narciso",
-                    "title": "MAST Project Lead",
-                    "img": "static/img/teams/man/alessandro-narciso.jpg",
-                    "link": "",
-                    "desc": [
-                       "Ever since I first became interested in engineering, the innovations that astounded me the most were the biomedical ones. The concept of being able to save someone's life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my fourth year of Electrical Engineering.  When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA-EMR) where I worked on designing and testing the user interface. After the project was completed, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code. I later then transitioned to the Chief Operations Officer role, and am now serving as BEST's Chief Executive Officer.  My work experience consists of 3 work terms, one with the Government of Alberta, Department of Economic Development and Trade, where I aided my team in marketing Albertan corporations to attract foreign investment. I also worked with Dynamic Attractions where I worked with robotics to develop ride vehicle systems for the entertainment industry. I also worked as an ICT Engineering Intern with Huawei Technologies, working with mobile/computer networking technologies, artificial intelligence, cloud computing, and 5G.  Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 4 years and I hope to keep contributing to the club's success by taking on the role of CEO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
-                    ]
-                },
-                {
                     "name": "Andrea Olaizola",
                     "title": "BIT Project Lead",
                     "img": "static/img/teams/man/andrea-olaizola.png",
                     "link": "",
                     "desc": [
                        "I'm currently majoring in chemistry and biology at UBC. I've always been passionate about design, technology and medicine. What motivates me the most is being able to contribute in the development of innovative and more efficient technologies to improve healthcare and quality of life. I'm excited to work with BEST and learn more about the biomedical industry. "
+                    ]
+                },
+                {
+                    "name": "Laveniya Kugathasan",
+                    "title": "BIT Project Lead",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       ""
                     ]
                 },
                 {
@@ -71,10 +71,19 @@
                 {
                     "name": "Joshua Jessup",
                     "title": "ENABLE Project Lead",
-                    "img": "",
+                    "img": "static/img/teams/man/joshua-jessup.png",
                     "link": "",
                     "desc": [
                        ""
+                    ]
+                },
+                {
+                    "name": "Alessandro Narciso",
+                    "title": "MAST Project Lead",
+                    "img": "static/img/teams/man/alessandro-narciso.jpg",
+                    "link": "",
+                    "desc": [
+                       "Ever since I first became interested in engineering, the innovations that astounded me the most were the biomedical ones. The concept of being able to save someone's life or improve it through biomedical innovations was so inspiring to me. This drove me to join BEST in the beginning of my first year at UBC and I have been a member of the club ever since. I am currently finishing my fourth year of Electrical Engineering.  When first joining BEST, I was member of the Infectious Disease Emergency Aid - Electronic Medical Records System Project (IDEA-EMR) where I worked on designing and testing the user interface. After the project was completed, I was a member of the Respiratory Rate Monitor Project where I worked on troubleshooting and developing the prototype code. I later then transitioned to the Chief Operations Officer role, and am now serving as BEST's Chief Executive Officer.  My work experience consists of 3 work terms, one with the Government of Alberta, Department of Economic Development and Trade, where I aided my team in marketing Albertan corporations to attract foreign investment. I also worked with Dynamic Attractions where I worked with robotics to develop ride vehicle systems for the entertainment industry. I also worked as an ICT Engineering Intern with Huawei Technologies, working with mobile/computer networking technologies, artificial intelligence, cloud computing, and 5G.  Being a part of BEST has been the highlight of my university career. BEST has given me the chance to develop my technical skills for the past 4 years and I hope to keep contributing to the club's success by taking on the role of CEO. It is so exciting to be a part of such a talented and driven group of students who are changing the world through biomedical innovation."
                     ]
                 },
                 {
@@ -105,12 +114,21 @@
                     ]
                 },
                 {
-                    "name": "Kalen Forester",
-                    "title": "MINT Project Lead",
-                    "img": "static/img/teams/man/kalen-forester.png",
+                    "name": "Emma Katchur-Marsh",
+                    "title": "Safety Officer",
+                    "img": "",
                     "link": "",
                     "desc": [
                        ""
+                    ]
+                },
+                {
+                    "name": "Lisa Kirby",
+                    "title": "MAST Project Lead",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       "It is a life-long goal to eventually end up working in Global Health, so I am extremely excited to have the opportunity to work on the Respiratory Rate Monitor project with such bright teammates. I have experience working as a web applications developer for the Canadian Federal Government and enjoy developing everything from low-level FPGA hardware to high-level software for web and mobile applications. In my spare time, I love studying the brain, reading biographies, and eating good food. "
                     ]
                 },
                 {
@@ -123,18 +141,9 @@
                     ]
                 },
                 {
-                    "name": "Rebecca Lim",
-                    "title": "UPLIFT Project Lead",
-                    "img": "",
-                    "link": "",
-                    "desc": [
-                       "As a third-generation UBC student, I am excited to be studying at UBC while gaining an enriched learning experience through my involvement with BEST. My passion for biomedical engineering was sparked by an interest in anatomical systems and an affinity for problem-solving and design. My work ethic and curiosity drive my enthusiasm for developing my technical skills and learning about engineering processes through practical applications. Beyond my studies and BEST, I enjoy playing hockey and spending time with my dog."
-                    ]
-                },
-                {
-                    "name": "Laveniya Kugathasan",
-                    "title": "BIT Project Lead",
-                    "img": "",
+                    "name": "Kalen Forester",
+                    "title": "MINT Project Lead",
+                    "img": "static/img/teams/man/kalen-forester.png",
                     "link": "",
                     "desc": [
                        ""
@@ -146,7 +155,16 @@
                     "img": "",
                     "link": "",
                     "desc": [
-                       ""
+                       "I am a second year Integrated Engineering student with a passion for the intersection between medicine and engineering. I am interested in project management and the engineering consulting industry. BEST allows me to gain valuable technical knowledge and offers me the opportunity to develop my leadership skills - contributing to both my personal and professional growth. "
+                    ]
+                },
+                {
+                    "name": "Rebecca Lim",
+                    "title": "UPLIFT Project Lead",
+                    "img": "",
+                    "link": "",
+                    "desc": [
+                       "As a third-generation UBC student, I am excited to be studying at UBC while gaining an enriched learning experience through my involvement with BEST. My passion for biomedical engineering was sparked by an interest in anatomical systems and an affinity for problem-solving and design. My work ethic and curiosity drive my enthusiasm for developing my technical skills and learning about engineering processes through practical applications. Beyond my studies and BEST, I enjoy playing hockey and spending time with my dog."
                     ]
                 }
             ]
@@ -377,6 +395,15 @@
                     "name": "Justine Sultan",
                     "title": "Alumni",
                     "img": "static/img/teams/alum/justine-sultan.png",
+                    "link": "",
+                    "desc": [
+                       ""
+                    ]
+                },
+                {
+                    "name": "Karen Woodward",
+                    "title": "Alumni",
+                    "img": "",
                     "link": "",
                     "desc": [
                        ""
@@ -668,15 +695,6 @@
             "name": "Mentorship Program",
             "members": [
                 {
-                    "name": "Justin Park",
-                    "title": "Head of Mentorship",
-                    "img": "",
-                    "link": "",
-                    "desc": [
-                       ""
-                    ]
-                },
-                {
                     "name": "Jessica Yamamoto",
                     "title": "Head of Mentorship",
                     "img": "static/img/teams/ment/jessica-yamamoto.png",
@@ -686,7 +704,7 @@
                     ]
                 },
                 {
-                    "name": "Bianca Kirsh",
+                    "name": "Justin Park",
                     "title": "Head of Mentorship",
                     "img": "",
                     "link": "",
@@ -695,7 +713,16 @@
                     ]
                 },
                 {
-                    "name": "Coralie Tcheune",
+                    "name": "Angelica Phelan",
+                    "title": "Mentee",
+                    "img": "static/img/teams/ment/angelica-phelan.png",
+                    "link": "",
+                    "desc": [
+                       "I am very excited to be a part of BEST since I have always had a passion for innovation in the medical field and love to contribute to bettering other people's lives.  These interests originated from my experience volunteering at a thermofluidic lab at UBC Okanagan as well as training to become an EMR."
+                    ]
+                },
+                {
+                    "name": "Elana Wood",
                     "title": "Mentee",
                     "img": "",
                     "link": "",
@@ -704,57 +731,75 @@
                     ]
                 },
                 {
-                    "name": "Hamza Peracha",
+                    "name": "Masih Golbidi",
                     "title": "Mentee",
-                    "img": "static/img/teams/ment/hamza-peracha.png",
+                    "img": "static/img/teams/ment/masih-golbidi.png",
                     "link": "",
                     "desc": [
-                       "BEST is a great opportunity for me to learn more about biomedical engineering in a more hands on manner."
+                       "As someone who has always been excited and inspired by engineering innovations in the biomedical field, I am excited to integrate my own ideas into this field with UBC's Biomedical Engineering Student Team. As a mentee, I hope to learn from my team while integrating my own skills into our project solutions. By applying my knowledge from lectures, labs, and extracurricular activities, I wish to improve the lives of patients with our biomedical solutions."
                     ]
                 },
                 {
-                    "name": "Laia Shpeller",
+                    "name": "Nicole Gonin",
                     "title": "Mentee",
-                    "img": "static/img/teams/ment/laia-shpeller.png",
+                    "img": "static/img/teams/ment/nicole-gonin.png",
                     "link": "",
                     "desc": [
-                       "I am in the first year pre-BME program and hope to become a Biomedical Engineer. In the future I hope to work on improving healthcare accessibility in less developed areas, which is why I chose to work with MAST this year."
+                       "I am excited about biomedical engineering and UBC BEST's projects because of the opportunity these provide to make medical assistance accessible to the individual and to the larger global community. During my time with BEST and at UBC, I hope to learn how and in what ways I can help the biomedical community reach these goals. I spend my free time hiking, biking and trying (unsuccessfully) to learn how to cook. "
                     ]
                 },
                 {
-                    "name": "Dannon Sturn",
+                    "name": "Olivia Kim",
                     "title": "Mentee",
-                    "img": "static/img/teams/ment/dannon-sturn.png",
+                    "img": "static/img/teams/ment/olivia-kim.png",
                     "link": "",
                     "desc": [
                        ""
                     ]
                 },
                 {
-                    "name": "Nozomi Asaoka",
+                    "name": "Rae Mazzei",
                     "title": "Mentee",
-                    "img": "static/img/teams/ment/nozomi-asaoka.png",
+                    "img": "static/img/teams/ment/rae-mazzei.png",
                     "link": "",
                     "desc": [
-                       ""
+                       "BEST is an incredible opportunity for me to be emerged into the biomedical community. This team provides a hands-on manner of learning which has expanded my problem-solving techniques as well as pushed me to become more innovative. "
                     ]
                 },
                 {
-                    "name": "Chaehyeon Lee",
+                    "name": "Rhea Kaul",
                     "title": "Mentee",
-                    "img": "static/img/teams/ment/chaehyeon-lee.png",
+                    "img": "static/img/teams/ment/rhea-kaul.png",
                     "link": "",
                     "desc": [
-                       ""
+                       "As a first year in engineering I am excited to learn and explore ! "
                     ]
                 },
                 {
-                    "name": "Su Thida Htun",
+                    "name": "Ryan Sutherland-Pace",
                     "title": "Mentee",
-                    "img": "",
+                    "img": "static/img/teams/ment/ryan-sutherland-pace.png",
                     "link": "",
                     "desc": [
-                       ""
+                       "Biomedical Engineering has always been an interest to me. I hope to use my experience with robotics and the new skills I learn through BEST to learn more about this field and develop some innovative solutions to prevalent problems in society."
+                    ]
+                },
+                {
+                    "name": "Stephanie Quon",
+                    "title": "Mentee",
+                    "img": "static/img/teams/ment/stephanie-quon.png",
+                    "link": "",
+                    "desc": [
+                       "I am super excited to be part of BEST this year! I hope to gain technical skills through the mentorship program, and learn more about what engineering is and how it can be used to help people."
+                    ]
+                },
+                {
+                    "name": "Vivian Osiek",
+                    "title": "Mentee",
+                    "img": "static/img/teams/ment/vivian-osiek.png",
+                    "link": "",
+                    "desc": [
+                       "I have a passion for biomedical innovation and the connections between medicine and technology. I am interested in exploring biomedical fields such as tissue engineering, assistive devices, and biomaterials. The more I learn, the more I appreciate the ways that technology can be applied to improve quality of life. "
                     ]
                 }
             ]
