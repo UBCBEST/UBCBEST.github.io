@@ -1,7 +1,7 @@
 # ubcbest-website
 _Website for Biomedical Engineering Student Team_  
 
-![logo](./static/img/best-logo.gif)
+![logo](static/deprecated/img/best-logo.gif)
 
 To run this locally, you must install the `Python` and `Flask` on your
 computer.  

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="BEST is UBC's Biomedical Engineering Student Team, dedicated to effecting a positive impact on global healthcare.">
+    <meta name="keywords"
+          content="ubc, university of british columbia, best, biomedical, engineering, student, team, healthcare, imdi, international medical device initiative">
+    <meta name="author" content="Rahat Dhande">
+
+    <meta property="og:url" content="http://ubc-best.appspot.com"/>
+    <meta property="og:title" content="We are UBC BEST"/>
+    <meta property="og:site_name" content="UBC BEST"/>
+    <meta property="og:image" content="http://ubc-best.appspot.com/static/img/best-logo.gif"/>
+    <meta property="og:image:type" content="image/png"/>
+    <meta property="og:image:height" content="600"/>
+    <meta property="og:image:width" content="400"/>
+    <meta property="og:description"
+          content="BEST is UBC's Biomedical Engineering Student Team, dedicated to effecting a positive impact on global healthcare."/>
+
+    <link rel="stylesheet" href="/static/deprecated/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/deprecated/assets/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/static/deprecated/assets/css/animate.css">
+    <link rel="stylesheet" href="/static/deprecated/css/custom.css">
+
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+    <title>best &middot; biomedical engineering student team</title>
+
+    <link rel="shortcut icon" type="image/gif" href="/static/deprecated/img/best-logo-icon.gif">
+</head>
+<body id="page-top">
+
+<nav id="main-nav" class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#collapse-menu">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">
+                <img src="/static/deprecated/img/best-logo.gif" class="img-logo"/>
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="collapse-menu">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a class="page-scroll" href="#about">About</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#teams">Teams</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#projects">Projects</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#updates">Updates</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#join">Join</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div parallax-background class="bulbs photo" parallax-ratio="0.7">
+    <div class="container">
+        <div class="row headliner">
+            <p class="massive lead col-xs-12 text-center wow fadeInUp">Welcome</p>
+            <p class="title lead col-xs-12 text-center wow fadeInUp">
+                We Are UBC <span class="red bold">BEST</span>
+            </p>
+            <p class="col-xs-12 lead mini text-center wow fadeInUp">
+                University of British Columbia's <br/>
+                <span class="red bold">B</span>iomedical
+                <span class="red bold">E</span>ngineering
+                <span class="red bold">S</span>tudent
+                <span class="red bold">T</span>eam
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="pad">
+    <div class="row" id="about">
+        <div class="col-xs-12 col-sm-4 text-center">
+            <h1><i class="fa fa-info-circle"></i>&ensp;<span class="red">About</span></h1>
+            <p class="text-justify">
+                We are a multi-disciplinary team of students from the Faculty of Applied Science
+                (Engineering), Science, Sauder School of Business, Kinesiology, Arts and Medicine focused on developing
+                context appropriate solutions to medical challenges worldwide.
+            </p>
+        </div>
+
+        <div class="col-xs-12 col-sm-4 text-center">
+            <h1><i class="fa fa-line-chart"></i>&ensp;<span class="red">Vision</span></h1>
+            <p class="text-justify">
+                Build a multidisciplinary community that cultivates networking, technical growth, and collaboration in
+                the
+                biomedical field at UBC.
+            </p>
+        </div>
+
+        <div class="col-xs-12 col-sm-4 text-center">
+            <h1><i class="fa fa-hand-grab-o"></i>&ensp;<span class="red">Mission</span></h1>
+            <ul class="text-justify list-unstyled">
+                <li>Successfully implement relevant technology in the medical community to optimize care.</li>
+                <li>Develop our members both technically and professionally.</li>
+                <li>Promote student learning of entrepreneurship in the biomedical field.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <h1 class="col-xs-12 text-center"><i class="fa fa-image"></i>&ensp;<span class="red">Gallery</span></h1>
+    <div id="gallery" class="col-xs-12 col-sm-offset-1 col-sm-10" ng-controller="galleryController">
+        <div class="item" ng-class="{ 'portrait': image.orientation === 'portrait' }" ng-repeat="image in images"
+             style="background-image: url({[ image.img ]})">
+            <a class="item-tooltip" href="{[ image.img ]}" data-toggle="tooltip" data-placement="auto"
+               title="{[ image.date ]}" target="_blank">
+                <div class="gallery-text">
+                    <p>{[ image.caption ]}</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<teams-directive></teams-directive>
+
+<projects-directive></projects-directive>
+
+<div class="pad" id="updates">
+    <h1 class="red">Updates</h1>
+    <div id="updates-wrapper" parallax-background class="presentation photo" parallax-ratio="0.5"
+         parallax-vertical-offset="500">
+        <div class="fb-wrapper">
+            <div class="fb-page" data-href="https://www.facebook.com/best.ubc" data-tabs="timeline"
+                 data-small-header="false"
+                 data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"
+                 data-width="500">
+                <blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a
+                        href="https://www.facebook.com/facebook">Facebook</a></blockquote>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="pad" id="join" ng-controller="applyController">
+    <h1 class="red">Join</h1>
+    <div class="row">
+        <div class="col-xs-12" ng-show="recruitmentMessage">
+            <blockquote>
+                <i class="red fa fa-exclamation-triangle" ng-show="activeRecruitment"></i>
+                {[ recruitmentMessage ]}<br/>
+                <a ng-repeat="link in links" ng-show="activeRecruitment" href="{[ link.href ]}" target="_blank"
+                   class="red">
+                    {[ link.name ]}<br/>
+                </a>
+            </blockquote>
+        </div>
+        <div class="col-xs-6 col-sm-3">
+            <h2><i class="fa fa-child"></i>&nbsp;Undergrad Student</h2>
+            <p>
+                UBC BEST consistently recruits talented undergraduate students to contribute to our projects. Please
+                refer to our active postings to see if we are currently recruiting for specific positions.
+                <br/>
+                If you feel as if you are not technically experienced for the open roles, be sure to check out our
+                Mentorship Program.
+            </p>
+        </div>
+        <div class="col-xs-6 col-sm-3">
+            <h2><i class="fa fa-graduation-cap"></i>&nbsp;Graduate Student</h2>
+            <p>
+                Although UBC BEST does not have any graduate students working as technical members, we are always
+                interested in speaking to potential advisors. Currently, we have multiple graduate students who
+                contribute to our team by acting as an advisor to one or more of the projects. If you think you had
+                skills that could benefit BEST, please get in touch!
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <h2><i class="fa fa-stethoscope"></i>&nbsp;Medical Professional</h2>
+            <p>
+                UBC BEST is always looking for new projects to work on that address challenges in the medical field.
+                If you have an idea, would like to get involved as an advisor, or just want to hear more about our team
+                then we would appreciate the opportunity to meet with you.
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <h2><i class="fa fa-industry"></i>&nbsp;Industry Member</h2>
+            <p>
+                UBC BEST benefits greatly from advisors in the engineering field. If you are interested in learning
+                more about BEST and contributing to our team, then we would appreciate the opportunity to get in touch
+                and explore areas for collaboration.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="stats-container">
+    <section class="container">
+        <div class="row wow fadeIn" data-wow-delay="0.3s">
+            <div class="col-sm-4 text-center">
+                <i class="fa fa-cogs fa-3x"></i>
+                <counter count-to="25" text="prototypes built" step="1"></counter>
+            </div>
+            <div class="col-sm-4 text-center" data-wow-delay="0.3s">
+                <i class="fa fa-terminal fa-3x"></i>
+                <counter count-to="34246" text="lines of code written" step="546"></counter>
+            </div>
+            <div class="col-sm-4 text-center" data-wow-delay="0.3s">
+                <i class="fa fa-globe fa-3x"></i>
+                <counter count-to="300" text="people reached" step="6"></counter>
+            </div>
+        </div>
+    </section>
+</div>
+
+<div parallax-background class="bulbs photo" parallax-ratio="0.1" id="contact">
+    <contact></contact>
+</div>
+
+<script src="/static/deprecated/assets/js/jquery-2.2.1.min.js"></script>
+<script src="/static/deprecated/assets/js/jquery-easing.min.js"></script>
+<script src="/static/deprecated/assets/js/bootstrap.min.js"></script>
+<script src="/static/deprecated/assets/js/angular.min.js"></script>
+<script src="/static/deprecated/assets/js/angular-parallax.js"></script>
+<script src="/static/deprecated/assets/js/angular-sanitize.min.js"></script>
+<script src="/static/deprecated/assets/js/wow.min.js"></script>
+<script src="/static/deprecated/assets/js/stellar.min.js"></script>
+<script src="/static/deprecated/assets/js/creative.js"></script>
+<script src="/static/deprecated/angular/counterApp.js"></script>
+<script src="/static/deprecated/angular/app.js"></script>
+<script src="/static/deprecated/angular/controllers/galleryController.js"></script>
+<script src="/static/deprecated/angular/controllers/teamsController.js"></script>
+<script src="/static/deprecated/angular/controllers/projectsController.js"></script>
+<script src="/static/deprecated/angular/controllers/contactController.js"></script>
+<script src="/static/deprecated/angular/controllers/applyController.js"></script>
+<script src="/static/deprecated/angular/services/dataFactory.js"></script>
+
+</body>
+</html>
