@@ -169,12 +169,13 @@ p {
 
 .section {
   position: relative;
-  padding: 80px 10px;
+  padding: 80px 10px 20px;
   background-color: #fff;
   text-align: center;
 }
 
 .section.accent {
+  padding-bottom: 80px;
   background-color: #192024;
 }
 
@@ -368,6 +369,7 @@ p {
 }
 
 .white-text {
+  margin-top: 20px;
   margin-bottom: 20px;
   color: #fff;
 }
@@ -443,6 +445,10 @@ p {
 
 .text-span-8 {
   text-align: left;
+}
+
+.link {
+  color: #edeff2;
 }
 
 html.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
