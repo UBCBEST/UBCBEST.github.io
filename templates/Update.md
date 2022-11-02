@@ -1,0 +1,1 @@
+This file used to contain the folder `/deprecated` and the files `contact.html` as well as `index.html`.
